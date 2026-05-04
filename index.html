@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Daily Intelligence Brief</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+  <div id="app">
+    <!-- Header -->
+    <header class="header">
+      <div class="header-inner">
+        <div class="header-brand">
+          <span class="brand-icon">🔷</span>
+          <h1 class="brand-title">Intelligence Brief</h1>
+          <span class="brand-badge" id="deadline-count">0</span>
+        </div>
+        <div class="header-actions">
+          <div class="search-box">
+            <span class="search-icon">⌕</span>
+            <input type="text" id="search-input" placeholder="Search past briefs..." />
+          </div>
+          <button class="btn-icon" id="theme-toggle" title="Toggle theme">◐</button>
+        </div>
+      </div>
+      <div class="header-meta">
+        <span id="brief-count">Loading...</span>
+        <span class="meta-dot">·</span>
+        <span id="last-updated">—</span>
+      </div>
+    </header>
+
+    <!-- Deadline Alerts -->
+    <section id="deadline-panel" class="deadline-panel hidden">
+      <div class="deadline-header">
+        <span class="deadline-icon">⏰</span>
+        <span>Upcoming Deadlines</span>
+      </div>
+      <div id="deadline-list" class="deadline-list"></div>
+    </section>
+
+    <!-- Filters -->
+    <nav class="filters" id="filters">
+      <button class="filter-pill active" data-filter="all">All</button>
+      <button class="filter-pill" data-filter="axa">AXA</button>
+      <button class="filter-pill" data-filter="ai">🤖 AI</button>
+      <button class="filter-pill" data-filter="nigeria">🇳🇬 Nigeria</button>
+      <button class="filter-pill" data-filter="opportunity">🎯 Opportunity</button>
+      <button class="filter-pill" data-filter="tech">💻 Tech</button>
+      <button class="filter-pill" data-filter="deadline">⏰ Deadlines</button>
+      <button class="filter-pill" data-filter="duplicate">🔁 Duplicates</button>
+    </nav>
+
+    <!-- Timeline -->
+    <main class="timeline" id="timeline"></main>
+
+    <!-- Empty state -->
+    <div id="empty-state" class="empty-state hidden">
+      <div class="empty-icon">🔍</div>
+      <h3>No briefs found</h3>
+      <p>Try a different search or filter.</p>
+    </div>
+
+    <!-- Loading -->
+    <div id="loading" class="loading">
+      <div class="loading-spinner"></div>
+      <p>Loading brief archive...</p>
+    </div>
+  </div>
+
+  <script src="assets/app.js"></script>
+</body>
+</html>
