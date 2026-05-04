@@ -1,25 +1,10 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-05-04T13:44:31Z",
-    "total_articles": 1,
-    "total_days": 1
+    "last_updated": "2026-05-04T12:00:00Z",
+    "total_articles": 0,
+    "total_days": 0
   },
-  "articles": [
-    {
-      "id": "1c103035b933",
-      "title": "Test article",
-      "url": "https://example.com",
-      "summary": "This is a test",
-      "source": "TechCrunch",
-      "angle": "Test angle",
-      "score": 5,
-      "date": "2026-05-04",
-      "tags": [
-        "tech"
-      ],
-      "duplicate_of": null
-    }
-  ],
+  "articles": [],
   "deadlines": []
 }
