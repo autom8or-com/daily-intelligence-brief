@@ -235,4 +235,18 @@ document.addEventListener('DOMContentLoaded', () => {
     clearTimeout(debounceTimer);
     debounceTimer = setTimeout(applyFilters, 200);
   });
+
+  // Theme toggle
+  const themeToggle = document.getElementById('theme-toggle');
+  const savedTheme = localStorage.getItem('brief-theme');
+  if (savedTheme === 'light') {
+    document.body.classList.add('light');
+    themeToggle.textContent = '◑';
+  }
+  themeToggle.addEventListener('click', () => {
+    document.body.classList.toggle('light');
+    const isLight = document.body.classList.contains('light');
+    themeToggle.textContent = isLight ? '◑' : '◐';
+    localStorage.setItem('brief-theme', isLight ? 'light' : 'dark');
+  });
 });
