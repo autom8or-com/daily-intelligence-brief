@@ -1,10 +1,3445 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-05-04T12:00:00Z",
-    "total_articles": 0,
-    "total_days": 0
+    "last_updated": "2026-05-05T10:21:36Z",
+    "total_articles": 239,
+    "total_days": 1
   },
-  "articles": [],
+  "articles": [
+    {
+      "id": "c22375bafcff",
+      "title": "v3.3.0",
+      "url": "https://github.com/OpenCoworkAI/open-cowork/releases/tag/v3.3.0",
+      "summary": "Open Cowork v3.3.0 \u2014 First Stable Release \ud83c\udf89 The first stable release of the 3.3.x series, graduating from 9 beta iterations. This release brings security hardening, improved multi-model support, remot",
+      "source": "Open Cowork",
+      "angle": "Open-source Claude alternative \u2014 evaluate for local-first AI stack and PORA demos.",
+      "score": 23,
+      "date": "2026-05-05",
+      "tags": [
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c1700ab3361c",
+      "title": "v0.1.4",
+      "url": "https://github.com/OpenCoworkAI/open-codesign/releases/tag/v0.1.4",
+      "summary": "\ud83c\udf10 Languages: English (below) \u00b7 \u7b80\u4f53\u4e2d\u6587 v0.1.4 \u2014 AI images, ChatGPT subscription login, and a big reliability wave Everything you'd run into on a tricky API setup now tells you exactly what's wrong \u2014 plus",
+      "source": "Open CoDesign",
+      "angle": "Open-source Claude alternative \u2014 evaluate for local-first AI stack and PORA demos.",
+      "score": 20,
+      "date": "2026-05-05",
+      "tags": [
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5f6b28c8d735",
+      "title": "AXA Mansard urges businesses to adopt sustainable models for climate risks - Business News Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMGJMc042OGU5RXkzY0F5eC03X29HT3RERXBmZ3VLdXhrcnNWRzBSNTk1NnczbkNyMnpmYkE3aHdKN3lxXzZoUHl3TjVncFFfSFotREJCODlfalRib2gtZ1k0emJDTlBDLWtJUUIyc2NpZ18xUVVxT3VidW5Ea09iNVlWa1czZS11MUdkeHY0eGJTSlF4MjJWeFFPQ2JkVHFuM2RZeEdxSzBIWndaemJNbVZJQWNvZE3SAbwBQVVfeXFMT1JvcTdzTld5RzgyMl9QOWxJeWx2REVmZmdRMDJWVnoyd0VkY3Jqc3RrZDNmYy0ycW90S0dVSjhqTGZ3NnpSV3VqVC1CbFNvX00xRk15aVJkRGR5UmxNa2lmSlBiVzVFczZoS18yRzZJTjJaOXpLaEo2VmtHa0FjRGpNZ2RNWk9MOVpocUhhWEZBXzhIQ3hYdXVUMmZqQlBxcXJSTjcteG9iSjZxZkpTdHhEYmEyUmlMOGJ2WDA?oc=5",
+      "summary": "AXA Mansard urges businesses to adopt sustainable models for climate risks\u00a0\u00a0Business News Nigeria",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 16,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8a14211186b1",
+      "title": "v3.3.0-beta.6 \u2014 Security Hardening Release",
+      "url": "https://github.com/OpenCoworkAI/open-cowork/releases/tag/v3.3.0-beta.6",
+      "summary": "3-round comprehensive security audit (103 review agents, 500+ issues found) 242+ fixes across all modules Encryption: AES-256-GCM migration, safeStorage key binding, random salt Sandbox: Command injec",
+      "source": "Open Cowork",
+      "angle": "Open-source Claude alternative \u2014 evaluate for local-first AI stack and PORA demos.",
+      "score": 16,
+      "date": "2026-05-05",
+      "tags": [
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f1e2029b09be",
+      "title": "Deploy n8n agents that show up as members of the team inside Microsoft apps",
+      "url": "https://blog.n8n.io/deploy-n8n-agents-that-show-up-as-members-of-the-team-inside-microsoft-apps/",
+      "summary": "With the general availability of Microsoft Agent 365, n8n users can now build AI agents that show up inside the Microsoft 365 applications where people get work done. Now you can @mention agents built",
+      "source": "n8n Blog",
+      "angle": "Enhance enterprise n8n flows or add to PORA AI Automation curriculum.",
+      "score": 13,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "37e02ae5b78d",
+      "title": "Firecrawl + n8n: real-time web data for your AI workflows",
+      "url": "https://blog.n8n.io/firecrawl-n8n-real-time-web-data-for-your-ai-workflows/",
+      "summary": "Firecrawl is offering 100,000 credits when you connect through n8n Cloud*We've partnered with Firecrawl to make it easier than ever to bring web data into your n8n workflows. Connect to Firecrawl in o",
+      "source": "n8n Blog",
+      "angle": "Enhance enterprise n8n flows or add to PORA AI Automation curriculum.",
+      "score": 13,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ef2f08919ec2",
+      "title": "v3.3.0-beta.8",
+      "url": "https://github.com/OpenCoworkAI/open-cowork/releases/tag/v3.3.0-beta.8",
+      "summary": "What's New in v3.3.0-beta.8 Build Reliability Overhaul This release introduces a three-layer defense system to ensure packaged builds work correctly after installation: Pre-build verification \u2014 A new ",
+      "source": "Open Cowork",
+      "angle": "Open-source Claude alternative \u2014 evaluate for local-first AI stack and PORA demos.",
+      "score": 13,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b31ee9ac5bed",
+      "title": "AXA GBS CEO on how AI, data analytics is driving digital transformation in insurance - Techcircle",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdm1DR1c4alNtOFJJenFUbWVFQkVNS0V4LUJpTnlXX1Y5M2VudnBKcldneUNibl9TNndzU18zMWprTDFQM25naUV0RnZqM2tpS1RBU0YwWkNmUThqOVpWOGsxTmc1ZGM3ckNDU3Nlek84cmYwc0xaajBtdTlJSDA2R0U5QjQwZ2U3eWxVYTZXUDdrMzVqVHJkTC1vOEpfZThwX1pWWGhRSXJFbFhLY2NYZGdsWmVUal94Z1pJSA?oc=5",
+      "summary": "AXA GBS CEO on how AI, data analytics is driving digital transformation in insurance\u00a0\u00a0Techcircle",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 12,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "be34f161307c",
+      "title": "AXA Mansard to reduce waiting time at hospital with new WhatApp ChatBot - Business News Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQckVkV3JyWEYxNWtSa0JwWWVDV1d6T2lacU11R29Od290QXptTTF3WUNzM1JsNGd4S3Awd2E2UFRSVlVENGFqeVV6ZGdGTWtxemQyaUJGeGhqTnBkcUUzUEdzNlQySk1LZ0ZFNkZiWmVWYWwyVmNGWVpraWtuMWNNOUFDS3lvNVlKaEFrVFFTWWFrTkdVbmVHUEV3a2JxbHFPczVScVhZcW9PQnBEUk5n?oc=5",
+      "summary": "AXA Mansard to reduce waiting time at hospital with new WhatApp ChatBot\u00a0\u00a0Business News Nigeria",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 12,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "fb6b1252fa9d",
+      "title": "Build and Update Workflows with n8n's MCP Server",
+      "url": "https://blog.n8n.io/n8n-mcp-server/",
+      "summary": "Describe what you want from Claude, ChatGPT, or your IDE, and get a ready-to-run workflow in a few minutes, built directly in n8n. No more copy-paste, no more back-and-forth.",
+      "source": "n8n Blog",
+      "angle": "Enhance enterprise n8n flows or add to PORA AI Automation curriculum.",
+      "score": 12,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a9ee1e22a62b",
+      "title": "How to evaluate the performance of AI agents?",
+      "url": "https://blog.n8n.io/how-to-evaluate-the-performance-of-ai-agents/",
+      "summary": "Evaluate AI agents effectively: learn offline vs. online testing, key metrics, and methods like deterministic checks, LLM-as-a-judge, and human review to improve performance and reliability.",
+      "source": "n8n Blog",
+      "angle": "Enhance enterprise n8n flows or add to PORA AI Automation curriculum.",
+      "score": 12,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c54373ceeff4",
+      "title": "Insurance Index Dips As Investors Sell AXA Mansard, AIICO - MarketForces Africa",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZHJLbmJkZXRHX2laT3JSQ3d2cG5CaEd3MlYtVGp2U1dha24walp2TEJwYWhLWnlQMGFOUEhOZjJiSzQzZjRUVGRBY0g1cmljMnREVjNqZHA5R0VLUDUtbWxob0M2cks4V2pmS1M2aHA0cmRzbnc4T2ZKTDJsbU9KNnI3MTZFN0NFMzhN?oc=5",
+      "summary": "Insurance Index Dips As Investors Sell AXA Mansard, AIICO\u00a0\u00a0MarketForces Africa",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 12,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "26a1cf30aa58",
+      "title": "LLM Tool Calling: How It Works and How To Implement It",
+      "url": "https://blog.n8n.io/tool-calling-llm/",
+      "summary": "Learn how LLM tool calling turns conversational AI into actionable agents. Discover execution steps and production reliability to create efficient systems.",
+      "source": "n8n Blog",
+      "angle": "Enhance enterprise n8n flows or add to PORA AI Automation curriculum.",
+      "score": 12,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "01c644b635e0",
+      "title": "Production AI Playbook: Deterministic Steps & AI Steps",
+      "url": "https://blog.n8n.io/production-ai-playbook-deterministic-steps-ai-steps/",
+      "summary": "Using AI for every workflow step isn't just unnecessary \u2014 it's slower, costlier, and less reliable when rule-based logic fits. This post covers practical patterns for combining deterministic and AI st",
+      "source": "n8n Blog",
+      "angle": "Enhance enterprise n8n flows or add to PORA AI Automation curriculum.",
+      "score": 12,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "edc15cd7405e",
+      "title": "What African Cities Actually Have in Common When It Comes to Transportation",
+      "url": "https://nairametrics.com/2026/05/04/what-african-cities-actually-have-in-common-when-it-comes-to-transportation/",
+      "summary": "If you spend enough time moving through Africa\u2019s major cities like Lagos, Accra, Nairobi, and Kigali, you start to notice a rhythm. At first glance, the cities feel entirely distinct. The cultures, th",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 12,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "eff5e1c1bdf3",
+      "title": "Dbnc 2026: Capital, collaboration, and the future of enterprise growth in Nigeria",
+      "url": "https://nairametrics.com/2026/05/05/dbnc-2026-capital-collaboration-and-the-future-of-enterprise-growth-in-nigeria/",
+      "summary": "The Doing Business in Nigeria Conference (DBNC) 2026 brought together leading policymakers, investors, regulators, and business executives in Lagos to examine the evolving drivers of growth within Nig",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 10,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7f83d0b916d3",
+      "title": "Four Nigerian banks processed $208 billion in mobile transactions in 2025",
+      "url": "https://techcabal.com/2026/05/04/four-banks-process-208-billion-on-mobile/",
+      "summary": "Fintechs like OPay and PalmPay built their dominance on reliability and speed.\n\nFor years, failed transfers on bank apps and downtime pushed millions of Nigerians toward these fintech apps for everyda",
+      "source": "TechCabal",
+      "angle": "Nigerian ecosystem pulse \u2014 relevant for enterprise consulting and PORA positioning.",
+      "score": 10,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e267a9167705",
+      "title": "How AI is Reshaping Commercial Insurance and Risk Assessment \u2013 with Sidharth Ojha of AXA XL - Emerj Artificial Intelligence Research",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaGszLTJRbEhCTEpoeHNqUS1ncmtFbnVHc3ZEajdGa3o2SGRFWWR1T2R2VjY0V1lxbkx1UER5amdoaHFHbVFoamVlUFVlelVfbHBhS09tamI2YXZQdmZkYWpzSmpPel9SM21LRk5IODdMcDVjcDRFamxlQm5nOHhuSS0yZ1JMUDlBcEIwRzI5RExIM1p0Q1VFVXlGVWlHYkhmREE?oc=5",
+      "summary": "How AI is Reshaping Commercial Insurance and Risk Assessment \u2013 with Sidharth Ojha of AXA XL\u00a0\u00a0Emerj Artificial Intelligence Research",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 10,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ef58525828fa",
+      "title": "ReAct Agent: Architecture, Implementation, and Tradeoffs",
+      "url": "https://blog.n8n.io/react-agent/",
+      "summary": "Discover what ReAct agents are how they work. Learn architecture and common constraints, and compare ReAct models against plan-first agents.",
+      "source": "n8n Blog",
+      "angle": "Enhance enterprise n8n flows or add to PORA AI Automation curriculum.",
+      "score": 10,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b052be619e0c",
+      "title": "Train Your Own LLM from Scratch",
+      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "summary": "Article URL: https://github.com/angelos-p/llm-from-scratch\nComments URL: https://news.ycombinator.com/item?id=48017948\nPoints: 247\n# Comments: 29",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 10,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a4a7b119b1c2",
+      "title": "We need re-learn what AI agent development tools are in 2026",
+      "url": "https://blog.n8n.io/we-need-re-learn-what-ai-agent-development-tools-are-in-2026/",
+      "summary": "This article was written by Andrew Green, technical writer and industry analyst. We pay Andrew, but he refuses to write anything else but his own opinion. The big boys entered the market, OpenClaw app",
+      "source": "n8n Blog",
+      "angle": "Enhance enterprise n8n flows or add to PORA AI Automation curriculum.",
+      "score": 10,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0e072bb26d2b",
+      "title": "Workflow Automation vs. Orchestration: Architectural Differences That Matter at Scale",
+      "url": "https://blog.n8n.io/workflow-vs-orchestration/",
+      "summary": "Workflow vs. orchestration for engineers: Define terms, avoid tool sprawl, and choose a production control plane with security and reliability.",
+      "source": "n8n Blog",
+      "angle": "Enhance enterprise n8n flows or add to PORA AI Automation curriculum.",
+      "score": 10,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a8d60acb4251",
+      "title": "'A' for AI, 'I' for insurance (2/3) - how AXA ranks human intelligence alongside its artificial counterpart - Diginomica",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGZxbWk3dE1UMHFscUpTOExtZE9FcmtJcUgyLTFoRHdTd1JTU3BjOTViTzJhS0tFWG40bUpUbnFtV1lCenNaN0gtVGtOMVluclBKd2NLUnh3NHJ1Sy1kcmp3V1VoaHJSZWg1Y0lkWkdQVE0yVjRyN1dOT28yS1AyYjl6cl9Ma3phWTZtRks2d1FBUFUzLVpJNWdWaVpOYzZLbkRZZ1NVc1Nxc29BQjZR0gG0AUFVX3lxTE1uV1RsRVpUaXFTdlIwVDd3cGQ4bkhSR3ZmaUthQ1FBeDVKaVlBeHFsREZlVVh4cUpSSWRlbzV0Nk1SYXBQT19pbEZUSFZ1dzRwRmozYnRGdV9yeVo3S0x5VjdKeEpoY1ZkeXBQM001cmtRV2E0bV92TGtibEpFREhpQk1uNzluQjlaYnR2TlB5MnlBRm03U29aa0dZd3Uzd3pPa29ZTkJUbzdMQkUtVXh1OGYwOA?oc=5",
+      "summary": "'A' for AI, 'I' for insurance (2/3) - how AXA ranks human intelligence alongside its artificial counterpart\u00a0\u00a0Diginomica",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c7737bc25ad8",
+      "title": "'We haven't seen the full scale of AI yet': AXA XL warns UK cyber risk is only growing - Insurance Business",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNenhPamJLVWhwdnBjVWJieEFIcTN3RWd2V1pOa2dGYVMwMlpWcmVfelRxYThJTFNvNGFtYmNPQVppcWhXczZNeF84NGJvY05nNE1Jdi11ZU01ZUlNX3AwSUxiUFczb3NsbzFhakR2MVF0dmloQ1ZEUWdyNENsRlVIODljVlVpa1dha1NHZjZZajkyMUVxRWxjdTBOWXFWWVRiMm14a2U4ckhvaEtpMFZGUkphTXZYVHI1UlBLLXNUbGE4Q2RCcVlNM2lRc1lMNFYtNFRFRkJJZU5RSEFjTGc?oc=5",
+      "summary": "'We haven't seen the full scale of AI yet': AXA XL warns UK cyber risk is only growing\u00a0\u00a0Insurance Business",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7a987ee6e8a6",
+      "title": "AI and the next chapter for captives - Captive Insurance Times",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdkdOR0RWYlhVMXNDZmNlQ3c1YVhMeG12bzZBR0dXWkpmaDVna3V4aDhMNDVacWZjRnI0M0tHZXhrUUJzcjVMN2JBMlBPY1o0YUZvNlFMRkxleU42SkQ0ZklrZ3VPSGR1VXoxSVB0b0lmcmNiWlhMUXZHM19UZV9IMHJfMDQtUjltVFJCV3JqQUtrSk95TzJQT19iUUtwV3gwU1ZzalFVSlBsYmhsU3NzLVRBRW4wNTFmdzc1UWVCUDVCMHplbGNyRXk5cGdiU3hvcGF0ZVg2Tmt0djQ?oc=5",
+      "summary": "AI and the next chapter for captives\u00a0\u00a0Captive Insurance Times",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "da91a306686f",
+      "title": "AI misinformation now perceived a top risk to business - Royal Gazette | Bermuda",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaXpvQlJmeHMyOWVrbC1FMFpVd2xxYUlwTXZLWkthNUhtNnktVWpwV2RxN05PdXVvZmJJdGhHQnZRX1RGZ0pzNjJHQ1cwZTFDYjA5QlZZa3VQMmhoc2J5cDY1cWNQaXRUMFpvWWFKcWxPWjE2UU84LVFERGtSWThFWVpneW5wWjVpTlB5SDdobTNTX1M4MGJRLXhIdjhJVzk0ZDZhNzB3MDROdVdvdDhELTlKMnBJcVhMYkRsdm1n?oc=5",
+      "summary": "AI misinformation now perceived a top risk to business\u00a0\u00a0Royal Gazette | Bermuda",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "903a03570028",
+      "title": "AI reshapes talent development at AXA XL - Insurance Business",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNUZqMmU2SW81anhmRWRGTUhCZjVEcVM3eS1HckgydmQtY3lEaHRJYWxnTE04UEktQXFueTdpRmZIQ1pNanhwREJqTloxRUkzRjNFQmJUZmM0Q0xIalduUmVpc3RoUEZFQTh4bnk4bHFoQmhwa0FLQzB4MXJCRktlNHVSRTZsZG95c3JUblBhUnRCYk5hRjNqMDRHYS1Cdkkzd256Sm9EVG1wTU1w?oc=5",
+      "summary": "AI reshapes talent development at AXA XL\u00a0\u00a0Insurance Business",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8c30839d09c8",
+      "title": "AIICO, AXA drive 61% of N288.85bn claims paid by NGX insurers - Nairametrics",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYVBOSkV3NE5ONGhjVnhVT3Q1N2pJVDJkWE85bG0wcEJJeVlTQmZ5RWhZdFBXZkttYjgwWTdBRzZOXzZxMEF3bklDcnZNMzNBTmRWQl9kZjBqTFY5OE1JLXZNNnY2YTc5MTkwQTI2ajhTZllIbGtkbUhWQ1Fna2tnZ0tlbUFWUDZsSmFONUxMSUw3Sm1icThZWmRSYXM?oc=5",
+      "summary": "AIICO, AXA drive 61% of N288.85bn claims paid by NGX insurers\u00a0\u00a0Nairametrics",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "28ccc2654af1",
+      "title": "AM Best Revises Outlooks to Stable for AXA Mansard Insurance Plc - The AI Journal",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOY1k0a0NsSUxBYVJOTEV0WEhoMl9hQnhfRXM3V3FvVkQtM1ZUbFhZT1YtTVFmRVFfLTh5X1R4LWhyWTMyMEF5NWtGWllJYnJZcUh1ZVpSdDVSQkZ3OVhmRGlDZi1hOHY4VHE2eGJfSmp0T2NLd3FaWDUxRWtadHBMLTZaT3NaUFFjVHBSb2xB?oc=5",
+      "summary": "AM Best Revises Outlooks to Stable for AXA Mansard Insurance Plc\u00a0\u00a0The AI Journal",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b7c5def5392c",
+      "title": "APPLY to AXA Mansard 2025 12-Week Innovation Exchange Accelerator | Tech | Business | Economy - Techeconomy",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRUw3YVRrbDF6ZG91X3MzNWM2bzRUeXlxRXZsM3I4YXdva2hfY1hTUnFMdHk2VmwyM1NhM29WaVowb0lyNGJiVXhsSFJKc2stZGZkOEVOSzd6WWl4b0t1VC1Yd0V4T3Jod3lLQlVTRUZlZWtJQ0htR0hWTlNKdllXc19pVHh6R2VRcFpyTVhIRE5uakE?oc=5",
+      "summary": "APPLY to AXA Mansard 2025 12-Week Innovation Exchange Accelerator | Tech | Business | Economy\u00a0\u00a0Techeconomy",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ecd13e930523",
+      "title": "AXA Digital Transformation Strategy Analysis Report 2023: Innovation Programs, Technology Initiatives, Estimated ICT Budget, Major ICT Contracts - ResearchAndMarkets.com - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPeW15aHpkYk9aS0lISWNKcS1XWi1XYV9pNVRIQkY4NHNRN0hoQmlhS2JId0oxaWpjOWRoMHkxdlR2bWt1YmdmdDRCUzVDLU02TFlxTVllLW11SWVmYm9ScXRWbXA4S281cExCN3pkdlA2bnNsTmdMbWpMQW5hRXJFMkk4UFVrc211QjgxS3ZIUkdieVRoNVUtNzFyOU9jN3I5eUo2NXFsOVhCWnAxS2J1Z1ItWms3cGJJSVRhZklxTWluandpcnMyYVZWSTZkV3g0VWUyUW1qNklOc1ozU0ItQ3BMeXZ0eThocC1QYThJdXkzUWh2YWRBc1B4WUFGNTVzR3B2ZU1rd0tfMjVCRGxldm1ZaGt6SjBHaUdyUnlCcVh6VGdqUVliVTdwVFp4U2dZc0JSMnRjTllHeUIwZ0s1anFJNlQ?oc=5",
+      "summary": "AXA Digital Transformation Strategy Analysis Report 2023: Innovation Programs, Technology Initiatives, Estimated ICT Budget, Major ICT Contracts - ResearchAndMarkets.com\u00a0\u00a0Business Wire",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "594c3e44dbf0",
+      "title": "AXA Hong Kong and Macau wins AI - Insurance award at Hong Kong Business Technology Excellence Awards 2025 - Hong Kong Business",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZlBOd3VQNG9GLUhNN2RraDlYdjdNUkJFWkZSdmp4QmVuNGNqa04yRFpnZTJjYWEyTWNlblczNFNqTDU1eXVlOTlDeG9mTWNSbTZkSkNZT2x2Qmd6YjBBb3ZmSFppYV9RZXZzYlJhaGZIMnVRYVNTWDFfcjY3VDZ4aXdUMnVwN0ZfaWpSdktJTEFjYnBUcHZoWkFZQ1BwM3UxRWo5NkNWOC1jMDhJR1o4LUo3ZWtmeEo3ZFN1Z1lCZ0RfSHBrVkpEWkJqc2xRQU9hOG13eWk3dWpJZ1VEYmEtYWI1VWlOOFNZTFdLcHo3bw?oc=5",
+      "summary": "AXA Hong Kong and Macau wins AI - Insurance award at Hong Kong Business Technology Excellence Awards 2025\u00a0\u00a0Hong Kong Business",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "266e12761d6a",
+      "title": "AXA International and New Markets: Customer-focused Tech and Data transformation across the globe - FinTech Magazine",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ29oQkJCb0d0c19MQi1qemlONnptX0VnMlE0TjVpMjJSeG5TTUlHNlhWX2YwYUtGZXh3akxIZ2xScFI5TmJ4YXh3SlZQR1ZpaG4wdkZFNkpYMEd3MHB1bTI3bkdOVXNiaDVrRl9uc3ZoazdSYUFIY1EyNVBfYmxQR0c4OHlHcFBjRVQzd3ZhQi1tMzZUQXp4b09IWnVnWGp4b2ZPUDZOZ3FsZmZnN25YMElLNFdqRFF3MzZ5X1NmcDN2Rmg0cXdNWjFlTElQWjE0Zmc?oc=5",
+      "summary": "AXA International and New Markets: Customer-focused Tech and Data transformation across the globe\u00a0\u00a0FinTech Magazine",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "16e53d233c24",
+      "title": "AXA Mansard Health Launches iMED: The International Medical Plan Covering Users Worldwide - BellaNaija",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83WTFfVFBJOUZ2ZHp1SWFscGZCTFNpdTViWkVNUmhsTEEwbGpOaUlCR1pMZ2NFLWpFZDFucnNzazEwUk9IYmt0TWM3V1ZHVXZMemx4ZjJ5WTNmQ0YtdXNjaWxR?oc=5",
+      "summary": "AXA Mansard Health Launches iMED: The International Medical Plan Covering Users Worldwide\u00a0\u00a0BellaNaija",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7f20542d107b",
+      "title": "AXA Mansard Health\u2019s WhatApp ChatBot, Karis, to Reduce Waiting Time at Hospital - THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONVVwUk5jRUtJeFc0Rl85ZjNoekxOenhjSzhXeDdRdkdwUlZZX2cwNURTNlJFbWgyVFlvT25JSEgwb3dtTXpZa2t4aU9Qb2lFNTRqLUc0bUpMUHFwOUVmeURrMTFKRE1QVVpwSktseWo3NXV0X0tKaFZpSURkSkVUaFkyTTIxRl9ldmsxNW0tbXk4eHNveUlabzBpaFFiUGlwZVJmMkhvMUVQcWR3NUx0OG5MajNVdG8?oc=5",
+      "summary": "AXA Mansard Health\u2019s WhatApp ChatBot, Karis, to Reduce Waiting Time at Hospital\u00a0\u00a0THISDAYLIVE",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d535b72afa12",
+      "title": "AXA Mansard Surprises Customers with Care Packages - Tech | Business | Economy - Techeconomy",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1JWHpyWmJaVnotM1FMN3hmb3VBRVVFZzJNQlhEU3MzSjc2MGUybjZEc1AzVS10TFVxSERIazZWVUxYQ1dzemxqb2h3Sno4NVA0bElrenVGWENIWXpjNzd1V3pkVHBLNzZWOVR1Y0pHSnRKUXpfTVJuQ1VSNFBoZ2c?oc=5",
+      "summary": "AXA Mansard Surprises Customers with Care Packages - Tech | Business | Economy\u00a0\u00a0Techeconomy",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b4eb6622b4d8",
+      "title": "AXA Mansard Unveils Digital Tool To Ease Vehicle Inspection - MarketForces Africa",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON2d5cG1tbkxpbmpsWUQzQXplWmtFTkFkTkExdVljXzBrMW5DZnNsZnVuRFY5R1NJRDFORXExMktxUl9ERkJNLW92UENaYTF0ZkNMczA5c09pdUljRlBVVVpuSHVHdXVKUVRidFpHSGs5bnhXYmY0X3YtQjNQdUpBM1Q5ZWRvbFg1ckdmWkdoNA?oc=5",
+      "summary": "AXA Mansard Unveils Digital Tool To Ease Vehicle Inspection\u00a0\u00a0MarketForces Africa",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "80848837671c",
+      "title": "AXA Mansard Urges Firms To See Employee Wellbeing As Strategic Investment - Daily Trust",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMjhrUVJVYnFGaWtJdzBmdzBJajhOZ3RSYmtQYjMtVFBrVGsxN3hoVEp1bXZMWi01Tk5fMFVCbU1iSmhYSS1UZzFHTk1zQnV1LTNoZ0U0Qm0xcFUzOXJINmVhME5URUlQbURWbDZYWDdfeEtQSWljSFZteEpEM1cwUklMcnVXUUxfLVhYSzZXUXp5SmlXZXhiZ1pBQzNtQQ?oc=5",
+      "summary": "AXA Mansard Urges Firms To See Employee Wellbeing As Strategic Investment\u00a0\u00a0Daily Trust",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4b7b57aafbb3",
+      "title": "AXA Mansard grows insurance revenue by 22% to \u20a6160.6bn, navigates profit dip amid FX volatility - Nairametrics",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOHlGMm5pT1U2bktwSU5SaHI4ZEJ2dUlnekQ1OHY1c19Ba3V1TmkyUE1Rd3h6QUJCMlBkdmRWTGQtdWZGdFNfbmE4YmZjb3MzY2stWFFlZzB2MUtrNjh6dEplWVZGZVB4bmxWR2I1b3pwLXpJTVljZGhnZVhpQ1dRa1RsWDVZMGY5aHk0ellBQkpLOEJVUm50VE44c21SMEpGVXZ0VURDUWZsWVluaXFiUFNrSUEza2dTVWVoUmprcTZ0a2swdHpaWjNR?oc=5",
+      "summary": "AXA Mansard grows insurance revenue by 22% to \u20a6160.6bn, navigates profit dip amid FX volatility\u00a0\u00a0Nairametrics",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3b7c3d968eda",
+      "title": "AXA Mansard grows revenue by 20% in Q1 despite FX-driven profit dip - Nairametrics",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbkhBNG1WaEdTMl9zX0pmWUh0ZENqOE9BbG04UzgxVWhiOTFlT2hvOXFydFVjU0RuNmNRd2VmLTdyeHBjU0ZTVl9tSGpqekJlY2ZMR2Q1WDlGWkRRWjJiSlNYaUdMRVRSQThzNmdDeTNGN015NWdDcjRZRnRoV2xLbHIxMlVhVVZsVEFGN2hndW41bmpVNW9DWGl0YURnSFdZQUVDejNB?oc=5",
+      "summary": "AXA Mansard grows revenue by 20% in Q1 despite FX-driven profit dip\u00a0\u00a0Nairametrics",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "638f2cef6ec6",
+      "title": "AXA Mansard opens applications for 2025 Innovation Exchange Accelerator - Tribune Online",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ21XajFmbG1DdDJKZGg4RUttVGxOT3k2WDdnQ2RWWU1CdHRxR3pmbjBuOGNVUkh0aHQ1MU9BV2tjeTEwcEpoaW13R1FnbVVJUlhyUEdJLXBGLUluZkViVDczYkdodUwzMlhrRndkdjRvSWxPQmx6Q3BfYW1OTHdDZzhpUzVZNkFUX3d3T1J5VkhkR2FfR1psWHZIZFZQUUwzVFE?oc=5",
+      "summary": "AXA Mansard opens applications for 2025 Innovation Exchange Accelerator\u00a0\u00a0Tribune Online",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "329ba2590298",
+      "title": "AXA Mansard unveils digital tool to simplify vehicle inspections - Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORUphWF9VOHlvOWZWR2hjd3oyR3NVbllFRHpsV0JuSWJ5VXdzeE9Na3hBYUFWd2N5T01fc2tNUlVVMEpVOUJlVElkaDMyUTFycHZUWGliS180cnoyZGJicmxYMFVRR0JYa0lHblpRRFJVaWVUNFdjQk14SjUyeGFrM2tRSzlFdHRWdDY4ZTN3?oc=5",
+      "summary": "AXA Mansard unveils digital tool to simplify vehicle inspections\u00a0\u00a0Punch Newspapers",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b00d0f28c0f4",
+      "title": "AXA Mansard unveils fully digital, flexible health insurance solution - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQlZzc0I2TUY3R0FfRk5TQ0Zfa0tOR1pxSVZXaFRuWUNKT0pxOEh3MWZ0OWJjZnh4ZTl6S0JGSV9sdWxPU25rbURDYXg2NzBUR1VDcFNzZk9TSUVjbE5jSVRtUlROcWpJcklJOGs5bmlQcFg5eUY3d3Z0ejN2SGplS0lQeUxySHFtaWhfcmtJVnhkckdSU3dNNm5n?oc=5",
+      "summary": "AXA Mansard unveils fully digital, flexible health insurance solution\u00a0\u00a0The Guardian Nigeria News",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b9bc97a379c3",
+      "title": "AXA Mansard urges employers to manage transition as tew tax reforms take effect - Daily Trust",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYTBEVV9NZUJsQ1oxUm5Uc01sbTZsN1dCUDNMUjJZZEhTMGhRQWc3VUJvM0dMOWFiZ2FHczQtbFpnbW0wN0ZQeHdNM2FnaWpBaktZbXE2OHFCRXE3WGdPeFJ0cDYtVElnYVJyWXd3TlY0ZEwtOTY0V2FqVE92RTZwZ2dCZGEtRzc4T0VhYklGR1JvUUJlc05tbVFqYnpEc1lZNFhfY3dR?oc=5",
+      "summary": "AXA Mansard urges employers to manage transition as tew tax reforms take effect\u00a0\u00a0Daily Trust",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c654b25b4295",
+      "title": "AXA Mansard urges tech adoption to drive insurance - Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GV0lDbVhYbks0N2VENXo5SnduNVMwT2JDV290WmRidi1xY0t6Y3YtT2Y5alFEbWJqV3M4aXh4aGFCeWo5bE1ONUcyYnVIcEhpVXd0bU16RG1BWWNaNzd3ZnA1V0c0UFEwWUhkUGhqSjZGbUxDOFRNNmM3VQ?oc=5",
+      "summary": "AXA Mansard urges tech adoption to drive insurance\u00a0\u00a0Punch Newspapers",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0d0dead28a2f",
+      "title": "AXA Mansard, Curacel introduce fast-track auto inspection technology - The Sun Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOb0ZWZUYtcVBZc0hXOTNkbVhPalNFci1LUnZ2d3JKNW5BZlYyVTlTZnU3OGhqVUxFV2E4VFlLRzc5LWktOVpEYmowUFhMeWQxSGJ5aDRQQlp5a242dXpCcXBBZk4wYjhoRmNBTExJck5wWjJWVzdwdFZPRTF3NlVFZ2pNa3JyS3JQTUg3RWRyWdIBlAFBVV95cUxQcHVUS0ZZUGRpMTdvcFFacXdoZVhTQkdYTS1FR0NabHFCQXJGaW5UaFJuX2NaZHd6N1BFT0VWcTN6SFdjd0xrNXY2RS0xV0JfTzBWODMxNkhvSjA3ZjA5aERFMXNpSG5hTmxyNnhLcTNXaDVtNlc0WUhJZVNCQnNCbUY5eDUtR2ZaYTh1NGVhUzNSajU5?oc=5",
+      "summary": "AXA Mansard, Curacel introduce fast-track auto inspection technology\u00a0\u00a0The Sun Nigeria",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a05337754760",
+      "title": "AXA Mansard, Herconomy Deepen Push for Women\u2019s Economic Empowerment | Tech | Business | Economy - Techeconomy",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMmZRcG1HdlZoR21kT3VpZVU5NEZKSnd5bTh1ZHlKdkVLRG92WExTYjNCUS0tTEFvNlk4M0RUVDN2WGhob1A4M2tYMmhKVFVkLTdFTzZiOTZ2VENkbmg2SXM4SVZpelZFVWg4YkhWNUFyREdzWXRxWHdMLXNRM2lDOU1pb08yNFBRM0JJby1CeWlnY1k?oc=5",
+      "summary": "AXA Mansard, Herconomy Deepen Push for Women\u2019s Economic Empowerment | Tech | Business | Economy\u00a0\u00a0Techeconomy",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "efed821eca37",
+      "title": "AXA Mansard\u2019s new digital tool boosts vehicle inspection experience - Business News Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdW1rUXJhU0V5U0VUYnBtSjR5ZWpDZC1MTlpYdWswbzlvWU8tMkhJUDdsaUZsel84Y0luT1dDQmFmcUtwWDlHTjhnT2JqRjlUT0dvT1pVb1J0aGM2QlJ5d2FacEt4bU9rdzhSZTJrMHVEY0Q0X1luNExBZ0FaTUxYU2FtSW41UWFMazdRRHdJMklycUJ6TW9TTWlCUklqRzdlcFpPd2l4X3VMbkVj?oc=5",
+      "summary": "AXA Mansard\u2019s new digital tool boosts vehicle inspection experience\u00a0\u00a0Business News Nigeria",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "62517d65d558",
+      "title": "AXA Research Reveals That AI is Affecting How People Seek Medical Help - Insurance Edge",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYlNjUl9mSmcyemg5MDhON182VmcxODJYUGZyckZodVh6V0xkd1JMQUE5WjZINm5wNFVPbHVoRDUxQWRPY0VkcDVMaVJaZUtDZ2ViOTJoa244b3owajgxTHN6Z3JJNWZaTFZteHhlS2tNbWpaX21mcVpaQkxfR1JfWjdwcnJpRXlUUDZmNV9tSUhyWW9Fd3pCTVNYNXg0VXdoR3VCeENma3hpc2xQUmc?oc=5",
+      "summary": "AXA Research Reveals That AI is Affecting How People Seek Medical Help\u00a0\u00a0Insurance Edge",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "581965dd2f6b",
+      "title": "AXA XL Unveils Gen AI Cyber Insurance Amid Growing Regulatory Pressure - Cyber Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcjdHVGlWNy1xTjlXa2tqdlB2d2tNQnpMRDN6Q3FCaW44a3ZjUDJjYTJiTmdwY1ZrUmhtUk92dGJwZUFPSzZYc1RXd3RiYktUY3Nnb05KWGJzdkpWTE92Y0lhN0lkV3paMUlSWERQSzlnVEtfSGM3amkzZlAzX29iMnFscEJwUWhPNUNmMWo2VVU4R2V5SFBGTjFB?oc=5",
+      "summary": "AXA XL Unveils Gen AI Cyber Insurance Amid Growing Regulatory Pressure\u00a0\u00a0Cyber Magazine",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2d4247a773cf",
+      "title": "AXA XL Working With Thales on Cyber Threats - - Insurance Edge",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWl9vNUJDVE5vMC1YaWIya1R2MnRYLXhxUGtXRk1YUW5FcWdVQjBkb1VKOUpuX0Rsc0dIVk9oT0NyWVlMdkVlWDVhSnNnek5SdnEwckVnb1hUSkZIMmxrb1ZkczY1ZzR5emp4SU8zYzhkeXJfcjhCeUlDT2YxV3M3NjNYLTllSEw4V1E?oc=5",
+      "summary": "AXA XL Working With Thales on Cyber Threats -\u00a0\u00a0Insurance Edge",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6d609714edc4",
+      "title": "AXA XL and Thales warn cyber risk is becoming harder to price and manage - Insurance Business",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQazZPWFFMcnUzVG92Rjdhb3BuNnJwdjc5SjR2Rmp3aHJVbHRaY2hFaVJ1anNPcERrNUliSS1UM2s5cXpRQWFTUG9ycFJlUS1SVzdzeUoxcjRKT0hXclBvQm1adGtXMTg4eUtMNkZ3NlVGWkFMUnJwYUpBVDlDaElmQUM0OEZsT045RHgwOHhudzFXOUNCeEhzWi11Q090b1h1ZDA1dTgtTTNWeS1CTDU1Qkp5N013WGUwZDVxNXhBZVV3SDdTS2R5bFBFbXZqd2lF?oc=5",
+      "summary": "AXA XL and Thales warn cyber risk is becoming harder to price and manage\u00a0\u00a0Insurance Business",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c20b192f8ac9",
+      "title": "AXA XL launches insurance coverage for Gen AI risks - Insurance Business",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa29lSnp4Z2FIaTBTUEtGem1zcll0RTMwMjgzLTNtZXdvdFlxaGlvTDJiT29NM2JsNUswYjY3UXVWSVZ3QUN4eldDUjhsdURNQjgtdHEzZS1CeTNXV3JoREF1WU9qTklQRXlISmdTUHhKZXhxODdDN2tZXzZNaUtQUFBJZ3BOUWRGUWQ3cTNPTzBrUHRuMWtUTk5tZVJmMDBYQmY3M2VuS2FQa3d4WGYyWkdhWDU?oc=5",
+      "summary": "AXA XL launches insurance coverage for Gen AI risks\u00a0\u00a0Insurance Business",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "054ce83a4ef9",
+      "title": "AXA XL launches new Gen AI cyber insurance coverage - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9lVUpqMm9fQXg2dzFwakhZMWhYUHlFM0xKVVJJT09nM3NfeWxrVHZleUwyZDVmUUdCWnlkMVpwV1h4NjlfMk1ZRTVXVkQ2ellVODVXWG95b1lUMjk4MF9YZkVVSmpGTGtHdWVIUDJnc2RqMHE0ZVhn?oc=5",
+      "summary": "AXA XL launches new Gen AI cyber insurance coverage\u00a0\u00a0Yahoo Finance",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "872e60a91b5b",
+      "title": "AXA XL launches new cyber insurance coverage - Coverager",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85bkN0cDdlTWpMNUVXa21ISndKdUhvcUNWWlN2RzFpQ19qQ3VTT2FFdWYwNVdTcVE2VFF0R25mckV3cUpaY0xia0ExbDh0d29TMXk1Qm5rRm1hTU5lR0s4ZzJrOXM2VEQwTjkxbUxySy1EUHRGSVE?oc=5",
+      "summary": "AXA XL launches new cyber insurance coverage\u00a0\u00a0Coverager",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2b83267f44b9",
+      "title": "AXA XL names Jiten Halai global CUO of Structured Risk Solutions - Insurance Business",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWVNVSXhqRWZfN2J1QVQ5WjdDdU45T21wbi1CdUhNVWo4UXlheEF0Y1pjMFZKZ1BnUVM1Z1l4VGdQWE9FYk81VkZRSDNTR3oxbU5scDlMS01CT2swRDAxdVV4VzRGaGFSbWpueU1UUGZCcERNcVJ3Z2dNWkNKbTAxTng3cmRGcWxJS2dvR0JZaUJHRVFKZDI1dFphQ0JSNWdCeFVyR09TWEwtaGNXakRXZXN2WWxSMFVvVjAwN09lYWktRF9sVGpvT01vYXZwd1hk?oc=5",
+      "summary": "AXA XL names Jiten Halai global CUO of Structured Risk Solutions\u00a0\u00a0Insurance Business",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8d67e4bf1d8a",
+      "title": "AXA XL partnership to utilise AI for faster assessment of property site surveys - Reinsurance News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQnJkMW5pYVVDcjluYURjQ01BSmZJaG9hWThaMzJEYnh4TGVlMXpkR3B1Y0tyT2paTlNIeXR4eFhGbkFCS0IzTG1yY0ZEcWZOSHYyYkJxaTZYdHp2UEJFUlI5N3VhTHlOV1ljRTFSVDhfTFdiZTdxbkg4djVzbk5rdkVkckRWS2lBZTJQU0VWUlN4RTREWU1QMTdHYnM2UTZSMHhBbGc1RnNjdzZYTEE?oc=5",
+      "summary": "AXA XL partnership to utilise AI for faster assessment of property site surveys\u00a0\u00a0Reinsurance News",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2f7ce6d0c554",
+      "title": "AXA XL unveils new cyber endorsement for construction - Insurance Business",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb3hweFdjMjZiMnZHQzNjMWJrUjFic0RGY01VbEZrR3lDVTd2MTJRLTk3Rkt1Zm5LRjJHaGNyNUxEU0dTWkJNR1hhM0RUbFdrTDN3Y0Mxc3U3UExTVHdGeGNYQzhLb1pEbjV2QVZDVGh5NWhUNGdLcEE5cG1uM1lId19QUG9SczI5OWlFRzU5YkIzbE9Ha2VNSTduQnI2S1duV0J6NFFoaU8xdlBrdThIX2VWWUN4QUNQTUhpa3RlTk9sQQ?oc=5",
+      "summary": "AXA XL unveils new cyber endorsement for construction\u00a0\u00a0Insurance Business",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "295ecefcdead",
+      "title": "AXA XL unveils new cyber insurance extending coverage to help businesses manage emerging Gen AI risks - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbk92a1AzZm9DVVZTS0Nrcm5zSExjVWI2QXBYYXViRmVkTV8wbGNDZ1RidVdEM3gtUFFTckNoYmZod1o2TS16c2tiMTZIVXk3aXItXzNDU0lqM1lWTTkxMkVkcDdXbG92YmpQN0RIMWFwVTVBZ0J4YWlBZTdHNk5lTGc4c3lLZGZXaF9GNzJQX1RuZ1VKY3AyeEJJMU5MeGRONTJvQVZzZFYzdnd5ckQyTmNpMVBNV2VjVmdyOTZKNF84SGpnRTZRQ0JhT2lmd191b2xMSzQ5NzNSc2MxN1BJd0dEWFRPWmd4UWwwYzFn?oc=5",
+      "summary": "AXA XL unveils new cyber insurance extending coverage to help businesses manage emerging Gen AI risks\u00a0\u00a0PR Newswire",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "102ce248d15b",
+      "title": "AXA XL\u2019s Ashok Krishnan on AI for Human-Centered Transformation - Insurance Innovation Reporter",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOR2labHBnTnV6Sllqd3RIblQ1QUJ0VmdiaVVGNUlmV2RhUWFlTEZNektPN2NTYnk1VmRMdEphV3VybExmZ3ZQMXhXMk9vampfYlRmTV9BYXhRRUJ1TEMxd2F5NnRYN2w1UElxUG9xaVNPVzhoelFtYW01UEtnM3VtQ0lBTmx3cHhJZzk5VnB1dw?oc=5",
+      "summary": "AXA XL\u2019s Ashok Krishnan on AI for Human-Centered Transformation\u00a0\u00a0Insurance Innovation Reporter",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "cd1a5fde18ad",
+      "title": "AXA chooses Azure to offer next-generation digital services and transform its customers' healthcare journey - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOHl6eVZUOFZ2NVE4TjYtWDFrU1Zta25zQWlPQlZmN0lQdzlTNTJGcUtDUTE3cm12NVRpekJfeFRKellYNThpNHdveUVMdzlpY3FSN19kdkhyUkVUQTZkdm43RDU4TXhKcnY2Wkx6eFJyNWFmOUs0Vm0teXBqcF9lbXZSWUI3VkxKN2tHUV9ZaXl5S2dPOXJuUGR3?oc=5",
+      "summary": "AXA chooses Azure to offer next-generation digital services and transform its customers' healthcare journey\u00a0\u00a0Microsoft",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7d0ea2c5c0e1",
+      "title": "AXA deploys in-house GPT platform for staff - Insurance Business",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdDJ1b0hfOWJZdC1OTC1yZGNOcXpuaWRfSXdSem9KUUFvQzV4M29kTnBQQ2RCTXZKMUJoTktFbFpGVzdSZ1IxSllyUXBDbTR1SkI5RjJSRVlOOVNiUWxfY091NV9zeXo3elE1YmZ3RzlWVVFkRlUwd0xndWE1Ul93MW9rRklHNkkyb0FEZnFhQU42RzFibXdHZEtHUjluNXdqTVdKdmpIUFJDVWJLZnBj?oc=5",
+      "summary": "AXA deploys in-house GPT platform for staff\u00a0\u00a0Insurance Business",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c79afa6dcf14",
+      "title": "AXA harnesses the power of secure generative AI with Azure OpenAI Service - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTnp2T1BLdWlwb3VaMmJWT3hJVEZRcGZPdk0wMGJMS3lZRGRWNFVaRXpBT3V1cnZyeXpMb3lWZXNHdkp3b1EzRlRNRmlsOWcyd2VsVzY3NmZlN3FUREhFMDFaQkpyR0xHTGVoczBJTDBleWdRbHFjcUxsMXJjMXJQbjhKQnoxSmRBSnFFU3VZRFB4NEJzZjA5LWpER0tNSXc?oc=5",
+      "summary": "AXA harnesses the power of secure generative AI with Azure OpenAI Service\u00a0\u00a0Microsoft",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5c91fb0b09d0",
+      "title": "AXA introduces Quest by AXA to enhance data-led insurance guidance - FinTech Global",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeUFCWDVuQVdWNmFNeGZKckx5S2RCSjl3S3RoMkJoem5McDlxaDN5cmNUcHZPMVNqSlNBVlBPWWpvTFBxRm5ON19aajkyVGpYaWtkNzU0UDN2aExnSlhBYzR5cThtbTkxMGExblBDX3BmVmp2YVhfMlMxQUV4dEdGNU9WNGpzZkZoZUVncDMyS3pDSnl1SmhPbzQ5eWtJTXZRdmpZ?oc=5",
+      "summary": "AXA introduces Quest by AXA to enhance data-led insurance guidance\u00a0\u00a0FinTech Global",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a97c2e8de665",
+      "title": "AXA launches AI advisor platform in Hong Kong - Coverager",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5MTZOaktWblJ6c3kyYUlMR1dYaDNnUVRaOHdONWY0NTRaNTJOY1J3QjludTRDczc3czZFMHNiUkdXX24tTmZqTjVvODlPc3NqRnJrcTFoY2RqNnRlMWpVYldKeUVKc2hhSlpvaC1RVTkwb0JlNS13?oc=5",
+      "summary": "AXA launches AI advisor platform in Hong Kong\u00a0\u00a0Coverager",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "14051747e528",
+      "title": "AXA reins in AI data-centre bets, tightens private credit stance - Insurance Business",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNXy1xWUd4TzZ3dUNCblpHaEhjbmVxRzdUVVducVloOXNxaUhqZl9acU4zdVN1V1Jqalp1czdWR2JTbnJkcXhNZUEwWEFrVTJRTXJ5OHBPTXJEWTg5UEhJN3o1d2h1MURvYzM4WGV1enlzUmVaN1NwRy1MUFljZGd0WDRuWWtQd1M1cVZqeHNqZkk3aU9fY3lydFhvZS1GazhzbzEwTVNrX1h2QnAtMERQRUtTTmtmZkFZWjJBcTNka2JSaVBUVVRPdHZ4RWFKdw?oc=5",
+      "summary": "AXA reins in AI data-centre bets, tightens private credit stance\u00a0\u00a0Insurance Business",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2ed79464c1da",
+      "title": "AXA, Allianz Dominate AI Maturity Rankings as Industry Transformation Accelerates - Risk & Insurance",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMldYR3JUX2Y4a0liN2kxRHpXY2lmRTBmd3NYN3ZFcmFybWlaR2FPRHc3b0pYb2FDZmV3SWk0b1pXSjM3Tzk4eW1IOXVRSHZfOVpjWmhidVVjcXI1cEcyWFFTNVpfY1lZUUJvLVdoYUxWNFI1WjdHamg5cG5wWUg2YVQyY2VlMXBpNldVSWpSaW82SW9SX2RKaGpaQjdwVHh0LVRxMVBPTzljb2pPakNj?oc=5",
+      "summary": "AXA, Allianz Dominate AI Maturity Rankings as Industry Transformation Accelerates\u00a0\u00a0Risk & Insurance",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "64b4e8119e0d",
+      "title": "AXA\u2019s Jumoke Odunlami Advocates AI, Innovation for Industry Expansion & - Business Post Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNOWpXNzhZS2UtMlBMQjZzcVR6X2xVRG1JdFA2WmxaNWJ2YTZrd3RaVm13Rnc0ejQzYzRuOHZtdUlmOHNEOW9CanpKSU1UdUdoQXdoMXZjWUs3dE01X2s0T2Z5aTFYMndIcXgzejR5dnRNNk9FWVFJN1FDRTZ0Q1hGaWNQUXpVOVY4aDlPaHJ0SUxEak5aNklMTUpHU0h2Q3Z3Q3c?oc=5",
+      "summary": "AXA\u2019s Jumoke Odunlami Advocates AI, Innovation for Industry Expansion &\u00a0\u00a0Business Post Nigeria",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e284859c631a",
+      "title": "Axa XL adds generative AI endorsement to cyber policy - businessinsurance.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVHV0bEl2MUtLeWtWMGRLb29reDV0cVNjQTlpRllrX1RKUUQ5Slpac1FMRlo0TGhmLTZPd0lMa3FoQXNxTkhIU1hKZkstVUlpa0dVeHYzYnJHNlFYbktYZ1R3dFdya2luOEN5U0Fpd2FjcjBGeGlRaHB5VWFDVjgyYUNJS05KUklxUUtzU0pwSmRJdw?oc=5",
+      "summary": "Axa XL adds generative AI endorsement to cyber policy\u00a0\u00a0businessinsurance.com",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7020eda4328f",
+      "title": "Axa XL appoints ex-Aon head as chief technology and AI officer - Insurance Times",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYlFER0EyWEtwNXJ0ZVgzaUlFNG9sMVYzUjl5U2NjVnR1WkNmQ216am1wU2UzUzhlaFZRQjJoQ1NFejBPbERQbFVEWXFRd3llZ0dMRHlvaEhqZ080aFpSWVc4Zjd1XzJpWVJycklyUnlfV0xCVHo1YmNvSnlqMzJBakpqa3NUTTcxdlg1aERYM2lFQUwwOWxvU0FzUGh4Ukx6Nm8xWDhsYkJUSzQteXZLVU05ZnpYMU0?oc=5",
+      "summary": "Axa XL appoints ex-Aon head as chief technology and AI officer\u00a0\u00a0Insurance Times",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "19ebac1a6304",
+      "title": "Axa XL bolsters digital and AI leadership with new tech chief - Intelligent Insurer",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObnUzZTRYdUZ5dzgtUU1WdkhCWDM0ZU5HelU5NGFDRENIeGowRUxnRUI1SG8yVUVKMGxPMmFlS0dEMmJveXlzcG5TT00yYWI4QVk2aW9Xdlp6OVNKM2JUdXNZTzRSRm1DMjJMWEIyZDJFTFZBQ1pFOXp6Y3lNRHJRNjl6WWdfX0VaelBtWU9rcFI3TmwyT3ZiMnRsY0E?oc=5",
+      "summary": "Axa XL bolsters digital and AI leadership with new tech chief\u00a0\u00a0Intelligent Insurer",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0f41e72643d0",
+      "title": "Axa XL expands global cyber coverage to address gen AI risks - theinsurer.com",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXQtQmh1bnVoeXJxcElrdjR3RmptQ3oyaEZOMzRFQktRcnR3TWhGdGh2MWZjU2cwdDg0VHE4RW1mU2RxS2RJdmRnWW9pYmZDYkJyTkxpREZEZG0tWVJ4Z1dmSXQ3cFNzbUV2eWxMLXJzUGZPR0JTUEt4WmRnclpxRWloSlo2d09TVEgyQ3VpWXlSSFNXV1h2eEtsWHUwOURZUjliS3gxRQ?oc=5",
+      "summary": "Axa XL expands global cyber coverage to address gen AI risks\u00a0\u00a0theinsurer.com",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6362c4eac9cd",
+      "title": "Axa XL extends cyber coverage - Royal Gazette | Bermuda",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMlVzMk1xeDNyOFJWMkNwZ1g5VUZneXlVTFZRbmo3WlVQUEl2Uk1Ebm5xdUZrWTRvWC0ycGxva2tYMnctMzZFbHVkM0RWQ1V2dzgzQ2Q2bmpTWVFwN0ZVWVpjQ2VCaHhwMzNvZjNQNVR5aDRpM3N2ZnZUODdzazJ1SmJocllSa1hudVNKbUV6X290SHUxZXdBNjJyYjhldw?oc=5",
+      "summary": "Axa XL extends cyber coverage\u00a0\u00a0Royal Gazette | Bermuda",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8994f948e52f",
+      "title": "Axa XL using AI to evaluate property risks - Royal Gazette | Bermuda",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQjBzc0hOWWZ1UVlYTDc3ZkZxY29QdHRLSTB6RmgzTFBmQTAzS3VEaWNNYkNHYnFfZ29jZGN6c2UxWk12UmFta2d2X1FPOGZmemdmbm1MMy1SNFAzLUJUdjVPMDVQRE1ZcnowemZGYklhRFdYUGpFbU1ZVmg2dTB2QVBMUHVUN2hKd1QyTkZLbjNYZFVaeVROa0MxUlJvRXNSZ2pHODc4Z0V6eW5vdVNGQw?oc=5",
+      "summary": "Axa XL using AI to evaluate property risks\u00a0\u00a0Royal Gazette | Bermuda",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "43e243748f46",
+      "title": "Axa and Allianz lead global race to scale AI in insurance, report finds - TechInformed",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fNDNKVnB0Z3BHOVh4eEM5V1V6SkFNRXNUMklJRkVqMGF2bEl4ODZocDdKVFg3dWlBM0UxbzRocTN2XzJEOG5GX1dvdlJNeF96LUR2QTZORnFUdGFNS01CNVFRZlRZWllTSC1TNFdSQWY5ek9LQVVzNA?oc=5",
+      "summary": "Axa and Allianz lead global race to scale AI in insurance, report finds\u00a0\u00a0TechInformed",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c27e6be2ed58",
+      "title": "Axa\u2019s AI Strategy: Analysis of Dominance in Insurance - Klover.ai",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aV0VNVWdKX1U4Q2NmdGM4ZWxWSUNEenNmWGdlSUlJY2dVbks1MnZzQ3BkMFRpd2lPOU5LQkRBTTRtdU5DM1VTb0dYVEFnWm1qa29mV3dRTThpZVRjUmw3ak1pbFUyMEFlM3BQTHg0ZG5pNHdJSFpvUkZGaDNMZw?oc=5",
+      "summary": "Axa\u2019s AI Strategy: Analysis of Dominance in Insurance\u00a0\u00a0Klover.ai",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a71933da43df",
+      "title": "Bharti AXA Life\u2019s Dhanashree Thakkar on AI, Agility & Insurance Inclusion - People Matters - HR News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdUw3RVpNY1ZwN2J1dmVITVJudTdMcWZQYkJNcXROUlk3U0ZHTXZINEhoN2QzandKY1BqX0I5bDlIX1VjLUFhcU1Fa0VXeFl3bXRTTWoyYnF4S1pYZ3k2U1RPSndsekJIazZqcVlEYTJSTDlSMWwxNWlDNmxtbGUxRjBBOVNWR085VUg4V3VQcTVVWVVTZlE4VUtxVk1vQVY4YjBocVU0NlpMZkhPVEhFTjhnNWk2LWkzaXpYV0l6U2NPZlpRRWNJeTNOSmZSQVBsaU5J?oc=5",
+      "summary": "Bharti AXA Life\u2019s Dhanashree Thakkar on AI, Agility & Insurance Inclusion\u00a0\u00a0People Matters - HR News",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2570a599ecac",
+      "title": "Chubb\u2019s AI Strategy: Analysis of Dominance in Insurance, Reinsurance - Klover.ai",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeGpmSHI2dEI0bExjRklWU2lGa2FyNTh6SG9jNTN2bkZ3ZGxWSUdvcFBMRnRvWDJyOVpaQXhFdXBlOEhsN29heEsyclRXNzZrUTVyUFpRUHRtOHJGOEd1UzZRem1XcTVtZ3BqN2ZBd2RGNVZkWllkU2pUNVFMbzRVc2pnRDVkbDBPMUxzV09WY1I?oc=5",
+      "summary": "Chubb\u2019s AI Strategy: Analysis of Dominance in Insurance, Reinsurance\u00a0\u00a0Klover.ai",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ddda20ab12ad",
+      "title": "Cognizant picked as technology partner for AXA digital drive - Consultancy.uk",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdWF4dV9OOEdVQ0Qzd3pqZVhEY196R0NZb21GYjFUYnBoTkloRlZ6QXRjVWVyUjBsWHltZ1Y2cWlpU0F0dFBLdnl2VGhnYU5GRVVXaUZqVWxRNHdwQi1PbkZiNVdhSk40dXE4RlpyNHdGUEh1b2E1bFpwS1BRQmxVOWJFdUplVWhvUFpOQ0lKYTJJeGEzTEg3VEJGN0J2U1XSAaQBQVVfeXFMTml0TE00eVpsUExKdnlVMlRYTmdUVEVabFQxd3NLQlZPWlpGLWFnOE9mMUxoVDZYanRDc2FyeGZiSEU0ekpuNjBrNDBKTHZJSjhDQVV6RnhBWm13WGZ0SExuSWt6MDBVRlcycjJsaV9IZTEyXzg1Q0RSQ2NTNFgyZjB1ZHBqZm9YZTVfaFdzaXhfTDRJcmpPa0w1WmQ4R1pDWGtEdEw?oc=5",
+      "summary": "Cognizant picked as technology partner for AXA digital drive\u00a0\u00a0Consultancy.uk",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8e2e7a6be3c0",
+      "title": "Cyber Risks are Becoming Ever More Serious and Require a Coordinated Response - AXA.com",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BcjQwak5YUmlhWVVuUHZhNW51cGNQSmRadi1JUU9QVWpTQmxYYmtJZVU4elc4bnNod0EwZ01LRG9mbjY3VG1TWS0wNGFwa2RoQV9OQUxnX3ViWGxaUVdNUWxkdjVFVDFoSUI4d01MNV95UEN0NllBaGdqbDFCYlE?oc=5",
+      "summary": "Cyber Risks are Becoming Ever More Serious and Require a Coordinated Response\u00a0\u00a0AXA.com",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "961de21fe81a",
+      "title": "Cyber insurance market shifts focus to AI and data privacy risks, says WSIA panel - Insurance Business",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV091TEx1UUxReGNHZm9NODhya2xxdExjZXVrN0FhaG9iZGpXR0RmeEZORVIzemlrZmpQRkdyNEpHMHlCN1JxTmd0dlNrbFRKSDVkSUV1bXIyQ043OXkxV1E3dmRGRU5RWHVNbU9tLWR6cVA5clVTWVh3aW4yOEpFZWJtUVNQXzBkWW9xWElrZENPV0NCTVF4RjNWSmhFcTlCSkphZ1N2R1BrMkd0Y2lhQ2F3X1ZnOUpvZUw0cDNZQVNEU0xwc083cFAwM3hLT0pYalc0bGNEc2FDdmc?oc=5",
+      "summary": "Cyber insurance market shifts focus to AI and data privacy risks, says WSIA panel\u00a0\u00a0Insurance Business",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8add6df842c9",
+      "title": "CyberSight 360: Cyber insurance trends shaping 2025 and beyond - Lander & Rogers",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQlZaZ1NIUTlLdjVCbzl4RnRFNU5JemZpQ1J1TjhCY3FMeEstTUZiNVp1Y1lXOEZOMTJ6Rk82U01vY25KZ05pQ2syWnNkeHRpcFRzVHp6ekVCcjZ1d0FMWVY3RjFuZm5mdHFYMjk2eDUtVmROVmQ2eWoxellIanUxRGZuUHRWRzRidTJObXp3eDR1Y19sQmlPbQ?oc=5",
+      "summary": "CyberSight 360: Cyber insurance trends shaping 2025 and beyond\u00a0\u00a0Lander & Rogers",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "203654561322",
+      "title": "Digital Transformation & Innovation in Insurance: A Leadership-Led View of What\u2019s Working - FF News | Fintech Finance",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHR1VDlmWVlwcWFMbmlxaE1VS0hScEhsbC11RHZob19wX0YtUGp0M3dRT0tGUWtaS25SYzFmelRJNmwxNUhzM0RsSGZ6MXlfODNkSTBYSVd3cnR3WE5RZnA1Vk1uQ3o5d2FTRXN4MVRiN1Z4blBuU0JvRGhSbjdsYXpUS05ZTGYtQWZ4Zm9wYm5aUk9PV3llN3VzSVJKb3VmOEF0YkJQYkxwY0RKdGxYSVEwVlJjUQ?oc=5",
+      "summary": "Digital Transformation & Innovation in Insurance: A Leadership-Led View of What\u2019s Working\u00a0\u00a0FF News | Fintech Finance",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6349922402f3",
+      "title": "Digital health push gains momentum as firm rolls out WhatsApp chatbot to cut hospital delays - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbjdmandCR09tMm5sQkpPMTF6TWJQVlhlanh4UzZHTHMwX0lKVHQyU3NPSDdlSjdWWXhNTHFMWnhxNS0yLVlpdEV4NFZQZDFDUXhyTlFWWjRCQkFBTjlFYXQ2X3lzVlhfZlA0MnB3RndhbjBDTlRqTGZMa2oxV3dhLVQ1U3VuZ29SOXk5QmlBLWRwLW9XNTlvNnI4UHFjeDZUU1VWVG84S3phV1lYeHZfcGRYUkF2YmZnT3c?oc=5",
+      "summary": "Digital health push gains momentum as firm rolls out WhatsApp chatbot to cut hospital delays\u00a0\u00a0The Guardian Nigeria News",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f81747a332d3",
+      "title": "Digitalization of the Insurance Industry: Trends and Innovations - AXA.com",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNEt3NUZNckNvZmhsZzZ2Vi1hUTVDNVY2bmREalJfc1ZUazZMVVNKckItZERybFR1SFZVckxpMFo2VkFQQ2YxVkxuTEFTSDBtSWFiQUdjZzRPYjlEUFRtLUNDa0NsbUplQkZvTHJ0LVlIR1NiMGptbmJqb0FTNGRZZmduWk5RWm56aGs2c2dpSzZwd0d0ZEU3OHdPRQ?oc=5",
+      "summary": "Digitalization of the Insurance Industry: Trends and Innovations\u00a0\u00a0AXA.com",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e6c6a7383381",
+      "title": "Discover how AXA GBS is reimagining the insurance industry through AI and data science in this exclusive interview with Sayandeep Majumder, AVP of Data Science & AI Engineering, AXA recorded at Cypher 2025. Sayandeep discusses AXA\u2019s strategic AI ro - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOa2d0NDVETmNUcS15THhDaFM4ZHdUQUxSdEh1cm14TGtVdTRUV3NsLWxmQmVtTGhmNmE0bFdVMjFwWFhUV1hNQzJfMHJpcDZSenA0RFZPTkFMNzRvczlCMzIwNjVVVjdaUm1hSjd4cUc0M0t4eFU1WGdXZ3NFV3ZJbnY5UTlSZENVVW1NaE1XVmtZaVQ4RnVfSl8tQW9XY0hoVFlOZW5neWU4SlNPWU8tbEZOQUFPUQ?oc=5",
+      "summary": "Discover how AXA GBS is reimagining the insurance industry through AI and data science in this exclusive interview with Sayandeep Majumder, AVP of Data Science & AI Engineering, AXA recorded at Cypher",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "315501ba2153",
+      "title": "Facing into risk for a future to be imagined, AXA XL and VCCP\u2019s two-stage campaign - adobo Magazine",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUjJaQlZTd19lU09CUk8yeEN3dE5yR1R3bFEtRExra1NNZ2tfbmVLcGxEUDJrMTkyd3I3UTM5SmVLU25GUWNMUjJfTDdHMmV6M0NidzhZOHNBYWh1enJIUnRXZnFnVGwwUnluS3M2NXA2Q29GYVBNbURwanRGSDJmVDVSQ3AyWEcwdjR6dkg4TWh0NDRua2U1dF9n?oc=5",
+      "summary": "Facing into risk for a future to be imagined, AXA XL and VCCP\u2019s two-stage campaign\u00a0\u00a0adobo Magazine",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "89be38efb125",
+      "title": "Firm launches digital motor inspection tool - The Nation Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUQzJ1UWdkRWtqSzlYZ3dENXBRT1BlbGZUNVEyMGdKcUtUX3pxcGVkU2xqUGpzam1vekc2Um40NDA3VTNRTWRMZUZ3c0FyQUJ0ajNvWndpTUhiR1BoTUJ1VHV6OEFlQ3hDTWVjQ1NDZGxtLWpqdGZmU2tENUpuVXM?oc=5",
+      "summary": "Firm launches digital motor inspection tool\u00a0\u00a0The Nation Newspaper",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8379228e2be6",
+      "title": "Five-Year Renewal of Collaboration between Shift Technology and AXA to accelerate AI-Powered Insurance Transformation - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZjNmTzVWRmd5M0d4cnFaSnhUWnl0UjNpNnNGWUdCWFNRNkFLX0lxdThQUndseFJ5X3FmQnBsS2gxdUxXVFNDT1BtNmF5MnBFdUEyLXlocFRlcmZhbXdWQnpsOGNTLV9Db2dtaW9CcmdIVm81VnZ6bVFpRVJ5VkFVWFZWXzVCZUozU1pxNHNFbw?oc=5",
+      "summary": "Five-Year Renewal of Collaboration between Shift Technology and AXA to accelerate AI-Powered Insurance Transformation\u00a0\u00a0Yahoo Finance",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a7031a598cea",
+      "title": "Former AIG and AXA XL Chief Underwriter Chris Kopser Joins Findevor as Executive Advisor - Coverager",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdm1BZkV2b1BIWmUydmNIWnZjc3Rfd0t6MHNFUEkzV1NrS1JuTUNfbkZSVDNmc29fZFZ2bjB4azYtMGxqeVZMWWNnbFZYbnRrUTlCOFpLZkF6OHltYlVjOWVnT2VibTZRaENPbjVBUENSdEZqd09lM0xlNTAxNTczanJHYjA5SnNhbFMwSkhoT2d5a2czckI1QnkwVlZGQ0NoelhweDBIWWVrclgyVUgySA?oc=5",
+      "summary": "Former AIG and AXA XL Chief Underwriter Chris Kopser Joins Findevor as Executive Advisor\u00a0\u00a0Coverager",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "06c6af0707b4",
+      "title": "Former XL CEO McGavick Returns to Insurance With AI Firm Mea Platform - Insurance Journal",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4xQ3habkdpcDNSRXBVbTJOSE9NYVFtQjJxM21XVks0bl9DWTVwNEpBTnJDdjBIZng5VjhZUjRJZkF0Rk1zSWJ2ZFJWcWdDSnBiLUdBVEFpNE11enpLOGpCQzNfampCRm5BZ1EyYkRDYUNBMHRpVWR3?oc=5",
+      "summary": "Former XL CEO McGavick Returns to Insurance With AI Firm Mea Platform\u00a0\u00a0Insurance Journal",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5e3336ae0e5f",
+      "title": "From Data Silos to Shared Insights: Transforming AI Risk Management - Risk & Insurance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSS1SZE01eVV2WjFGMmlHeUYyeHhNSkxUa0p3VUVUMkZRR3NmNnRQZVNSVmpHU3NIalk3c2kyWGFtUXVqTXdBOHZERkRvTU1zVW43R2poT3otOVJzVFhMMnhhNEd0RmFjMmdhWFp5bnI4LWdQd01JTTVJNmdRczVId1VKckhpRzJiM25WY3dqdFZnWER6TzRSbEJfZDg?oc=5",
+      "summary": "From Data Silos to Shared Insights: Transforming AI Risk Management\u00a0\u00a0Risk & Insurance",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8d9b936982e0",
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "summary": "Article URL: https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/\nComments URL: https://news.ycombinator.com/item?id=48019219\nPoints: 214\n# Comments: 223",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "81f6301ff037",
+      "title": "Groundbreaking AI innovation is transforming industries across France - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcktwRG10UG9NczFISDZ5NGg4cm0tUklqeDRnTm80a2NfOXV0NVpFbmY2Mjk2UnZLSnNOaTZSSWtzcU9YeklCTk5IWGRuOVBPbVQ5NlI4Z21EcHJqSF83dlZKd0NDNGVTRVNsaW1RNmN5eHV0NjdMSTZIaV8xM0dWQTMtSHo5a1JLNjUtemJhSjc0RnJ5anJmTmswSmNRb0FISzNuaWw3TUZWQlJjYm1STng5VzQwb19LZHN4bnVWeW4zQzljOGh6VjlrOTI0d0k?oc=5",
+      "summary": "Groundbreaking AI innovation is transforming industries across France\u00a0\u00a0Microsoft",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e2bf7c72d357",
+      "title": "How PowerLabs is helping Nigerian businesses cut energy bills",
+      "url": "https://techpoint.africa/feature/powerlabs-helping-nigerian-businesses-cut-cost/",
+      "summary": "Nigerian businesses juggle unreliable grid power, diesel generators, and solar systems at high cost. PowerLabs\u2019 software platform, Pai, helps optimise energy use, cutting expenses and improving uptime",
+      "source": "Techpoint Africa",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0eb0dd56b93b",
+      "title": "ING and AXA to build digital insurance platform - FinTech Futures",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY0NJczc2TkRzSFNHNzFleU1kYnpWYmtHQmh0Z2R6ZFNoYjJxS3F2RFB6d2ZGWXUycE1GcFhra2pLTUhvUlpBWWdUVW9zWWtoOXU5UC1jNFdKbHVGSFE5UW5fUzZmbFctYlZsT0VNSTc2YXQ2YmhMaWl2VTYzWVlFYW5Fb1FfVTFrM0VRVlRuQXZhX3VyMjB3VHVMMktiTUU?oc=5",
+      "summary": "ING and AXA to build digital insurance platform\u00a0\u00a0FinTech Futures",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "35ede907ca95",
+      "title": "Insurer backs AMSA conference, signals strategic push for healthcare innovation - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1ExdGFsN3VrR25MSHNSOVo4MkFpNnRXNUk3QkRJbDJTMTZUa1RCY3lrOGk4Ny15eVdicGoxdlpDVTlpRWFQdDExR3ZOTEZyTmkzd3cxbTdkbkwwVE9US0xvYzUxZkJRSlZPcUxQMlVPT3RVUHZBOV9hS3JaRnJpSURNT0lURDRIVFJiaEJMbzZiVi1yTVNuYjJWNXhBTlBIeWp0U2t6cw?oc=5",
+      "summary": "Insurer backs AMSA conference, signals strategic push for healthcare innovation\u00a0\u00a0The Guardian Nigeria News",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c03e59e99002",
+      "title": "Insurers Brace For Rising Cyber And AI Risks In 2025 - Evrim A\u011fac\u0131",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd0NkVkQ3ZUVfSi12OGdmbXliaFRaN2hIcGh1enl3ZVVjTnZNQlQ5NWVYZHB2SVE0Q2hqcGZBQzY3SXNWd08xdVVBLTQ0ZTUzVHpVYXdxNkItUHNWOUo2Q200OHdiMkdQZXVoM2F6UEFvZWItY3pyOFlCVXVpVGR1b0xDT2lEa1NLQWxkNXFYRQ?oc=5",
+      "summary": "Insurers Brace For Rising Cyber And AI Risks In 2025\u00a0\u00a0Evrim A\u011fac\u0131",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5ad7be65fb9c",
+      "title": "Insurers ramp up AI adoption \u2014 cautiously - CIO Dive",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcmZsU2puekItRXNDYW11WGNiTHdYcGxka2d6b2YwMklaM0RxN3I3ZUpNaWpsNlFTRktwYS1yYlVkNFRMcjlpOU9PN2F0VWlnU1BQNUJneElQWlF5SnhaMEp5TGlPTkZpczB6cEcwd2Q4cEVGYm5BX0VXY01UTmxERUhsZEZ5eHpRdlJHcjg1MGRCZl9ZQk8wV3p5bHhtWWY5?oc=5",
+      "summary": "Insurers ramp up AI adoption \u2014 cautiously\u00a0\u00a0CIO Dive",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2890fed9e3fd",
+      "title": "Kled pulled its AI-training app from Nigeria: fraud or flawed verification?",
+      "url": "https://technext24.com/2026/05/05/kled-pulled-its-app-from-nigeria/",
+      "summary": "The post was framed as an apology. Avi Patel, founder of Kled, a data marketplace that pays users\u2026",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "781a2acfc8f4",
+      "title": "LG Electronics Extends Care Beyond Technology With AXA Mansard Health Partnership - Independent Newspaper Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbXpWbUIwOUNUUmxCc2xQS1JNYkxSU29ScU9yRXIwbFBueGNiNy13TS1jaGVKZnFmdW41SUlLZmJnek0yWVJ3dk5QUlVicjJ6MUNjcWd4V1hNclBnZk5NUkpOaEVEWW5hSHBJXzd0Z0h2NDlwTURDWGkyTVlIZU5aemJvZElnOEk2WHBwZmhsaEhkaVpNWUZKdlZ6ZEV5ZGRZV19KX1YtM2Y?oc=5",
+      "summary": "LG Electronics Extends Care Beyond Technology With AXA Mansard Health Partnership\u00a0\u00a0Independent Newspaper Nigeria",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2a82b448c9b9",
+      "title": "LG Electronics extends care beyond technology with AXA Mansard Health partnership - Premium Times Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbmUzQnJON3dmWlh2Y3ZyZEdDTklRakFXZ3I4MUZmYm1DUXVrSC0tU3ZyQ1RjUXdFZ0F4eklLcW5lS0JkMjlCankyRm4wYk5PQlNuSFNxWjdoUGpSUVlUcHhTNlNpNjY2WkZKTS1tWWx4MHo4S09zX2s4ZkVqQm1qNFNSbnlYMkNSSlZUcHZQLTkzakhOeVRwUGY0YlExbUVUQVBDODY2N0p4djA0b0Q1akwyM3E5SkJ3Q2t1WXpISU1sREc2RFU3RDFXMUFZQQ?oc=5",
+      "summary": "LG Electronics extends care beyond technology with AXA Mansard Health partnership\u00a0\u00a0Premium Times Nigeria",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "93d36ce2ec28",
+      "title": "LG electronics extends care beyond technology with AXA Mansard Health partnership - Vanguard News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLVV3dnlWa0JOSmpnclZFSnRxOHFFTnZuZFptemdoY1MzaWNjcjk4X09zdk1xQUVRWEdSV2IyeDFqdTAwZ1NSSFRZbVhHRXRHWUE5LUdXemxEXzV2WEJEbjZkeVVRa0p4WVkxaTB5MkZzbGs4UW4wSlI0bG1ZVkVFaVp4RVdSSUpmMnpyMUVTRVY0dzNvaXhpYXhHU0RqTWx5dWN5dnJYZkM3d2poU0tPdG5rNkZuV2ZEaGfSAb8BQVVfeXFMUFhMVXFjcVdiaGlpWnMwb2szdmJtZXpZTEViS2E1a2RURFFfUlRVREVRNGNSUlRYdlpxWHFWOGNBOW9EcWJjVjl1OUxUX1RaSEljdzZ6Rld2a3ZlamVqZEowOXdTS2VvVGF2X0o5WFZTMGFqdnh2T0VBTms3OU1wT0dHV3dzV0FTeGY2SHF6eEZWTDIzbUY5V0ZtSm4zTzUwdUNuSS16ZHlCTFEtelAySGUzdHQ5eHg4XzVaWUszc1k?oc=5",
+      "summary": "LG electronics extends care beyond technology with AXA Mansard Health partnership\u00a0\u00a0Vanguard News",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0b99b891a2be",
+      "title": "MTN Nigeria hands over MoMo to its parent for \u20a695.5B",
+      "url": "https://techpoint.africa/insight/techpoint-digest-1334/",
+      "summary": "On Techpoint Digest, we discuss MTN Nigeria\u2019s \u20a695.5 billion handover of MoMo to its parent company, Amazon\u2019s filing to launch satellite Internet in Kenya, and Airtel Money\u2019s plan to pursue a $10 billi",
+      "source": "Techpoint Africa",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "222275ce6ec6",
+      "title": "MTN Nigeria says it saved $5.89 million on gas as diesel dominates energy mix",
+      "url": "https://techcabal.com/2026/05/04/mtn-nigeria-saves-5-9m-on-gas-diesel-still-dominates/",
+      "summary": "In 2025, diesel made up 58.11% of MTN Nigeria\u2019s total energy consumption, far exceeding gas-powered Independent Power Producers (23.63%) and electricity from the national grid (18.04%), the sustainabi",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "187c70c1de8e",
+      "title": "MTN, Airtel, Globacom battle for data dominance as subscriber growth slows",
+      "url": "https://nairametrics.com/2026/05/05/mtn-airtel-globacom-battle-for-data-dominance-as-subscriber-growth-slows/",
+      "summary": "Nigeria\u2019s telecom operators are entering a new phase of competition, where the fight for the last million subscribers is giving way to a deeper battle for data supremacy, network quality, and infrastr",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c1d7e935876e",
+      "title": "McGill and Partners, AXA XL launch digital partnership to streamline risk placement - Insurance Business",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNN0VsLUtpLW9SMU9BY0JJczBDYzZTaHZlQVlBMmRYYmVrOC13Uk11dTR2VjExdGZRMkc4Ump6QjBEQ21KWGo3RjgxWTZ1RlJibW4tTkUzdU9jcVo2MFpiV1pocHRtR1BFNUJSU2FGTmQtOWg5T3FqWUJlZEJPYmNRLTI2Mnc5d3ZUQXpuTmtWdWtmQlFiaEZkX2RiM1BYWXFPOHFWZW9kbjEySlFlcnB3a1d3TkRpZjExZHlGa3lIZldUMGEyaVlNSGFkN3UxZlk0aUZBUE5pSTVQdmh0SjFBZTFNWjY?oc=5",
+      "summary": "McGill and Partners, AXA XL launch digital partnership to streamline risk placement\u00a0\u00a0Insurance Business",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8221a8c7bf2f",
+      "title": "McGill and Partners, AXA XL launch digital partnership to streamline risk placement - Insurance Business",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaVY5bXZVbmI0SXhSak9FZ2FzZl9VQmdCd1A0RmFBU05OeVZsdGJ1UFZJdjR3QnBFbWhXTnNXUFJDeWVsM3ZSNHgyemZHTlBGV2pjdHJwMGVxRnk5c0dYQU1FQ0VFNWpMZGxidk1tQU9QaXpPbkJMVEJJU3ZQeUV5TDh2cWdVOTJaVEVNbXBOTHBfNjZuRW9fWW12dzdwZnA2M1pJYWZNM25JcURHREFTd3pYTEMwNDI3LUFRV3MzajZfSDNwTXVCTGxCUXhkeXE3VVNqTS1yaURQRzRqa2ZsWGlHZ3lpU0lG?oc=5",
+      "summary": "McGill and Partners, AXA XL launch digital partnership to streamline risk placement\u00a0\u00a0Insurance Business",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "feebb80a00b3",
+      "title": "Microsoft 365 Empowers Smart Office and the Digital Transformation of AXA Tianping - Microsoft",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0pJTkx4eHI2a25zWDdUa2s5TmRHU1dVSnJjcTZ5SFZXNVJsQmVFWUJDZnFXZDdTSl9HSWZhS203Z1k5T2JrUVd2RTVqQXBqZ1ZrRzFFUEo2VUpEZjJRSm5WQU9uREhSYjNzemVHNUdxLVNPNGI0YzlfN2thNGZ2QUExd09lekQyMVdFaVdKdTY4T2FJRjU3TUNndFZRM0F6YUZV?oc=5",
+      "summary": "Microsoft 365 Empowers Smart Office and the Digital Transformation of AXA Tianping\u00a0\u00a0Microsoft",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c2d27c261880",
+      "title": "Moonshot by TechCabal returns to Lagos for fourth edition in October",
+      "url": "https://techcabal.com/2026/05/04/moonshot-by-techcabal-returns-for-fourth-edition/",
+      "summary": "Moonshot by TechCabal, the pan-African technology conference, will return for its fourth edition on October 28 and 29, 2026, at the National Theatre Nigeria in Lagos, Nigeria.",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "27322538e9ce",
+      "title": "Morocco Ministries Partner with AXA Group to Elevate Digital Skills in AI, Cybersecurity - Morocco World News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZ3dqVVJWX1d2ZTkxMUFBcmt6TEc2YkFIWmM0dW9LeHRMcldyOWQxSkkxaGlva281ZU02M1ZJRHNrQnM3RFlkaGhiZmZlenMydS1aZWlVVy1NR1MxSUNrbUtsUFdCejBmdlhLVThpeElFWU83bHZudWhCZDFyWmRHbzBOeWtfMlg3RzQ0YlBocmdCUl81b28wUy01SlhkbTZJcFpKZG9uUzJLQy05bFRvLW9hZXRNRE91S2Z2V0tWb0hkczk1eGtFZWtnM09La1poeUE?oc=5",
+      "summary": "Morocco Ministries Partner with AXA Group to Elevate Digital Skills in AI, Cybersecurity\u00a0\u00a0Morocco World News",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c8fbd56ae0c3",
+      "title": "Nigeria risks losing investors over slow business registration \u2014 RMAFC warns",
+      "url": "https://nairametrics.com/2026/05/05/nigeria-risks-losing-investment-opportunities-if-it-fails-to-speed-up-its-business-registration-processes-the-revenue-mobilisation-allocation-and-fiscal-commission-rmafc-has-warned/",
+      "summary": "Nigeria risks losing investment opportunities if it fails to speed up its business registration processes, the Revenue Mobilisation Allocation and Fiscal Commission (RMAFC) has warned.\u00a0\nThe post Niger",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "57f9e09328d7",
+      "title": "OmniRetail launches new platform to digitise FMCG distribution and financing",
+      "url": "https://techcabal.com/2026/05/05/omniretail-launches-omnione/",
+      "summary": "OmniOne is the company\u2019s attempt to extend that infrastructure to manufacturers by turning its distribution network into a system that also delivers data visibility and financial services.",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8e7687241868",
+      "title": "Our digital journey has completely transformed the way we do sales, underwriting, onboarding, payments, and servicing for our customers : Sattam Bhattacharya, CITSO and Head of IT Enterprise Architecture, Engineering, and Infrastructure at Bharti AXA Life I - Express Computer",
+      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPd0FVSzlFT0lTM1I4UHFmTHZ2VWI5NG80Z2Yzby1Id2Q1ZXdnWHpnczkyX09FaXhpdzJkRTNublh3cVpyd0lZZ0NlV0RVVWpRTzk5VGhmRzFyeVlTOTN0TzFGNTdKT3ZSRHRCYUpmV2Fmek5paDc3VWxSTkN5UnAzeWRJY1NabFZVQ2hSTy1Yc1htSmhlSHJsVUxNbk8xZ3dGT3dhMzBxMUJzUlZfY0QwWExScEkzSDE5NWhmcnUyTEEtTHpZTzBGblg3cng3cjJJQ2w2cVlualFYSEZJSnlUNzNpYWFFNUEtTzc5eDBNcjQwSW9JaGpKN1VGamZNQmdhTXYtRlFwQ1lBbG0wdTNDbVV0cDhNbGZ4YnItbk11VDFFSkJwZFFCbDR3TE9lN0xncWxTSWc4T3JvRzNILUV3U3pKOHFBRjFmUnlNZzdGbE53SzFPVzRwZXNUZTI1MmZVWGE5bXM0R1F4d0d6SkR3TUx5Tm96Z9IB-wJBVV95cUxPOEhTWVpaTkhib2RMWW8tM2l5OHNhTTY3dnduVnBxNHBfb20tV1ltWHJBWlExY3FGTDlqdlZTR0tLbExvcnVDSFVORm5LVDI4SFdqbFQ1S1pqQ2JKWno0cEFyeHdpek9JSjR4UjhMTzJybEppb2FMenFLX1c3RW5WSmVvR1Y3emdOOURueldnamtma0hldzBYZkdTQzdmUVh1X2V0UEx2MDE3N09iYnRuZ00yNDc2UnFCWDRwdzNNb2x3XzBuLUNtdVR4U0J5a3R2bUdGY1ZlX29GdE1QejJSRXk3VFJvRkUyRmNCaGxLMEFaUVczeGFMd1RGbUhfODZ6aTFSakJzRDB0RGpOZ05UNW56M2FGRDN6d3MxX3M3STBLSk8tUlVaWUswemQ3OFhZS2llV21aU05nM0UwSk5ENjZlOXZOelQ2dVFJMlVVTXowVW9Id09jMS1OdHhaZGYzQ3hzdHdNMjhJOG1BUGEzbWlTQUQxOFFuLXAw?oc=5",
+      "summary": "Our digital journey has completely transformed the way we do sales, underwriting, onboarding, payments, and servicing for our customers : Sattam Bhattacharya, CITSO and Head of IT Enterprise Architect",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3ff29193a0d9",
+      "title": "PalmPay Partners AXA Mansard Health to Make Digital Insurance Accessible, Affordable - Nigeria Communications Week",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT1lUY1Z6WUlyeV8ycFNqRWJBVGw4d1ZmNFh6WU1FWXIzazhZb1JpXzA1N1czOVRuaVJLcm9XT3UteXp5ZHVfWE5rM0EwZ0w3M3JHVjc2bVZFRUwtUm5PUEoyQVAyRVp2cVVWOXhXNU9mN0wwYjlyQ1lPMHRkM2RZcDdlS2UwTjRqb1JWTVVnU0NMMUFsRTVZOG54V3NIS1VRVC1pUjNIc2xWWlFzY1kxc2tFSE1fdUxYdkdxUER3UktUZWZ6NWozNQ?oc=5",
+      "summary": "PalmPay Partners AXA Mansard Health to Make Digital Insurance Accessible, Affordable\u00a0\u00a0Nigeria Communications Week",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3b2ed9f70195",
+      "title": "PalmPay, AXA Mansard partner to make digital insurance affordable for Nigerians - Business News Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPajg0a21qUEplR3M3bU5ZZEw5N3RzVU5jbmVTWmx3eEFydUdWamlDSXNaXzZXd2dNRDVybFVLdXNoeFNuWmdsUDBsNDZaT21ibmlKeHBSRF9qU2xIRFd3VEJIOTVDQTI4RjZMSmY5bjMwcVU1OUpIMjA3Ym5NYlozQWNqRi04ZFRFWDNYcGRHV3daUElOVmdZWVhoR1g2YXFvSmx3eEdTeVVsUDB1clJia20yNFBSal9YbXBTcA?oc=5",
+      "summary": "PalmPay, AXA Mansard partner to make digital insurance affordable for Nigerians\u00a0\u00a0Business News Nigeria",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3e9675b6db42",
+      "title": "QA teams brace for AI-driven transformation as AXA rewrites insurance model - QA Financial",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUXdWSVRBNlZnUFZUc0VLdFNSRTZ5aGtzUFVzUkRFRVNoNWJ2TzV2YVpfYmI3c1NsUndiRnlLTTdtcnFReVdTa0JVTEdPQTY0SEFwNFRZRWZHN29SS056dHE2VURTLTZGWm1RTFkyMG9OeC1PMTd0QWExbl93NW9GWEdTMTJyeDZ0UHN0b25UZXhhVXg3VlljUHFMMWRudmZOdVY0?oc=5",
+      "summary": "QA teams brace for AI-driven transformation as AXA rewrites insurance model\u00a0\u00a0QA Financial",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "dc50eabe580d",
+      "title": "Rob Malone Named U.S. Head of Cyber at AXA XL - Risk & Insurance",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42WTJYeDdEVjVHU3g4TnBVbUFfdWpiMURFS2ZGT2xvS0R3c1VyMDFjbzlRLW9XUEhwUnc1UzMzN0tjVFIwYlVkSEJEZTVJQlY2dmdNU0F3ejFnb0JZNk5tWTJvd2hqZzU4TnB5TmU2U2pwSmxIZndlTldhODV4dE0?oc=5",
+      "summary": "Rob Malone Named U.S. Head of Cyber at AXA XL\u00a0\u00a0Risk & Insurance",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f26d6c43c4ae",
+      "title": "Seplat and Mansard lead rally as NGX gains \u20a6786bn - Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE94SjB5Uy1GR09pTzVaVFlPekk0UWRuMGRpS3ozMWRJVW8zQlE4amdSRmk1R2p5dHEtSmRzaFlaQjhyUl84LU4zSGFrdHY2MWlzcnVHQkJaZWxSdGgybjRiU2VFSS1oM3VuWjVzeEd0bzdGakpER3FoQkJ0OEdxVkE?oc=5",
+      "summary": "Seplat and Mansard lead rally as NGX gains \u20a6786bn\u00a0\u00a0Punch Newspapers",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "bb18dbf030d2",
+      "title": "Shift Technology and AXA renew partnership across 15 countries - Coverager",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOODF6aVNTa25OTDhYLUJjYllTODMza1VWWlhYOWJ3VVl5UlVvUFJYWmZvMVRTY0FDWXo1OVUtRnRaWXZRZHlqaEIzb0t0NjRqNGFzdkJUbnYyMmhrWTh3eGtNTDlrYm1uQXdZeGZyOGdWZktTcW9fcDBCY2t4NVlRUEd2dFgyQkN4eVd0UHdR?oc=5",
+      "summary": "Shift Technology and AXA renew partnership across 15 countries\u00a0\u00a0Coverager",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "43f68621ca7c",
+      "title": "Shweta Singh Joins Bharti AXA Life Insurance as SVP & Head \u2013 AI & Analytics - digital terminal",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOHU3eXBoam1Tc1RERFZKMFNzZE16WHBKWUpMYXlZY2xuWGdMMExlMF9oR1gxcUM1UmhmNlVQaHlqMXU0N3FrZjlHSjJEZDZVVDZDU3dEWDhDTUI2MXpXOW1hc190dUwtNFZsVmRYZHVPTll0RWVibW5lWVBDYTMxanlWVXVRd2pjUkJrQ2JmVWFSUk5pQ1FGTUowa0NPSXladHfSAa8BQVVfeXFMTlh5dU5lSksteEhUMzktak1fU21Cb0hxVzNqYU9Dak1xa3lTM0U0aTduX0Vjakhma0wwTnlEQkZOdUFjcmo5U19OcnhEUFlVSkdrZjdPaWtyYnNMSjdmM29LZGpjYTFVQkNDZll6N1JmY2FFNjJYal9wOGhuSHpxVWJUWk9FanVRbV9CSzBUOEd4Z1hiWl9RQVFJb3hhSHBUeDlnOVkyWWprR1g3NWJSWQ?oc=5",
+      "summary": "Shweta Singh Joins Bharti AXA Life Insurance as SVP & Head \u2013 AI & Analytics\u00a0\u00a0digital terminal",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "25217eab04f9",
+      "title": "Shweta Singh joins Bharti AXA Life Insurance as SVP & Head \u2013 AI & Analytics - Indiatimes",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObS1sUTZkc3pCSUMteW5QR0RobDBueU1uaFpQZVVHNWt2SDN5cnNCX3h5RnJEZzBQS2lJa3M1Vll3NTIwdGJtSzdORlpXRlZ5eTZ3MTFyYm5GcjlfaWN1VEQzTVozZDJkUEVYT1lIRkRNc1pEUzRjV1J4RWU2NHE4WTNyNDVac1FOVDJfcHJ6ZUIwT2RocFRKZWY3SkppOE1rZ3I3Q3JJMmRUUjhZN1dDQ1BsWFpINnM3M04ySU9fZTF3UXVzc0w1N3dYVWFGVkVxcFJzVjlSTnhEbDBQOUE?oc=5",
+      "summary": "Shweta Singh joins Bharti AXA Life Insurance as SVP & Head \u2013 AI & Analytics\u00a0\u00a0Indiatimes",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "653ae0662178",
+      "title": "Starting the year with a strategic leap, Shweta Singh has taken on the role of Senior Vice President & Head \u2013 AI & Analytics at Bharti AXA Life Insurance. With an impressive career spanning nearly 21 years at Tata AIA Life Insurance, she played a pivotal role i - LinkedIn",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNalZ6ZTRBN3lOazJuTTN2LWdzSUVPUHg1MTAtN3VTa3FYUHZkcVpEUlRGYUpNVFoxa0swOUhxenJYeXNfZjVqRFJmNEFubUZGS29iVW9BekRHT1RKLVNVWFJGbjRVOUZHa0t4VmxadGE1OHFMX3QzR1Rza20yaUhwYWdKMXZMSGY3MjZaNDZiTUZ3Nll0dnh4M1JELWR0ZnVleGh3eEdvMnU5UFNVTlpvVmlJS1c0R0tEeDdoWXhRRU5OSDBXby1LWQ?oc=5",
+      "summary": "Starting the year with a strategic leap, Shweta Singh has taken on the role of Senior Vice President & Head \u2013 AI & Analytics at Bharti AXA Life Insurance. With an impressive career spanning nearly 21 ",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "56d6c298e7d2",
+      "title": "Successful AI depends on insight, not efficiency, AXA XL CEO says - Digital Insurance",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUTZ1ZEVtMGZQYm1LbTVSNVNPNWkzOU9NNTQ5cFBCMi1MTnFfOHFXUE9qMnVhM29vdEdnYzBTNndQQ1QyVUMxS29hc0dPQllLWE1aQlc4WTE3bXROYUY3MFVQT2tIaHZ1QXp3MDVSeE5jYlBXWlZKb2RWRFBRSGg5amhSTW5CbEJSaXdN?oc=5",
+      "summary": "Successful AI depends on insight, not efficiency, AXA XL CEO says\u00a0\u00a0Digital Insurance",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "fa25c95f8ed2",
+      "title": "The Renaissance Graduate Trainee Programme 2026 for young Nigerian graduates.",
+      "url": "https://www.opportunitiesforafricans.com/the-renaissance-graduate-trainee-programme-2026/",
+      "summary": "Application Deadline: : 13th May 2026. Applications are now open for the 2026 Renaissance Graduate Programme. As a Graduate Trainee at Renaissance Africa Energy Company Limited, you will join a\u2026",
+      "source": "Opps4Africans",
+      "angle": "General opportunity \u2014 review if relevant to your network.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "178208977d71",
+      "title": "Threat actors fabricating breaches with AI, extorting companies never compromised, Axa XL's Cujdik says - theinsurer.com",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1hDS0FEcVgydGZYX2pnTUNpQlAwNXBoZW9WcHY1MVNja3d6M2s0emVoTVIzanUyQ1VIQUxrdmFKS0NDbWxyVUtDeWlreGItVG5oeUFkUmJPdXlwbW43aUpXaHNZT2JCM1pIZ1R2NldoN3hLRGJaQWV6dFk2dFZYUTlrb0VvUGNEanJWRWRMN3NWVXZpbmI1Sno5dHdmWlM2Z1ZKSDctcnM3ejVKT0d3ZVh6TDIwT2V4TXIxcTNzNHBNYXBBRG1qaEhxOExuZFMzdlE?oc=5",
+      "summary": "Threat actors fabricating breaches with AI, extorting companies never compromised, Axa XL's Cujdik says\u00a0\u00a0theinsurer.com",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "32be0e3238e0",
+      "title": "Tokio Marine\u2019s AI Strategy: Analysis of Dominance in Insurance AI - Klover.ai",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYTF5RFA1akNNTm9MTEZuYWdYTEhZMmdOYmlOSkoxM25ldTE4cUtlbDdxdzJkZnM0TlloNE9vSThfdi1jZkZ4bEV6N0NxRDk3NnM5OHNFR2ttWERTRnNmU2VGS3lUYkp4VkJySTk5WUgwal82U1lCVHdpd0hWUUtpN0ZuV3BIZDNuUk5OMnBR?oc=5",
+      "summary": "Tokio Marine\u2019s AI Strategy: Analysis of Dominance in Insurance AI\u00a0\u00a0Klover.ai",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f1d22ffca465",
+      "title": "Why\u00a0Tier-1 banks\u2019 profits declined by 18%\u00a0despite strong earnings growth",
+      "url": "https://nairametrics.com/2026/05/05/why-tier-1-banks-profits-declined-by-18-despite-strong-earnings-growth/",
+      "summary": "Five listed Nigerian Tier-1 banks\u00a0also known as FUGAZ\u00a0have released their full-year 2025 results for the period ended December 2025, reporting a combined pre-tax profit of N4.15 trillion.\nThe post Why",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6c91774831c5",
+      "title": "Winning With AI: Strategies from the insurance industry\u2019s top performers - InsuranceNewsNet",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTlAtZUU0RzNJR080aUpYd1NnUHpXU3hWTWZ1cXQzNnZRbV9TLXRyNzhTc1FwRXZmQWdkLVdrUGIxMExhODBzWWZmc0t3T3lueTN2QWlmY1hZdndLSVZmUW8xbXBVdzJLSVNsdlpLZnBZQ1hUQmJVb2ktLXpNQTk2bFZnT25NS2kxWjF4OW5MWHFTcFpmMmVoaXU0RzNGdnFoTzd0S0NnSmd6UndZbDRB?oc=5",
+      "summary": "Winning With AI: Strategies from the insurance industry\u2019s top performers\u00a0\u00a0InsuranceNewsNet",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "87dc2333961f",
+      "title": "Zurich Insurance Group\u2019s AI Strategy: Analysis of Dominance in Insurance AI - Klover.ai",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVmlhNjV1LTdPUm04dy03S1dXOWNCZXpQeE84MEF4bmU2YlJqNEVSRVR3WTVqLTdNM29IWEViRmVaenJia1k1OThhSU5tRDE3Y1NhRUV3VnFIZHFEcDRudExqYXdHZGc4UlF5eTV3VXdKQzVhNXlsZDcwUlpBZ2E3VlZWU0VveW82Z210MTIyTURXM2ZpZ1N6OTFTUQ?oc=5",
+      "summary": "Zurich Insurance Group\u2019s AI Strategy: Analysis of Dominance in Insurance AI\u00a0\u00a0Klover.ai",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win \u2014 identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-05-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0449b643f428",
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "summary": "Starting June 1, your Copilot usage will consume GitHub AI Credits.\nThe post GitHub Copilot is moving to usage-based billing appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 8,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4c573a5e3d2c",
+      "title": "An update on GitHub availability",
+      "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+      "summary": "Here\u2019s what we\u2019ve done\u2014and what we\u2019re still doing\u2014to improve our availability and reliability.\nThe post An update on GitHub availability appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 7,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8051cac5697f",
+      "title": "Build Multi-Domain RAG Systems with Specialized Knowledge Bases",
+      "url": "https://blog.n8n.io/build-multi-domain-rag-systems-with-specialized-knowledge-bases/",
+      "summary": "In this step-by-step tutorial you'll learn how to route user questions based on context using AI agents, semantic search, and the Pinecone Assistant node.",
+      "source": "n8n Blog",
+      "angle": "Enhance enterprise n8n flows or add to PORA AI Automation curriculum.",
+      "score": 7,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "384da3cc2ca8",
+      "title": "Geothermal startup Fervo Energy to raise up to $1.3B in IPO",
+      "url": "https://techcrunch.com/2026/05/04/geothermal-startup-fervo-energy-to-raise-up-to-1-3b-in-ipo/",
+      "summary": "Enhanced geothermal startup Fervo Energy\u2019s IPO could value the company at up to $6.5 billion.",
+      "source": "TechCrunch",
+      "angle": "Directly relevant to your Nigerian tech ecosystem work.",
+      "score": 7,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "cad7ac183967",
+      "title": "Katie Haun raises $1B for new venture funds",
+      "url": "https://techcrunch.com/2026/05/04/katie-haun-raises-1-billion-for-new-venture-funds/",
+      "summary": "Katie Haun announced on Monday that $1 billion has been raised across new funds to continue the firm\u2019s thesis of backing crypto and blockchain startups.",
+      "source": "TechCrunch",
+      "angle": "Directly relevant to your Nigerian tech ecosystem work.",
+      "score": 7,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6c65c3e5d241",
+      "title": "MTN Nigeria\u2019s profit surge hits \u20a6546 billion in Q1 2026",
+      "url": "https://techpoint.africa/insight/techpoint-digest-1335/",
+      "summary": "On Techpoint Digest, we discuss MTN Nigeria's \u20a695.5 billion handover of MoMo to its parent company, Kenya launching its own TikTok, UrbanTok, and Somalia quietly developing its cybersecurity rules.",
+      "source": "Techpoint Africa",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7528f708dbfe",
+      "title": "Nigerian banks are the heartbeat of stock market bullish run",
+      "url": "https://nairametrics.com/2026/05/05/nigerian-banks-are-the-heartbeat-of-stock-market-bullish-run/",
+      "summary": "The Central Bank of Nigeria\u2019s recapitalization program catapulted the Nigerian banking sector dominance to unprecedented heights.\nThe post Nigerian banks are the heartbeat of stock market bullish run ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "61bb23dc748f",
+      "title": "Orchestration vs. Choreography: Which One to Choose \u2013 or Use Both?",
+      "url": "https://blog.n8n.io/orchestration-vs-choreography/",
+      "summary": "Microservices orchestration vs. choreography: Compare sagas and see how security and observability shape failure modes, hybrid patterns, and decision matrix.",
+      "source": "n8n Blog",
+      "angle": "Enhance enterprise n8n flows or add to PORA AI Automation curriculum.",
+      "score": 7,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2f3b4b06ce77",
+      "title": "Production AI Playbook: Human Oversight",
+      "url": "https://blog.n8n.io/production-ai-playbook-human-oversight/",
+      "summary": "Deploying AI without oversight can be a liability. This post covers how to keep humans in control of the decisions that matter, including three practical patterns, a framework for when to apply them, ",
+      "source": "n8n Blog",
+      "angle": "Enhance enterprise n8n flows or add to PORA AI Automation curriculum.",
+      "score": 7,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "75d14f526e97",
+      "title": "SWOOT market cap hits N142.79\u00a0trillion, 91.71% of NGX\u00a0as of\u00a0April 2026",
+      "url": "https://nairametrics.com/2026/05/04/swoot-market-cap-hits-n142-79-trillion-91-71-of-ngx-as-of-april-2026/",
+      "summary": "Nigeria\u2019s equities market extended its bullish run in April 2026, with Stocks Worth Over One Trillion\u00a0(SWOOT) consolidating their dominance as total market capitalization surged to N142.79 trillion.\u00a0\n",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b771c670a7e5",
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "summary": "Article URL: https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup\nComments URL: https://news.ycombinator.com/item?id=48012162\nPoints: 197\n# Comments: 81",
+      "source": "Hacker News",
+      "angle": "Directly relevant to your Nigerian tech ecosystem work.",
+      "score": 7,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1e5c3bdcded6",
+      "title": "Sierra raises $950M as the race to own enterprise AI gets serious",
+      "url": "https://techcrunch.com/2026/05/04/sierra-raises-950m-as-the-race-to-own-enterprise-ai-gets-serious/",
+      "summary": "The raise gives Sierra more than $1 billion to work with \u2014 capital the company says it will use to become the \"global standard\" for AI-powered customer experiences.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 7,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d4a0272abd55",
+      "title": "Sovereign Trust Insurance opens N5.02 billion Rights Issue at N2.00 per share",
+      "url": "https://nairametrics.com/2026/05/04/sovereign-trust-insurance-opens-n5-02-billion-rights-issue-at-n2-00-per-share/",
+      "summary": "Sovereign Trust Insurance (STI) Plc has launched a N5.02 billion rights issue as part of efforts to strengthen its capital base and support future growth, offering existing shareholders the opportunit",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "753d59733853",
+      "title": "US government warns of severe CopyFail bug affecting major versions of Linux",
+      "url": "https://techcrunch.com/2026/05/04/u-s-government-warns-of-severe-copyfail-bug-affecting-major-versions-of-linux/",
+      "summary": "U.S. cybersecurity agency CISA says the CopyFail bug is being actively used in hacking campaigns, and poses a major risk to servers and data centers that rely on Linux.",
+      "source": "TechCrunch",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "bd7a78cec658",
+      "title": "United Capital Group Completes Recapitalisation of SEC-Regulated Subsidiaries More Than a Year Ahead of Regulatory Deadline",
+      "url": "https://nairametrics.com/2026/05/04/united-capital-group-completes-recapitalisation-of-sec-regulated-subsidiaries-more-than-a-year-ahead-of-regulatory-deadline/",
+      "summary": "Leading Pan-African investment banking and financial services group, United Capital Plc, has completed the recapitalisation of its Securities and Exchange Commission (SEC)-regulated subsidiaries, Meet",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1d67ca8c1e0f",
+      "title": "Who owns African culture? Follow the system",
+      "url": "https://nairametrics.com/2026/05/05/who-owns-african-culture-follow-the-system/",
+      "summary": "African culture is no longer local. It travels across borders in real time, with music, film, fashion, and talent from across the continent shaping global markets and influencing how culture itself is",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "316adbbfb21d",
+      "title": "v3.3.0-beta.4",
+      "url": "https://github.com/OpenCoworkAI/open-cowork/releases/tag/v3.3.0-beta.4",
+      "summary": "What's New / \u66f4\u65b0\u5185\u5bb9 Ollama \u6539\u8fdb / Ollama Improvements \u901a\u8fc7 Ollama /api/show \u7aef\u70b9\u67e5\u8be2\u5b9e\u9645\u4e0a\u4e0b\u6587\u7a97\u53e3\u5927\u5c0f / Query actual context window from Ollama /api/show endpoint CJK \u611f\u77e5\u7684 chars-per-token \u4f30\u7b97\uff0c\u66f4\u667a\u80fd\u5730\u5206\u914d\u5386\u53f2\u6d88\u606f\u9884\u7b97 / CJK-aware cha",
+      "source": "Open Cowork",
+      "angle": "Open-source Claude alternative \u2014 evaluate for local-first AI stack and PORA demos.",
+      "score": 7,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f312ca41f7e4",
+      "title": "\u00c0rgentil Capital secures backing to launch USD 75 million SME fund across Nigeria and Ghana",
+      "url": "https://nairametrics.com/2026/05/05/argentil-capital-secures-backing-to-launch-usd-75-million-sme-fund-across-nigeria-and-ghana/",
+      "summary": "\u00c0rgentil Capital Management Limited (ACML) has been selected for the Blended Finance Accelerator for Fund Managers (A4FM) \u2014 a global initiative \u200b \u200b\u200bled \u200bby Convergence Blended Finance and Global Affai",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f5872e23ef9a",
+      "title": "Abia among six states selected for World Bank\u2019s $700 million water project",
+      "url": "https://nairametrics.com/2026/05/05/abia-among-six-states-selected-for-world-banks-700-million-water-project/",
+      "summary": "Abia State has been selected as one of six states to benefit from the $700 million Sustainable Urban and Rural Water Supply, Sanitation and Hygiene (SURWASH) Programme funded by the World Bank.\nThe po",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e5d6243fbca4",
+      "title": "Agent Skills",
+      "url": "https://addyosmani.com/blog/agent-skills/",
+      "summary": "Article URL: https://addyosmani.com/blog/agent-skills/\nComments URL: https://news.ycombinator.com/item?id=48015397\nPoints: 254\n# Comments: 117",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "90d7000719e4",
+      "title": "All-Share Index opens May in green as market value rises to N156 trillion",
+      "url": "https://nairametrics.com/2026/05/04/all-share-index-opens-may-in-green-as-market-value-rises-to-n156-trillion/",
+      "summary": "The Nigerian equities market started the month on a positive note, with the All-Share Index closing in the green on Monday, 4th May 2026, up 883.71 points to settle at 243,161.52.\u00a0\nThe post All-Share ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "906511b34b14",
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "summary": "Article URL: https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/\nComments URL: https://news.ycombinator.com/item?id=48017813\nPoints: 104\n# Comments: 39",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ad8ff6191df9",
+      "title": "Coverage gap: Only 30% of 5G-enabled smartphones connects to 5G network in Nigeria",
+      "url": "https://technext24.com/2026/05/04/30-of-5g-smartphones-access-5g-nigeria/",
+      "summary": "Latest Quality of Experience (QoE) data reveals that about 27% to 31% of capable devices are actually utilising\u2026",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "09e319a59fdc",
+      "title": "Drowning in someone else\u2019s abundance: Nigeria, the grass beneath the elephants, and the price of UAE\u2019s OPEC departure",
+      "url": "https://nairametrics.com/2026/05/05/drowning-in-someone-elses-abundance-nigeria-the-grass-beneath-the-elephants-and-the-price-of-uaes-opec-departure/",
+      "summary": "Recently, the hullabaloo about the Strait of Hormuz is too much to ignore, and it has immediately led to a boost in oil revenue for Nigeria and an increase in cost for Nigerians. However, most\u00a0times,\u00a0",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4e689b3f73d3",
+      "title": "From Rejected for a Kitchen Porter Job to JP Morgan in 14 Months \u2014 Now This Founder Has Built the AI Career Platform He Wishes He Had",
+      "url": "https://techpoint.africa/brandpress/this-founder-has-built-the-ai-career-platform-he-wishes-he-had/",
+      "summary": "DeDataHub is the AI career platform that takes you from...",
+      "source": "Techpoint Africa",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1d20badace4c",
+      "title": "Hackers are mass-exploiting the cPanel bug to gain control of thousands of websites",
+      "url": "https://techcrunch.com/2026/05/04/hackers-are-still-exploiting-the-cpanel-bug-to-gain-control-of-thousands-of-websites/",
+      "summary": "Days after the disclosure of a critical vulnerability in popular web hosting software cPanel and WHM, hackers are now targeting and hacking thousands of vulnerable websites.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2bf0fba5012d",
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "summary": "Article URL: https://openai.com/index/delivering-low-latency-voice-ai-at-scale/\nComments URL: https://news.ycombinator.com/item?id=48013919\nPoints: 409\n# Comments: 127",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d0bf670b92e6",
+      "title": "Image AI models now drive app growth, beating chatbot upgrades",
+      "url": "https://techcrunch.com/2026/05/04/image-ai-models-now-drive-app-growth-beating-chatbot-upgrades/",
+      "summary": "Appfigures finds visual model launches generate 6.5x more downloads \u2014 but most don\u2019t convert that spike into revenue.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "051a5671d4b6",
+      "title": "Jim Ovia retires as Zenith Bank Chairman, Mustafa Bello steps in",
+      "url": "https://nairametrics.com/2026/05/05/jim-ovia-retires-as-zenith-bank-chairman-mustafa-bello-steps-in/",
+      "summary": "Zenith Bank Plc has announced the retirement of its Founder and Group Chairman, Jim Ovia, following the expiration of his tenure in line with regulatory requirements. The bank disclosed this in a corp",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6e6a7342eea9",
+      "title": "Lagos seals commercial, residential properties in Lekki, Ikeja over elevator noncompliance",
+      "url": "https://nairametrics.com/2026/05/05/lagos-seals-commercial-residential-properties-in-lekki-ikeja-over-elevator-noncompliance/",
+      "summary": "The Lagos State Government has sealed multiple commercial and residential properties across Lekki and Ikeja for\u00a0failing to comply\u00a0with mandatory elevator safety regulations.\u00a0\u00a0\nThe post Lagos seals com",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "04189818b7f4",
+      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+      "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+      "summary": "Article URL: https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html\nComments URL: https://news.ycombinator.com/item?id=48019025\nPoints: 50\n# Comments: 44",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ba957f95131b",
+      "title": "MTN Nigeria to pivot away from diesel energy after saving N8.5 billion on gas in 2025",
+      "url": "https://technext24.com/2026/05/05/mtn-nigeria-cuts-diesel-energy/",
+      "summary": "Leading telecoms company MTN Nigeria is set to pivot more of its energy mix towards gas, as part\u2026",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "78b2f7007638",
+      "title": "Nigeria\u2019s Internet market rebounds as broadband subscriptions hit 109.7 million",
+      "url": "https://techpoint.africa/news/nigeria-broadband-penetration-2025/",
+      "summary": "Nigeria\u2019s broadband penetration crossed 50% in November 2025, but affordability, rural access, and service quality could determine how meaningful the milestone becomes.",
+      "source": "Techpoint Africa",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2fe6c98e4ea5",
+      "title": "OPay hires Citi, Deutsche, JPMorgan for $4 billion US IPO",
+      "url": "https://techpoint.africa/insight/techpoint-digest-1336/",
+      "summary": "On Techpoint Digest, we discuss OPay's $4 billion US IPO push, Wimbart's 10-year journey in African tech, and South Africa's red tape problem.",
+      "source": "Techpoint Africa",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8c7aa09f580c",
+      "title": "OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO",
+      "url": "https://techcrunch.com/2026/05/04/openais-cozy-partner-cerebras-is-on-track-for-a-blockbuster-ipo/",
+      "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6f2032e760c8",
+      "title": "Ouster\u2019s new color lidar is coming to replace cameras",
+      "url": "https://techcrunch.com/2026/05/04/ousters-new-color-lidar-is-coming-to-replace-cameras/",
+      "summary": "A sensor that can simultaneously capture depth and image data has long been a \"holy grail,\" Ouster CEO Angus Pacala told TechCrunch.",
+      "source": "TechCrunch",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1f6ff1dac365",
+      "title": "Production AI Playbook: Introduction",
+      "url": "https://blog.n8n.io/production-ai-playbook-introduction/",
+      "summary": "A foundation for anyone new to n8n, covering the platform concepts you'll see throughout the Production AI Playbook series.",
+      "source": "n8n Blog",
+      "angle": "Enhance enterprise n8n flows or add to PORA AI Automation curriculum.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "384571a0017b",
+      "title": "South Africa plans innovative smartphone-based digital ID system for citizens",
+      "url": "https://technext24.com/2026/05/05/south-africa-plans-digital-id-system/",
+      "summary": "South Africa is making an important move to modernise the way its citizens verify their identity. Home Affairs\u2026",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4e1222003597",
+      "title": "Stitch enters South Africa\u2019s BNPL market with merchant-first model",
+      "url": "https://techcabal.com/2026/05/04/stitch-introduces-bnlp-product/",
+      "summary": "South African merchants on Stitch can now offer customers the buy-now-pay-later option for online and in-store purchases.",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d40fa6d09fcf",
+      "title": "Telcos ignore court order as airtime credit stays suspended",
+      "url": "https://techpoint.africa/insight/techpoint-digest-1333/",
+      "summary": "On Techpoint Digest, we discuss telcos ignoring a court order as airtime credit stays suspended, how PowerLabs is tackling Nigeria\u2019s energy chaos, and Canal+ listing on the Johannesburg Stock Exchange",
+      "source": "Techpoint Africa",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3d9c165bd7b9",
+      "title": "Union Systems Unveils AI-Powered Enhancements to Kachasi Trade Finance Software at Exclusive Soir\u00e9e",
+      "url": "https://nairametrics.com/2026/05/05/union-systems-unveils-ai-powered-enhancements-to-kachasi-trade-finance-software-at-exclusive-soiree/",
+      "summary": "Union Systems Limited (USL), Nigeria\u2019s leading provider of trade finance and treasury technology, recently convened trade finance and treasury leaders for an exclusive industry soiree. The gathering s",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c0ba09d32d5a",
+      "title": "A $10k Grant for Africa\u2019s Fintech builders",
+      "url": "https://techpoint.africa/brandpress/a-10k-grant-for-africas-fintech-builders/",
+      "summary": "Africa\u2019s fintech story has officially entered a more complex chapter.",
+      "source": "Techpoint Africa",
+      "angle": "Nigerian ecosystem pulse \u2014 relevant for enterprise consulting and PORA positioning.",
+      "score": 5,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria",
+        "opportunity"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0e854a0dd9dd",
+      "title": "Cybersecurity Startup GRC Pro Lab\u00a9 Launches AI-Powered SaaS Platform to Close the GRC Talent Experience Gap",
+      "url": "https://techpoint.africa/brandpress/cybersecurity-startup-grc-pro-lab-launches-ai-powered-saas-platform-to-close-the-grc-talent-experience-gap/",
+      "summary": "A first-of-its-kind platform that places GRC practitioners in a realistic,...",
+      "source": "Techpoint Africa",
+      "angle": "Nigerian ecosystem pulse \u2014 relevant for enterprise consulting and PORA positioning.",
+      "score": 5,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "82f129e29d1c",
+      "title": "Sabou Capital secures Mastercard Foundation Africa Growth Fund investment to back SMEs",
+      "url": "https://techcabal.com/2026/05/04/sabou-capital-secures-mastercard-foundation-africa-growth-fund-investment-to-back-smes/",
+      "summary": "The investment is a boost for Sabou Capital, which targets a gap in Africa\u2019s funding landscape where revenue-generating SMEs are locked out of growth capital.",
+      "source": "TechCabal",
+      "angle": "Nigerian ecosystem pulse \u2014 relevant for enterprise consulting and PORA positioning.",
+      "score": 5,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria",
+        "opportunity"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "99abf7530a2d",
+      "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
+      "url": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
+      "summary": "How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation.\nThe post Securing the git push pipeline: Responding to a critical remote code exec",
+      "source": "GitHub Blog",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 5,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7c70d294d5b7",
+      "title": "Biscuit",
+      "url": "https://github.com/yattsu/biscuit",
+      "summary": "Article URL: https://github.com/yattsu/biscuit\nComments URL: https://news.ycombinator.com/item?id=48017641\nPoints: 48\n# Comments: 0",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d818efd20c54",
+      "title": "Bringing more transparency to GitHub\u2019s status page",
+      "url": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
+      "summary": "Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform.\nThe post Bringing more transparency to GitHub\u2019s status page appeared ",
+      "source": "GitHub Blog",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 4,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0db4460aec8a",
+      "title": "Bun is being ported from Zig to Rust",
+      "url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
+      "summary": "Article URL: https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5\nComments URL: https://news.ycombinator.com/item?id=48016880\nPoints: 507\n# Comments: 362",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6f86b8b57bd4",
+      "title": "Open Cowork 3.3.0-beta.3",
+      "url": "https://github.com/OpenCoworkAI/open-cowork/releases/tag/v3.3.0-beta.3",
+      "summary": "Highlights / \u4eae\u70b9 \ud83d\udda5 macOS Native Experience / macOS \u539f\u751f\u4f53\u9a8c Full macOS security audit: hardened runtime,",
+      "source": "Open Cowork",
+      "angle": "Open-source Claude alternative \u2014 evaluate for local-first AI stack and PORA demos.",
+      "score": 4,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f6ca30545eea",
+      "title": "Spotlight by Technext brings together fintech leaders in exclusive, no-holds-barred convos",
+      "url": "https://technext24.com/2026/05/05/spotlight-by-technext-fintech/",
+      "summary": "Spotlight by Technext is the fintech conversation Nigeria has been avoiding",
+      "source": "Technext",
+      "angle": "Nigerian ecosystem pulse \u2014 relevant for enterprise consulting and PORA positioning.",
+      "score": 4,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b08fdcb610f5",
+      "title": "Techloy Hosts Panel on AI and the Future of Work, Bringing Together Industry Leaders and Its Growing Global Community",
+      "url": "https://nairametrics.com/2026/05/04/techloy-hosts-panel-on-ai-and-the-future-of-work-bringing-together-industry-leaders-and-its-growing-global-community/",
+      "summary": "Techloy hosted a panel discussion titled \u201cWill AI Replace Our Jobs or Make them Better?\u201d on Friday at 4:00 PM (WAT), convening industry leaders and members of its global tech community to examine one ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 4,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f67e46f76678",
+      "title": "The Build, Validate, Deploy Framework: Why African tech talent needs to stop working alone",
+      "url": "https://technext24.com/2026/05/04/build-validate-deploy-framework-talent/",
+      "summary": "By Elizabeth Ogunseye & Israel Ogunseye (Ladi) There is a talent development problem in Africa that the ecosystem\u2026",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 4,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5a6207e48286",
+      "title": "v3.3.0-beta.9",
+      "url": "https://github.com/OpenCoworkAI/open-cowork/releases/tag/v3.3.0-beta.9",
+      "summary": "What's Changed in v3.3.0-beta.9 Bug Fixes Custom API Provider Connectivity (#89) Fix: Custom OpenAI-",
+      "source": "Open Cowork",
+      "angle": "Open-source Claude alternative \u2014 evaluate for local-first AI stack and PORA demos.",
+      "score": 4,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d9393fbd88d9",
+      "title": "1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving'",
+      "url": "https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/",
+      "summary": "Article URL: https://electrek.co/2026/05/02/tesla-1966-mustang-ev-conversion-full-self-driving/\nComments URL: https://news.ycombinator.com/item?id=48009840\nPoints: 172\n# Comments: 127",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d3af6d805c3e",
+      "title": "2-D Mathematical Curves",
+      "url": "https://www.2dcurves.com/",
+      "summary": "Article URL: https://www.2dcurves.com/\nComments URL: https://news.ycombinator.com/item?id=48018034\nPoints: 31\n# Comments: 2",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1d81ed72f191",
+      "title": "AIDS 2026 Young Leaders Programme for young activists and young researchers.",
+      "url": "https://www.opportunitiesforafricans.com/aids-2026-young-leaders-programme-for-young-activists-and-young-researchers/",
+      "summary": "Application Deadline: 18 May 2026 Applications are now open for the 2026 AIDS Young Leaders Programme. The Young Leaders Programme is offered at the International AIDS Conference and IAS Conference\u2026",
+      "source": "Opps4Africans",
+      "angle": "Fresh opportunity for you or PORA Academy \u2014 check eligibility.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2750c09a80b6",
+      "title": "Absa 2026 L\u2019Atelier art competition for young visual artists across Africa.",
+      "url": "https://www.opportunitiesforafricans.com/absa-2026-latelier-art-competition/",
+      "summary": "Application Deadline: \u00a031 May 2026, at 16:00 (Central African Time). Applications are now open for the 2026 Absa L\u2019Atelier art competition. The Absa L\u2019Atelier competition, through its prizes, focuses ",
+      "source": "Opps4Africans",
+      "angle": "General opportunity \u2014 review if relevant to your network.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a53ec777a55a",
+      "title": "Amazon opens up its global logistics network to all businesses",
+      "url": "https://techcrunch.com/2026/05/04/amazon-opens-up-its-global-logistics-network-to-all-businesses/",
+      "summary": "The new service, called Amazon Supply Chain Services, pits the e-commerce giant directly against UPS and FedEx.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "114d6b8a860c",
+      "title": "Anthropic and OpenAI are both launching joint ventures for enterprise AI services",
+      "url": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+      "summary": "Both Anthropic and OpenAI have partnered with asset managers to more aggressively market their enterprise AI products.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "09cf30fe17f9",
+      "title": "As X shuts down Communities, Acorn debuts an alternative that puts creators in control",
+      "url": "https://techcrunch.com/2026/05/04/as-x-shuts-down-communities-acorn-debuts-an-alternative-that-puts-creators-in-control/",
+      "summary": "Acorn lets organizations build and run their own online communities using decentralized tech, with custom feeds, moderation, and analytics tools.",
+      "source": "TechCrunch",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "99bda34070c1",
+      "title": "As workers worry about AI, Nvidia\u2019s Jensen Huang says AI is \u2018creating an enormous number of jobs\u2019",
+      "url": "https://techcrunch.com/2026/05/04/as-workers-worry-about-ai-nvidias-jensen-huang-says-ai-is-creating-an-enormous-number-of-jobs/",
+      "summary": "The Nvidia CEO seems to feel that claims of AI's job-killing potential have been greatly exaggerated.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "690d29fa9daa",
+      "title": "Async Rust never left the MVP state",
+      "url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+      "summary": "Article URL: https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state\nComments URL: https://news.ycombinator.com/item?id=48019163\nPoints: 134\n# Comments: 69",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1cbf3e160c18",
+      "title": "Best Online Platform for Payment Processing in Zambia",
+      "url": "https://techpoint.africa/insight/best-online-payment-processing-platforms-zambia/",
+      "summary": "This guide breaks down what to look for in a payment solution and why Zoyk has been ranked as the best.",
+      "source": "Techpoint Africa",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9803107060cd",
+      "title": "Does Employment Slow Cognitive Decline? Evidence from Labor Market Shocks",
+      "url": "https://www.nber.org/papers/w35117",
+      "summary": "Article URL: https://www.nber.org/papers/w35117\nComments URL: https://news.ycombinator.com/item?id=48009983\nPoints: 288\n# Comments: 269",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d7cee9bcc92a",
+      "title": "DoorDash adds AI tools to speed up merchant onboarding, edit photos of dishes",
+      "url": "https://techcrunch.com/2026/05/04/doordash-adds-ai-tools-to-speed-up-merchant-onboarding-edit-photos-of-dishes/",
+      "summary": "DoorDash on Monday added new AI-powered tools that let merchants speed up onboarding, edit photos to make dishes look better, and create new websites from existing content.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "28fd95c4e44a",
+      "title": "Elon Musk sent ominous texts to Greg Brockman, Sam Altman after asking for a settlement, OpenAI claims",
+      "url": "https://techcrunch.com/2026/05/04/elon-musk-sent-ominous-texts-to-greg-brockman-sam-altman-after-asking-for-a-settlement-openai-claims/",
+      "summary": "Musk texted OpenAI's president and co-founder saying that he and CEO Sam Altman \"will be the most hated men in America\" if OpenAI doesn't settle the suit.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8c8cf14b01a0",
+      "title": "Elon Musk\u2019s only AI expert witness at the OpenAI trial fears an AGI arms race",
+      "url": "https://techcrunch.com/2026/05/04/elon-musks-only-expert-witness-at-the-openai-trial-fears-an-agi-arms-race/",
+      "summary": "Stuart Russell is a long-time AI researcher who thinks governments need to restrain frontier labs.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3ba2e8c73a3e",
+      "title": "Empty Screenings \u2013 Finds AMC movie screenings with few or no tickets sold",
+      "url": "https://walzr.com/empty-screenings",
+      "summary": "Article URL: https://walzr.com/empty-screenings\nComments URL: https://news.ycombinator.com/item?id=48018066\nPoints: 146\n# Comments: 117",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9fa54ec59587",
+      "title": "Hand Drawn QR Codes",
+      "url": "https://sethmlarson.dev/hand-drawn-qr-codes",
+      "summary": "Article URL: https://sethmlarson.dev/hand-drawn-qr-codes\nComments URL: https://news.ycombinator.com/item?id=48017907\nPoints: 107\n# Comments: 17",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "452fa7d1c2fb",
+      "title": "Human-in-the-Loop vs. Human-on-the-Loop: When To Use Each System",
+      "url": "https://blog.n8n.io/human-in-the-loop-vs-human-on-the-loop/",
+      "summary": "Learn the difference between human-in-the-loop versus human-on-the-loop architectures. Understand trade-offs among latency, auditability, and compliance.",
+      "source": "n8n Blog",
+      "angle": "Enhance enterprise n8n flows or add to PORA AI Automation curriculum.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a461d2fbb2e5",
+      "title": "I am worried about Bun",
+      "url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+      "summary": "Article URL: https://wwj.dev/posts/i-am-worried-about-bun/\nComments URL: https://news.ycombinator.com/item?id=48011184\nPoints: 490\n# Comments: 317",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "26ea975ffb71",
+      "title": "Infinix\u00a0NOTE 60 Ultra Signals a New Era for Premium Smartphones in Nigeria",
+      "url": "https://techpoint.africa/brandpress/infinix-note-60-ultra-signals-a-new-era/",
+      "summary": "Infinix\u00a0has officially launched the NOTE 60 Ultra in Nigeria, reinforcing...",
+      "source": "Techpoint Africa",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4f2bd1b623d9",
+      "title": "Inside Wimbart at 10: Jessica Hope on telling Africa\u2019s tech stories",
+      "url": "https://techpoint.africa/feature/jessica-hope-telling-africas-tech-stories/",
+      "summary": "In this feature, Jessica Hope, founder of Wimbart shares her journey from journalism to building a PR company.",
+      "source": "Techpoint Africa",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "56e377a32551",
+      "title": "Kids bypass age verification with fake moustaches",
+      "url": "https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/",
+      "summary": "Article URL: https://www.theregister.com/2026/05/04/uk_online_safety_act_age_checks_subvert/\nComments URL: https://news.ycombinator.com/item?id=48018080\nPoints: 99\n# Comments: 56",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "bfeba25cf343",
+      "title": "Microsoft Edge stores all passwords in memory in clear text, even when unused",
+      "url": "https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730",
+      "summary": "Article URL: https://twitter.com/L1v1ng0ffTh3L4N/status/2051308329880719730\nComments URL: https://news.ycombinator.com/item?id=48012735\nPoints: 550\n# Comments: 193",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8d2c1d8b52cf",
+      "title": "NNPC signs MoU with Chinese firms to restart Warri, Port Harcourt refineries",
+      "url": "https://nairametrics.com/2026/05/04/nnpc-signs-mou-with-chinese-firms-to-restart-warri-port-harcourt-refineries/",
+      "summary": "The NNPC Limited has signed a Memorandum of Understanding (MoU) with two Chinese companies as part of efforts to restart and expand the Warri and Port Harcourt refineries.\nThe post NNPC signs MoU with",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ab332cd33349",
+      "title": "Naira rises to N1,367/$ in first May 2026 trading session",
+      "url": "https://nairametrics.com/2026/05/05/naira-rises-to-n1367-in-first-may-2026-trading-session/",
+      "summary": "The naira appreciated to N1,367.5/$ on 4 May 2026, extending gains recorded in April.\nThe post Naira rises to N1,367/$ in first May 2026 trading session appeared first on Nairametrics.",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d1baf8990c06",
+      "title": "Nicolas Sauvage is betting on the boring parts of AI",
+      "url": "https://techcrunch.com/2026/05/04/nicolas-sauvage-is-betting-on-the-boring-parts-of-ai/",
+      "summary": "The portfolio he has assembled since 2019 is dotted with technologies that have become more widely interesting to VCs over the last year.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "542571f4bd00",
+      "title": "Nigerian Tech Founder in the UK, Ikechukwu Emmanuel Arum, Emerges as a Multi-Sector Innovator Building Scalable Digital Products Across Health, Dating, and Social Technology",
+      "url": "https://techpoint.africa/brandpress/nigerian-tech-founder-merges-as-a-multi-sector-innovator/",
+      "summary": "In a crowded tech space filled with noise, Ikechukwu Emmanuel...",
+      "source": "Techpoint Africa",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5ebb97cf3f5f",
+      "title": "Open Cowork 3.2.0",
+      "url": "https://github.com/OpenCoworkAI/open-cowork/releases/tag/v3.2.0",
+      "summary": "Release date: 2026-03-02 Improvements Add gui_extract_info in the GUI_Operate MCP server. Improve coordinate calculation in GUI operations. Fixes Fix negative coordinates in cliclick.",
+      "source": "Open Cowork",
+      "angle": "Open-source Claude alternative \u2014 evaluate for local-first AI stack and PORA demos.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "775b40b365d9",
+      "title": "Open Cowork 3.3.0-beta.5",
+      "url": "https://github.com/OpenCoworkAI/open-cowork/releases/tag/v3.3.0-beta.5",
+      "summary": "Highlights / \u4eae\u70b9 \ud83c\udfd7 Engineering Overhaul / \u5de5\u7a0b\u5316\u5927\u4fee 320 ESLint errors \u2192 0, 70 TypeScript errors \u2192 0, comp",
+      "source": "Open Cowork",
+      "angle": "Open-source Claude alternative \u2014 evaluate for local-first AI stack and PORA demos.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "fa72593a9c79",
+      "title": "Piggyvest Marks 10 Years with Documentary Exploring Its Impact on Saving Culture in Nigeria",
+      "url": "https://techpoint.africa/brandpress/piggyvest-marks-10-years-with-documentary/",
+      "summary": "Piggyvest has marked its 10th anniversary with the release of...",
+      "source": "Techpoint Africa",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5f0150cd904f",
+      "title": "The Deloitte Tax Graduate Programme \u2013 TRAXEE 2027 for young South African graduates.",
+      "url": "https://www.opportunitiesforafricans.com/the-deloitte-tax-graduate-programme-traxee-2027/",
+      "summary": "Application Deadline: May 15, 2026 Applications are now open for the 2027 Deloitte Tax Graduate Programme \u2013 TRAXEE. Deloitte offers career opportunities across Audit & Assurance (A&A), Tax & Legal\u2026",
+      "source": "Opps4Africans",
+      "angle": "General opportunity \u2014 review if relevant to your network.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "92cf92277c6a",
+      "title": "The Frog for Whom the Bell Tolls",
+      "url": "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls",
+      "summary": "Article URL: https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls\nComments URL: https://news.ycombinator.com/item?id=48019165\nPoints: 10\n# Comments: 2",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "09953c20e1e5",
+      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "url": "https://techcrunch.com/2026/05/04/us-healthcare-marketplaces-shared-citizenship-and-race-data-with-ad-tech-giants/",
+      "summary": "Virginia and Washington, D.C. paused the data collection and sharing, after Bloomberg's investigation found their health insurance marketplaces were sharing users' information with advertisers.",
+      "source": "TechCrunch",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "16a58b81cd8f",
+      "title": "University of Pretoria MasterCard Foundation Scholars Program (MCFSP) 2027 for study in South Africa (Fully Funded)",
+      "url": "https://www.opportunitiesforafricans.com/university-of-pretoria-mastercard-foundation-scholars-program-mcfsp-2027/",
+      "summary": "Application Deadline: Undergraduate:\u00a031 August\u00a02026\u00a0Postgraduate:\u00a030 September 2026 Applications are now open for the 2027 University of Pretoria MasterCard Foundation Scholars Program. The University",
+      "source": "Opps4Africans",
+      "angle": "General opportunity \u2014 review if relevant to your network.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3c1be32c9b34",
+      "title": "We\u2019ll take it: A TikToker rallies pledges to buy Spirit Airlines after its abrupt weekend collapse",
+      "url": "https://techcrunch.com/2026/05/03/well-take-it-a-tiktoker-rallies-pledges-to-buy-spirit-airlines-after-its-abrupt-weekend-collapse/",
+      "summary": "Within hours he'd thrown up a website \u2014 a janky, one-hour job, by his own admission \u2014 and by Sunday, 36,000 \"founding patrons\" had pledged nearly $23 million, crashing his servers in the process.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "21b8ea4e2fb9",
+      "title": "What is driving Bitcoin\u2019s $80,000 rally and what happens next?",
+      "url": "https://technext24.com/2026/05/04/what-behind-bitcoin-80000-price-rally/",
+      "summary": "Bitcoin has finally shattered the $80,000 psychological ceiling, trading at $80,300 to $80,500 in the early hours of\u2026",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f22a0178ea42",
+      "title": "When networking doesn't work",
+      "url": "https://www.os2museum.com/wp/when-networking-doesnt-work/",
+      "summary": "Article URL: https://www.os2museum.com/wp/when-networking-doesnt-work/\nComments URL: https://news.ycombinator.com/item?id=48014868\nPoints: 64\n# Comments: 11",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "db700f0fbc1c",
+      "title": "Why more exits don\u2019t mean more liquidity for Africa\u2019s tech ecosystem",
+      "url": "https://techcabal.com/2026/05/04/ventures-platform-and-stears-report/",
+      "summary": "A new report from Stears and Ventures Platform reveals that Africa\u2019s tech ecosystem is producing more exits than ever.",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c42b0aa933df",
+      "title": "Xiaomi Introduces REDMI A7 Pro with an ImmersiveDisplay, Long-Lasting Battery, and Intuitive Upgrades",
+      "url": "https://techpoint.africa/brandpress/xiaomi-introduces-redmi-a7-pro/",
+      "summary": "Xiaomi today officially unveiled REDMI A7 Pro in Nigeria, bringing...",
+      "source": "Techpoint Africa",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "eea98bc0d691",
+      "title": "YALO Launches Employee Marketplace to Help Nigeria\u2019s Workforce Move Beyond Rent, and Into a Better Life",
+      "url": "https://techpoint.africa/brandpress/yalo-launches-employee-marketplace/",
+      "summary": "YALO today announced the launch of its Employee Marketplace, a...",
+      "source": "Techpoint Africa",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9725cb7a48a3",
+      "title": "feat: clarify design resource model",
+      "url": "https://github.com/OpenCoworkAI/open-codesign/commit/3198d492c76241f0cfd1ba5d2fb3eb06283c204a",
+      "summary": "feat: clarify design resource model",
+      "source": "OpenCo Commits",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "01d92faea7d4",
+      "title": "fix(core): route agent features from ask preferences",
+      "url": "https://github.com/OpenCoworkAI/open-codesign/commit/fa50f4613f0dbbbba864346be4905548ba5b2249",
+      "summary": "fix(core): route agent features from ask preferences",
+      "source": "OpenCo Commits",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9ff3e42b814c",
+      "title": "fix(desktop): unify document thumbnail previews",
+      "url": "https://github.com/OpenCoworkAI/open-codesign/commit/a9c08d14507ebd9b30a57607f18eef4e7d1f7d84",
+      "summary": "fix(desktop): unify document thumbnail previews",
+      "source": "OpenCo Commits",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0ac5d2e04571",
+      "title": "v3.3.0-beta2",
+      "url": "https://github.com/OpenCoworkAI/open-cowork/releases/tag/v3.3.0-beta2",
+      "summary": "\u66f4\u65b0\u8981\u70b9 / Highlights \u65b0\u529f\u80fd / New Features \u7edf\u4e00 Agent \u8fd0\u884c\u65f6\u5230 pi-coding-agent SDK\uff0c\u6536\u655b\u591a provider \u6267\u884c\u94fe\u8def Unified the",
+      "source": "Open Cowork",
+      "angle": "Open-source Claude alternative \u2014 evaluate for local-first AI stack and PORA demos.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "28b4a6a89cd8",
+      "title": "\u20ac827,000 for Nigerian founders",
+      "url": "https://technext24.com/2026/05/05/e827000-for-nigerian-founders/",
+      "summary": "",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f673586b73d6",
+      "title": "\ud83d\udc68\ud83c\udfff\u200d\ud83d\ude80TechCabal Daily \u2013 MultiChoice, multiproblems",
+      "url": "https://techcabal.com/2026/05/05/techcabal-daily-multichoice-multiproblems/",
+      "summary": "In today's edition: Nedbank gives deadline for share tender || SA regulator probes MultiChoice, Altech over 2014 deal || GlobalCorp, Egyptian finance company, for sale || Egypt aims to make 15 million",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape \u2014 informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "94766ce81b96",
+      "title": "Building an emoji list generator with the GitHub Copilot CLI",
+      "url": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
+      "summary": "See how we created an emoji list generator during the Rubber Duck Thursday stream.\nThe post Building an emoji list generator with the GitHub Copilot CLI appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 2,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "434bed2f37ad",
+      "title": "Changes to GitHub Copilot Individual plans",
+      "url": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+      "summary": "We're making these changes to ensure a reliable and predictable experience for existing customers.\nThe post Changes to GitHub Copilot Individual plans appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 2,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "776aabb1a2f3",
+      "title": "GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/",
+      "summary": "Learn the difference between CLI interactive v. non-interactive modes.\nThe post GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 2,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "70c73d1994f7",
+      "title": "Highlights from Git 2.54",
+      "url": "https://github.blog/open-source/git/highlights-from-git-2-54/",
+      "summary": "The open source Git project just released Git 2.54. Here is GitHub\u2019s look at some of the most interesting features and changes introduced since last time.\nThe post Highlights from Git 2.54 appeared fi",
+      "source": "GitHub Blog",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 2,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "32032e66cbf0",
+      "title": "Applications Closing Soon for Women in Tech Accelerator Offering $10,000 Grants",
+      "url": "https://techpoint.africa/brandpress/applications-closing-soon-for-women-in-tech-accelerator-offering-10000-grants/",
+      "summary": "Women in Tech Accelerator is offering $10,000 grants, mentorship and...",
+      "source": "Techpoint Africa",
+      "angle": "Nigerian ecosystem pulse \u2014 relevant for enterprise consulting and PORA positioning.",
+      "score": 1,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria",
+        "opportunity"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f18d0f8d969f",
+      "title": "GitHub for Beginners: Getting started with Markdown",
+      "url": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/",
+      "summary": "Discover how to format and edit your comments and posts using Markdown.\nThe post GitHub for Beginners: Getting started with Markdown appeared first on The GitHub Blog.",
+      "source": "GitHub Blog",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 1,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "098d931550b1",
+      "title": "International Society for the Performing Arts\u2019 (ISPA\u2019s) Global Fellowship Program 2027 (Funded to 2027 ISPA Congress in New York,USA)",
+      "url": "https://www.opportunitiesforafricans.com/international-society-for-the-performing-arts-ispas-global-fellowship-program-2027/",
+      "summary": "Application Deadline: May 29, 2026\u00a0at\u00a017:00 EDT. Applications are now open for the 2026 ISPA\u2019s Global Fellowship Program. ISPA\u2019s Fellowship Program was created to provide emerging and mid-career perfo",
+      "source": "Opps4Africans",
+      "angle": "Fresh opportunity for you or PORA Academy \u2014 check eligibility.",
+      "score": 1,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria",
+        "opportunity",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2516cadec14d",
+      "title": "Register now for OpenClaw: After Hours @ GitHub",
+      "url": "https://github.blog/open-source/register-now-for-openclaw-after-hours-github/",
+      "summary": "OpenClaw builders will gather at GitHub HQ during Microsoft Build 2026 for demos and conversations. Join in person, or watch the livestream on Twitch.\nThe post Register now for OpenClaw: After Hours @",
+      "source": "GitHub Blog",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 1,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7ecc56234ac9",
+      "title": "Scholars at Risk (SAR) Academic Freedom Fellowships 2026/2027 for early-career researchers.",
+      "url": "https://www.opportunitiesforafricans.com/scholars-at-risk-sar-academic-freedom-fellowships-2026-2027/",
+      "summary": "Application Deadline: May 29, 2026 (midnight, New York time). Applications are now open for the 2026/2027 Scholars at Risk (SAR) Academic Freedom Fellowships. Scholars at Risk (SAR) is pleased to\u2026",
+      "source": "Opps4Africans",
+      "angle": "Fresh opportunity for you or PORA Academy \u2014 check eligibility.",
+      "score": 1,
+      "date": "2026-05-05",
+      "tags": [
+        "nigeria",
+        "opportunity",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "54f36a5896df",
+      "title": "fix: harden design export pipeline",
+      "url": "https://github.com/OpenCoworkAI/open-codesign/commit/884fbb27e6c4781179d63865b1d1be31298913eb",
+      "summary": "",
+      "source": "OpenCo Commits",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 1,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b754fc0d5374",
+      "title": "v0.1.0",
+      "url": "https://github.com/OpenCoworkAI/open-codesign/releases/tag/v0.1.0",
+      "summary": "Features feat(desktop): simplify provider cards in Settings \u2192 API \u670d\u52a1 (re-open) PR: #117 feat(scripts",
+      "source": "Open CoDesign",
+      "angle": "Open-source Claude alternative \u2014 evaluate for local-first AI stack and PORA demos.",
+      "score": 1,
+      "date": "2026-05-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    }
+  ],
   "deadlines": []
 }
