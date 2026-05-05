@@ -11,7 +11,7 @@ const API_BASE = window.location.pathname.replace(/\/$/, '') || '';
 
 async function loadArchive() {
   try {
-    const resp = await fetch(API_BASE + '/_data/index.json');
+    const resp = await fetch(API_BASE + '/data/index.json');
     if (!resp.ok) throw new Error('Not found');
     archive = await resp.json();
     document.getElementById('loading').classList.add('hidden');
