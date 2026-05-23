@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Intelligence Brief — 3 Directions</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;510;600;700&family=DM+Serif+Display:ital@0;1&family=JetBrains+Mono:wght@400;500&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --bg: #0a0b0e;
+  --panel: #111215;
+  --surface: #18191d;
+  --hover: #212226;
+  --border: rgba(255,255,255,0.06);
+  --text: #f0f2f5;
+  --text-secondary: #a0a5b0;
+  --text-tertiary: #686c74;
+  --accent: #7170ff;
+  --accent-hover: #8b8aff;
+  --font: 'Inter', system-ui, sans-serif;
+  --font-serif: 'DM Serif Display', Georgia, serif;
+  --font-display: 'Plus Jakarta Sans', system-ui, sans-serif;
+}
+body { font-family: var(--font); background: var(--bg); color: var(--text); min-height: 100vh; padding: 0; }
+.page-header {
+  position: sticky; top: 0; z-index: 100;
+  background: rgba(10,11,14,0.85); backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--border);
+  padding: 20px 40px;
+}
+.page-header h1 { font-size: 24px; font-weight: 600; letter-spacing: -0.4px; }
+.page-header p { color: var(--text-tertiary); font-size: 14px; margin-top: 4px; }
+.directions { display: flex; gap: 0; min-height: calc(100vh - 90px); }
+.direction {
+  flex: 1; border-right: 1px solid var(--border);
+  display: flex; flex-direction: column; min-width: 0;
+}
+.direction:last-child { border-right: none; }
+.dir-header {
+  padding: 20px 24px 16px;
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+.dir-header h2 { font-size: 15px; font-weight: 600; letter-spacing: -0.2px; }
+.dir-header .tag {
+  display: inline-block; font-size: 10px; font-weight: 600;
+  text-transform: uppercase; letter-spacing: 0.8px;
+  padding: 2px 8px; border-radius: 3px; margin-top: 6px;
+}
+.tag-conservative { background: rgba(113,112,255,0.12); color: #8b8aff; }
+.tag-strong { background: rgba(16,185,129,0.12); color: #34d399; }
+.tag-divergent { background: rgba(236,72,153,0.12); color: #f472b6; }
+.dir-sub { font-size: 11px; color: var(--text-tertiary); margin-top: 4px; letter-spacing: 0.2px; }
+.dir-content {
+  flex: 1; padding: 0; overflow-y: auto;
+}
+.dir-content-inner { padding: 20px 24px; }
+
+/* ======= Direction 1 — Polished Timeline ======= */
+.d1-header {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-bottom: 20px;
+}
+.d1-header h3 { font-size: 12px; font-weight: 600; text-transform: uppercase; letter-spacing: 1px; color: var(--text-tertiary); }
+.d1-nav { display: flex; gap: 4px; }
+.d1-nav button {
+  background: var(--surface); border: 1px solid var(--border);
+  color: var(--text-secondary); width: 28px; height: 28px;
+  border-radius: 4px; font-size: 12px; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+}
+.d1-nav button:hover { background: var(--hover); color: var(--text); }
+.d1-filters { display: flex; gap: 4px; flex-wrap: wrap; margin-bottom: 16px; }
+.d1-filter {
+  font-size: 11px; padding: 3px 10px; border-radius: 999px;
+  border: 1px solid var(--border); background: transparent;
+  color: var(--text-tertiary); cursor: pointer; font-family: var(--font);
+  transition: all 0.15s;
+}
+.d1-filter:hover { border-color: rgba(255,255,255,0.15); color: var(--text-secondary); }
+.d1-filter.active { background: rgba(113,112,255,0.1); border-color: var(--accent); color: var(--accent); }
+.d1-day { margin-bottom: 16px; }
+.d1-day-header {
+  display: flex; align-items: center; gap: 8px; margin-bottom: 8px; padding: 0 2px;
+}
+.d1-day-date { font-size: 11px; font-weight: 600; color: var(--text-tertiary); letter-spacing: 0.5px; text-transform: uppercase; }
+.d1-day-line { flex: 1; height: 1px; background: var(--border); }
+.d1-day-count { font-size: 10px; color: var(--text-tertiary); font-family: 'JetBrains Mono', monospace; }
+.d1-article {
+  border: 1px solid transparent; border-radius: 6px;
+  margin-bottom: 2px; cursor: pointer;
+  transition: all 0.15s;
+}
+.d1-article:hover { background: rgba(255,255,255,0.015); border-color: var(--border); }
+.d1-article-inner { display: flex; align-items: flex-start; gap: 8px; padding: 7px 10px; }
+.d1-art-number {
+  font-size: 10px; color: var(--text-tertiary);
+  font-family: 'JetBrains Mono', monospace; margin-top: 3px;
+  min-width: 18px; text-align: right;
+}
+.d1-art-content { flex: 1; min-width: 0; }
+.d1-art-title { font-size: 13px; font-weight: 400; color: var(--text); line-height: 1.4; }
+.d1-art-meta { display: flex; align-items: center; gap: 4px; margin-top: 2px; flex-wrap: wrap; }
+.d1-art-source { font-size: 10px; color: var(--text-tertiary); }
+.d1-art-tags { display: flex; gap: 2px; }
+.d1-tag {
+  font-size: 9px; font-weight: 500; padding: 0 5px; border-radius: 2px;
+  text-transform: uppercase; letter-spacing: 0.3px;
+}
+.d1-tag-axa { background: rgba(94,106,210,0.12); color: #8b97e0; }
+.d1-tag-ai { background: rgba(16,185,129,0.12); color: #34d399; }
+.d1-tag-nigeria { background: rgba(245,158,11,0.12); color: #fbbf24; }
+
+/* ======= Direction 2 — Intelligence Dashboard ======= */
+.d2-grid { display: flex; flex-direction: column; gap: 16px; }
+.d2-hero {
+  background: linear-gradient(135deg, rgba(113,112,255,0.06), rgba(16,185,129,0.04));
+  border: 1px solid var(--border); border-radius: 10px;
+  padding: 16px 20px;
+}
+.d2-hero-label { font-size: 9px; font-weight: 600; text-transform: uppercase; letter-spacing: 1.2px; color: var(--accent); margin-bottom: 6px; }
+.d2-hero h4 { font-size: 16px; font-weight: 510; letter-spacing: -0.2px; margin-bottom: 4px; }
+.d2-hero p { font-size: 12px; color: var(--text-secondary); line-height: 1.5; }
+.d2-hero-meta { display: flex; gap: 8px; margin-top: 8px; font-size: 11px; color: var(--text-tertiary); }
+.d2-stats {
+  display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px;
+}
+.d2-stat {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 8px; padding: 12px 14px;
+}
+.d2-stat-value { font-size: 20px; font-weight: 600; letter-spacing: -0.3px; font-family: var(--font-display); }
+.d2-stat-label { font-size: 10px; color: var(--text-tertiary); margin-top: 1px; letter-spacing: 0.2px; }
+.d2-stat-trend {
+  font-size: 10px; font-weight: 500; margin-top: 4px;
+}
+.d2-trend-up { color: #34d399; }
+.d2-section-label {
+  font-size: 11px; font-weight: 600; text-transform: uppercase;
+  letter-spacing: 0.8px; color: var(--text-tertiary);
+  margin-bottom: 8px; padding: 0 2px;
+}
+.d2-card {
+  background: var(--surface); border: 1px solid var(--border);
+  border-radius: 8px; padding: 10px 14px; cursor: pointer;
+  transition: all 0.15s;
+}
+.d2-card:hover { border-color: rgba(255,255,255,0.12); background: var(--hover); }
+.d2-card-title { font-size: 13px; font-weight: 500; }
+.d2-card-meta { display: flex; align-items: center; gap: 6px; margin-top: 4px; font-size: 11px; color: var(--text-tertiary); }
+.d2-card-summary { font-size: 11px; color: var(--text-secondary); margin-top: 4px; line-height: 1.4; }
+.d2-card-tags { display: flex; gap: 3px; margin-top: 6px; }
+.d2-tag { font-size: 9px; padding: 1px 6px; border-radius: 3px; font-weight: 500; }
+.d2-source-dot { width: 12px; height: 12px; border-radius: 3px; flex-shrink: 0; }
+.d2-source-axa { background: #5e6ad2; }
+.d2-source-ai { background: #10b981; }
+.d2-source-nigeria { background: #f59e0b; }
+
+/* ======= Direction 3 — Briefing Magazine ======= */
+.d3-pub { margin-bottom: 20px; }
+.d3-pub-header {
+  margin-bottom: 12px; padding-bottom: 10px;
+  border-bottom: 1px solid var(--border);
+}
+.d3-pub-date {
+  font-size: 11px; color: var(--text-tertiary);
+  font-family: 'JetBrains Mono', monospace; letter-spacing: 0.3px;
+}
+.d3-pub-title {
+  font-family: var(--font-serif);
+  font-size: 26px; font-weight: 400; letter-spacing: -0.5px;
+  margin-top: 2px; line-height: 1.2;
+}
+.d3-pub-count { font-size: 11px; color: var(--text-tertiary); margin-top: 4px; }
+.d3-featured {
+  background: rgba(255,255,255,0.02); border: 1px solid var(--border);
+  border-radius: 10px; overflow: hidden; margin-bottom: 14px;
+}
+.d3-featured-img {
+  height: 80px; background: linear-gradient(135deg, rgba(113,112,255,0.1), rgba(16,185,129,0.06));
+  display: flex; align-items: center; justify-content: center;
+  font-size: 28px;
+}
+.d3-featured-body { padding: 14px 16px 16px; }
+.d3-featured-tag {
+  font-size: 10px; font-weight: 600; text-transform: uppercase;
+  letter-spacing: 0.8px; color: var(--accent); margin-bottom: 4px;
+}
+.d3-featured h4 {
+  font-family: var(--font-serif);
+  font-size: 18px; font-weight: 400; line-height: 1.3;
+  letter-spacing: -0.2px;
+}
+.d3-featured p { font-size: 12px; color: var(--text-secondary); margin-top: 6px; line-height: 1.5; }
+.d3-featured-meta { display: flex; gap: 10px; margin-top: 8px; font-size: 11px; color: var(--text-tertiary); }
+.d3-section-title {
+  font-family: var(--font-serif);
+  font-size: 14px; font-style: italic; color: var(--text-secondary);
+  margin-bottom: 8px; letter-spacing: -0.1px;
+}
+.d3-item {
+  display: flex; gap: 10px; padding: 8px 0;
+  border-bottom: 1px solid var(--border); cursor: pointer;
+}
+.d3-item:last-child { border-bottom: none; }
+.d3-item-num {
+  font-size: 12px; color: var(--text-tertiary);
+  font-family: 'JetBrains Mono', monospace; margin-top: 1px;
+  min-width: 20px;
+}
+.d3-item-content { flex: 1; }
+.d3-item-title { font-size: 13px; font-weight: 400; line-height: 1.4; }
+.d3-item-src { font-size: 10px; color: var(--text-tertiary); margin-top: 1px; }
+.d3-item-note { font-size: 11px; color: var(--text-secondary); margin-top: 3px; font-style: italic; }
+.d3-item-arrow { color: var(--text-quaternary); font-size: 12px; margin-top: 3px; }
+
+/* Responsive */
+@media (max-width: 900px) {
+  .directions { flex-direction: column; }
+  .direction { border-right: none; border-bottom: 1px solid var(--border); }
+}
+
+/* Label Bar */
+.label-bar { display: flex; gap: 4px; margin-bottom: 12px; }
+.label-item { font-size: 9px; padding: 2px 6px; border-radius: 3px; font-weight: 500; }
+.label-axa { background: rgba(94,106,210,0.12); color: #8b97e0; }
+.label-ai { background: rgba(16,185,129,0.12); color: #34d399; }
+.label-ng { background: rgba(245,158,11,0.12); color: #fbbf24; }
+.label-opp { background: rgba(236,72,153,0.12); color: #f472b6; }
+</style>
+</head>
+<body>
+<div class="page-header">
+  <h1>Daily Intelligence Brief — 3 Directions</h1>
+  <p>Redesign concepts for the GitHub Pages dashboard · All dark-themed · Click nothing — visual exploration</p>
+</div>
+
+<div class="directions">
+
+<!-- ======== Direction 1: Polished Timeline ======== -->
+<div class="direction">
+  <div class="dir-header">
+    <h2>Polished Timeline</h2>
+    <span class="tag tag-conservative">Conservative</span>
+    <div class="dir-sub">Refined version of current Linear-style timeline · Better browsing · Month nav · Inline reading</div>
+  </div>
+  <div class="dir-content">
+    <div class="dir-content-inner">
+
+      <div class="d1-header">
+        <h3>Brief Archive</h3>
+        <div class="d1-nav">
+          <button>◀</button>
+          <button style="width:auto;padding:0 10px;font-size:11px;font-weight:500;">May 2026</button>
+          <button>▶</button>
+        </div>
+      </div>
+
+      <div class="d1-filters">
+        <button class="d1-filter active">All</button>
+        <button class="d1-filter">AXA</button>
+        <button class="d1-filter">AI</button>
+        <button class="d1-filter">Nigeria</button>
+        <button class="d1-filter">Opportunity</button>
+        <button class="d1-filter">Tech</button>
+        <div style="flex:1"></div>
+        <button class="d1-filter">🔍 Search</button>
+      </div>
+
+      <div class="d1-day">
+        <div class="d1-day-header">
+          <span class="d1-day-date">Thursday, May 22, 2026</span>
+          <span class="d1-day-line"></span>
+          <span class="d1-day-count">5</span>
+        </div>
+
+        <div class="d1-article">
+          <div class="d1-article-inner">
+            <span class="d1-art-number">01</span>
+            <div class="d1-art-content">
+              <div class="d1-art-title">AXA Mansard launches AI-powered claims processing in Nigeria</div>
+              <div class="d1-art-meta">
+                <span class="d1-art-source">TechCabal · 22m ago</span>
+                <div class="d1-art-tags">
+                  <span class="d1-tag d1-tag-axa">AXA</span>
+                  <span class="d1-tag d1-tag-ai">AI</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="d1-article">
+          <div class="d1-article-inner">
+            <span class="d1-art-number">02</span>
+            <div class="d1-art-content">
+              <div class="d1-art-title">Nigeria's SEC releases new guidelines for AI-based fintech</div>
+              <div class="d1-art-meta">
+                <span class="d1-art-source">BusinessDay · 2h ago</span>
+                <div class="d1-art-tags">
+                  <span class="d1-tag d1-tag-nigeria">Nigeria</span>
+                  <span class="d1-tag d1-tag-axa">AXA</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="d1-article">
+          <div class="d1-article-inner">
+            <span class="d1-art-number">03</span>
+            <div class="d1-art-content">
+              <div class="d1-art-title">OpenAI releases GPT-5 with 2M token context window</div>
+              <div class="d1-art-meta">
+                <span class="d1-art-source">The Verge · 3h ago</span>
+                <div class="d1-art-tags">
+                  <span class="d1-tag d1-tag-ai">AI</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="d1-day">
+        <div class="d1-day-header">
+          <span class="d1-day-date">Wednesday, May 21, 2026</span>
+          <span class="d1-day-line"></span>
+          <span class="d1-day-count">3</span>
+        </div>
+        <div class="d1-article">
+          <div class="d1-article-inner">
+            <span class="d1-art-number">01</span>
+            <div class="d1-art-content">
+              <div class="d1-art-title">African actuarial talent pipeline: New certification pathways open</div>
+              <div class="d1-art-meta">
+                <span class="d1-art-source">IAWeekly · 1d ago</span>
+                <div class="d1-art-tags">
+                  <span class="d1-tag d1-tag-axa">AXA</span>
+                  <span class="d1-tag d1-tag-nigeria">Nigeria</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div style="margin-top:12px;padding:8px 10px;border:1px solid var(--border);border-radius:6px;display:flex;align-items:center;gap:10px;">
+        <span style="font-size:16px;">📥</span>
+        <div style="flex:1;font-size:12px;color:var(--text-secondary);"><strong>Load more</strong> · 14 older briefs available</div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- ======== Direction 2: Intelligence Dashboard ======== -->
+<div class="direction">
+  <div class="dir-header">
+    <h2>Intelligence Dashboard</h2>
+    <span class="tag tag-strong">Strong-fit</span>
+    <div class="dir-sub">Bloomberg-meets-Notion · Summary stats · Hero story · Scan-first reading</div>
+  </div>
+  <div class="dir-content">
+    <div class="dir-content-inner">
+      <div class="d2-grid">
+
+        <div class="d2-stats">
+          <div class="d2-stat">
+            <div class="d2-stat-value">42</div>
+            <div class="d2-stat-label">Articles this week</div>
+            <div class="d2-stat-trend d2-trend-up">↑ 12% from last week</div>
+          </div>
+          <div class="d2-stat">
+            <div class="d2-stat-value">8</div>
+            <div class="d2-stat-label">AI opportunities</div>
+            <div class="d2-stat-trend d2-trend-up">↑ 3 new</div>
+          </div>
+          <div class="d2-stat">
+            <div class="d2-stat-value">5</div>
+            <div class="d2-stat-label">Actionable items</div>
+            <div class="d2-stat-trend" style="color:#f472b6;">↑ 2 urgent</div>
+          </div>
+        </div>
+
+        <div class="d2-hero">
+          <div class="d2-hero-label">★ Editor's Pick</div>
+          <h4>AXA Mansard moves to integrate AI across underwriting pipeline</h4>
+          <p>The insurer is piloting machine learning models for risk assessment in Nigeria, potentially reshaping the West African insurance market. Aligns with your July start as AI Lead.</p>
+          <div class="d2-hero-meta">
+            <span>🔗 TechCabal</span>
+            <span>·</span>
+            <span>🎯 Your angle: Review integration architecture before onboarding</span>
+          </div>
+          <div class="label-bar" style="margin-top:8px;margin-bottom:0;">
+            <span class="label-item label-axa">AXA</span>
+            <span class="label-item label-ai">AI</span>
+          </div>
+        </div>
+
+        <div class="d2-section-label">Today's Brief</div>
+
+        <div class="d2-card">
+          <div style="display:flex;gap:8px;align-items:flex-start;">
+            <div class="d2-source-dot d2-source-axa"></div>
+            <div style="flex:1;">
+              <div class="d2-card-title">Nigeria's SEC releases AI fintech guidelines</div>
+              <div class="d2-card-meta">
+                <span>BusinessDay</span>
+                <span>·</span>
+                <span>2h ago</span>
+              </div>
+              <div class="d2-card-summary">New regulatory framework for AI-powered financial services in Nigeria. Key compliance requirements for insurers using ML models.</div>
+              <div class="d2-card-tags">
+                <span class="d2-tag label-axa">AXA</span>
+                <span class="d2-tag label-ng">Nigeria</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="d2-card">
+          <div style="display:flex;gap:8px;align-items:flex-start;">
+            <div class="d2-source-dot d2-source-ai"></div>
+            <div style="flex:1;">
+              <div class="d2-card-title">OpenAI GPT-5 ships with 2M token context</div>
+              <div class="d2-card-meta">
+                <span>The Verge</span>
+                <span>·</span>
+                <span>3h ago</span>
+              </div>
+              <div class="d2-card-summary">Massive context window opens new possibilities for document analysis and long-form reasoning. Relevant for your AI strategy work.</div>
+              <div class="d2-card-tags">
+                <span class="d2-tag label-ai">AI</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div style="margin-top:4px;padding:8px 14px;border:1px dashed var(--border);border-radius:8px;font-size:12px;color:var(--text-tertiary);text-align:center;">
+          +3 more articles today · <span style="color:var(--accent);cursor:pointer;">View all →</span>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ======== Direction 3: Briefing Magazine ======== -->
+<div class="direction">
+  <div class="dir-header">
+    <h2>Briefing Magazine</h2>
+    <span class="tag tag-divergent">Divergent</span>
+    <div class="dir-sub">Editorial daily newspaper · Serif typography · Feature-led · Full-screen reading mode</div>
+  </div>
+  <div class="dir-content">
+    <div class="dir-content-inner">
+
+      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:16px;">
+        <span style="font-family:var(--font-serif);font-size:20px;letter-spacing:-0.3px;">Intelligence Brief</span>
+        <span style="font-size:10px;color:var(--text-tertiary);font-family:'JetBrains Mono',monospace;">Vol. III · No. 142</span>
+      </div>
+
+      <div class="d3-pub">
+        <div class="d3-pub-header">
+          <div class="d3-pub-date">Thursday, 22 May 2026</div>
+          <div class="d3-pub-title">The Morning Briefing</div>
+          <div class="d3-pub-count">5 stories curated for you</div>
+        </div>
+
+        <div class="d3-featured">
+          <div class="d3-featured-img">🏦</div>
+          <div class="d3-featured-body">
+            <div class="d3-featured-tag">Lead Story</div>
+            <h4>AXA Mansard's AI push signals new era for Nigerian insurance</h4>
+            <p>The company is piloting machine learning across underwriting and claims, ahead of Odunayo's July start as AI Transformation Lead. The move positions AXA Mansard as a potential market leader in AI-driven insurance in West Africa.</p>
+            <div class="d3-featured-meta">
+              <span>TechCabal</span>
+              <span>·</span>
+              <span>22 minutes ago</span>
+              <span>·</span>
+              <span style="color:var(--accent);">Read →</span>
+            </div>
+            <div class="label-bar" style="margin-top:8px;margin-bottom:0;">
+              <span class="label-item label-axa">AXA</span>
+              <span class="label-item label-ai">AI</span>
+              <span class="label-item label-ng">Nigeria</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="d3-section-title">Also in today's brief</div>
+
+        <div class="d3-item">
+          <span class="d3-item-num">02</span>
+          <div class="d3-item-content">
+            <div class="d3-item-title">Nigeria's SEC publishes AI governance framework for fintech</div>
+            <div class="d3-item-src">BusinessDay · 2h ago</div>
+            <div class="d3-item-note">Directly impacts AXA's AI deployment strategy — compliance requirements for ML models in insurance.</div>
+          </div>
+          <span class="d3-item-arrow">→</span>
+        </div>
+
+        <div class="d3-item">
+          <span class="d3-item-num">03</span>
+          <div class="d3-item-content">
+            <div class="d3-item-title">OpenAI GPT-5 arrives with 2M token context window</div>
+            <div class="d3-item-src">The Verge · 3h ago</div>
+            <div class="d3-item-note">Massive context length changes what's possible for document analysis — relevant for insurance document processing.</div>
+          </div>
+          <span class="d3-item-arrow">→</span>
+        </div>
+
+        <div class="d3-item">
+          <span class="d3-item-num">04</span>
+          <div class="d3-item-content">
+            <div class="d3-item-title">New actuarial certification pathways open for African professionals</div>
+            <div class="d3-item-src">IAWeekly · 1d ago</div>
+            <div class="d3-item-note">Talent pipeline development — relevant for building local AI/actuarial capability at AXA Mansard.</div>
+          </div>
+          <span class="d3-item-arrow">→</span>
+        </div>
+
+        <div style="margin-top:16px;padding:10px 14px;border:1px solid var(--border);border-radius:8px;display:flex;align-items:center;gap:10px;font-size:12px;">
+          <span>📖</span>
+          <span style="color:var(--text-secondary);">Open in <strong style="color:var(--text);">Reading Mode</strong> for full-screen briefing experience</span>
+        </div>
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+</div>
+</body>
+</html>

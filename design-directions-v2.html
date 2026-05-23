@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Daily Intelligence Brief — 3 Creative Directions</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=DM+Serif+Display:ital@0;1&family=JetBrains+Mono:wght@300;400;500;700&family=Shadows+Into+Light&family=Space+Grotesk:wght@400;500;600;700&family=Syne:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+:root {
+  --bg: #0a0b0e; --panel: #111215; --surface: #18191d;
+  --hover: #212226; --border: rgba(255,255,255,0.06);
+  --text: #f0f2f5; --text-secondary: #a0a5b0; --text-tertiary: #686c74;
+  --accent: #7170ff; --accent-hover: #8b8aff;
+  --font: 'Inter', system-ui, sans-serif;
+  --font-serif: 'DM Serif Display', Georgia, serif;
+  --font-mono: 'JetBrains Mono', monospace;
+  --font-display: 'Syne', sans-serif;
+  --font-grotesk: 'Space Grotesk', sans-serif;
+  --font-hand: 'Shadows Into Light', cursive;
+}
+body { font-family: var(--font); background: var(--bg); color: var(--text); min-height: 100vh; }
+.page-header {
+  position: sticky; top: 0; z-index: 100;
+  background: rgba(10,11,14,0.85); backdrop-filter: blur(16px);
+  border-bottom: 1px solid var(--border);
+  padding: 20px 40px; display: flex; align-items: center; gap: 16px;
+}
+.page-header h1 { font-size: 22px; font-weight: 600; letter-spacing: -0.4px; }
+.page-header .sub { color: var(--text-tertiary); font-size: 13px; margin-top: 2px; }
+.badge { font-size: 10px; padding: 2px 8px; border-radius: 3px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+
+.directions { display: flex; gap: 0; min-height: calc(100vh - 80px); }
+.direction { flex: 1; border-right: 1px solid var(--border); display: flex; flex-direction: column; min-width: 0; overflow: hidden; }
+.direction:last-child { border-right: none; }
+
+.dir-header {
+  padding: 18px 20px 14px; border-bottom: 1px solid var(--border); flex-shrink: 0;
+}
+.dir-header h2 { font-size: 14px; font-weight: 600; letter-spacing: -0.2px; }
+.dir-tag { display: inline-block; font-size: 9px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.8px; padding: 2px 7px; border-radius: 3px; margin-top: 5px; }
+.dir-sub { font-size: 10px; color: var(--text-tertiary); margin-top: 3px; letter-spacing: 0.2px; }
+
+.dir-content { flex: 1; overflow-y: auto; }
+.dir-inner { padding: 16px 18px; }
+
+@media (max-width: 900px) {
+  .directions { flex-direction: column; }
+  .direction { border-right: none; border-bottom: 1px solid var(--border); }
+}
+
+/* ====================================
+   DIRECTION 1: BLUEPRINT TERMINAL
+   ==================================== */
+.tag-terminal { background: rgba(0,255,136,0.1); color: #00ff88; border: 1px solid rgba(0,255,136,0.15); }
+.badge-terminal { background: rgba(0,255,136,0.08); color: #00ff88; }
+
+.d1 {
+  font-family: var(--font-mono); font-size: 11px; line-height: 1.5;
+  position: relative;
+}
+.d1::before {
+  content: ''; position: absolute; inset: 0; pointer-events: none;
+  background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,255,136,0.015) 2px, rgba(0,255,136,0.015) 4px);
+}
+.d1-statusbar {
+  display: flex; align-items: center; gap: 12px;
+  padding: 6px 10px; background: rgba(0,255,136,0.04);
+  border: 1px solid rgba(0,255,136,0.12);
+  font-size: 9px; text-transform: uppercase; letter-spacing: 1px;
+  margin-bottom: 12px;
+}
+.d1-statusbar .dot { width: 5px; height: 5px; border-radius: 50%; }
+.d1-statusbar .dot.green { background: #00ff88; box-shadow: 0 0 4px #00ff88; }
+.d1-ticker {
+  background: rgba(0,255,136,0.03); border: 1px solid rgba(0,255,136,0.1);
+  padding: 6px 10px; margin-bottom: 10px;
+  display: flex; align-items: center; gap: 8px;
+  overflow: hidden; white-space: nowrap;
+  font-size: 10px; color: rgba(0,255,136,0.7);
+}
+.d1-ticker span { animation: ticker 12s linear infinite; }
+@keyframes ticker {
+  0% { transform: translateX(0); }
+  100% { transform: translateX(-100%); }
+}
+.d1-panes { display: flex; gap: 8px; margin-bottom: 10px; }
+.d1-pane {
+  flex: 1; border: 1px solid rgba(0,255,136,0.08);
+  padding: 8px 10px; position: relative;
+}
+.d1-pane-title { font-size: 8px; text-transform: uppercase; letter-spacing: 1.5px; color: rgba(0,255,136,0.4); margin-bottom: 6px; }
+.d1-stat-line { display: flex; justify-content: space-between; font-size: 10px; color: rgba(0,255,136,0.8); margin-bottom: 2px; }
+.d1-stat-val { color: #00ff88; font-weight: 500; }
+.d1-stat-trend { font-size: 8px; }
+.d1-stat-trend.up { color: #00ff88; }
+.d1-stat-trend.warn { color: #ffbb00; }
+
+.d1-cursor { display: inline-block; width: 6px; height: 12px; background: #00ff88; animation: blink 1s step-end infinite; vertical-align: middle; }
+@keyframes blink { 50% { opacity: 0; } }
+
+.d1-article { 
+  border: 1px solid transparent; padding: 6px 8px; margin-bottom: 2px;
+  cursor: pointer; position: relative;
+}
+.d1-article:hover { background: rgba(0,255,136,0.03); border-color: rgba(0,255,136,0.1); }
+.d1-article::before { content: '>'; color: rgba(0,255,136,0.3); margin-right: 6px; }
+.d1-art-title { color: rgba(0,255,136,0.85); }
+.d1-art-meta { font-size: 8px; color: rgba(0,255,136,0.45); margin-top: 1px; margin-left: 12px; }
+.d1-art-tags { display: inline-flex; gap: 3px; margin-left: 6px; }
+.d1-tag-terminal {
+  font-size: 7px; padding: 0 4px; border: 1px solid;
+  text-transform: uppercase;
+}
+.d1-tag-t-axa { border-color: rgba(94,106,210,0.4); color: rgba(94,106,210,0.7); }
+.d1-tag-t-ai { border-color: rgba(16,185,129,0.4); color: rgba(16,185,129,0.7); }
+.d1-tag-t-ng { border-color: rgba(245,158,11,0.4); color: rgba(245,158,11,0.7); }
+
+.d1-prompt {
+  display: flex; align-items: center; gap: 6px;
+  border-top: 1px solid rgba(0,255,136,0.1);
+  padding: 8px 0 0; margin-top: 10px;
+  font-size: 10px; color: rgba(0,255,136,0.5);
+}
+.d1-prompt span { color: #00ff88; }
+
+.d1-ascii-logo {
+  font-size: 7px; line-height: 1.3; color: rgba(0,255,136,0.25);
+  margin-bottom: 8px; text-align: center; white-space: pre;
+  font-family: var(--font-mono);
+}
+
+/* ====================================
+   DIRECTION 2: BRIEFING ZINE
+   ==================================== */
+.tag-zine { background: rgba(244,114,182,0.08); color: #f472b6; border: 1px solid rgba(244,114,182,0.12); }
+.badge-zine { background: rgba(244,114,182,0.08); color: #f472b6; }
+
+.d2 {
+  font-family: var(--font-serif); font-size: 14px; color: #e8e0d8;
+  background: 
+    radial-gradient(circle at 15% 10%, rgba(244,114,182,0.03) 0%, transparent 50%),
+    radial-gradient(circle at 85% 90%, rgba(113,112,255,0.03) 0%, transparent 50%);
+  position: relative;
+}
+.d2::before {
+  content: ''; position: absolute; inset: 0;
+  background-image: 
+    repeating-linear-gradient(0deg, transparent, transparent 30px, rgba(255,255,255,0.008) 30px, rgba(255,255,255,0.008) 31px);
+  pointer-events: none;
+}
+.d2-vol {
+  font-size: 9px; font-family: var(--font-mono); text-transform: uppercase;
+  letter-spacing: 2px; color: rgba(244,114,182,0.5);
+  border-bottom: 1px solid rgba(244,114,182,0.15);
+  padding-bottom: 6px; margin-bottom: 10px;
+}
+.d2-masthead {
+  font-family: var(--font-hand); font-size: 28px; line-height: 1;
+  color: #f0e6dc; text-align: center;
+  margin-bottom: 4px; letter-spacing: -1px;
+}
+.d2-dateline { text-align: center; font-size: 10px; color: rgba(224,216,200,0.4); font-family: var(--font-mono); margin-bottom: 10px; }
+
+.d2-hero {
+  position: relative; margin-bottom: 12px;
+  border: 1px solid rgba(255,255,255,0.06);
+  background: rgba(255,255,255,0.02);
+  padding: 12px 14px;
+}
+.d2-hero::before {
+  content: '★'; position: absolute; top: -1px; right: -1px;
+  font-size: 40px; color: rgba(244,114,182,0.08);
+  font-family: var(--font-serif);
+}
+.d2-hero-label {
+  font-size: 9px; font-family: var(--font-mono); text-transform: uppercase;
+  letter-spacing: 2px; color: #f472b6; margin-bottom: 4px;
+}
+.d2-hero h4 {
+  font-family: var(--font-serif); font-size: 18px; font-weight: 400;
+  line-height: 1.25; letter-spacing: -0.3px;
+  color: #f0e6dc;
+}
+.d2-hero h4::after { content: ' ¶'; color: rgba(244,114,182,0.3); }
+.d2-hero p { font-size: 12px; line-height: 1.6; color: rgba(224,216,200,0.7); margin-top: 6px; font-family: var(--font); }
+.d2-hero p em { font-style: italic; color: rgba(244,114,182,0.7); }
+
+.d2-tape {
+  width: 60px; height: 10px;
+  background: linear-gradient(135deg, rgba(244,114,182,0.15), rgba(113,112,255,0.1));
+  margin: -6px auto 8px; border-radius: 1px;
+  transform: rotate(-2deg);
+  filter: blur(1px);
+}
+
+.d2-section-label {
+  font-family: var(--font-hand); font-size: 16px;
+  color: rgba(224,216,200,0.5); margin: 12px 0 6px;
+  position: relative; padding-left: 4px;
+}
+.d2-section-label::before { content: '// '; color: rgba(244,114,182,0.3); }
+
+.d2-card {
+  padding: 8px 10px; margin-bottom: 4px;
+  border-left: 2px solid rgba(255,255,255,0.04);
+  position: relative; cursor: pointer;
+  transition: all 0.15s;
+}
+.d2-card:hover { border-left-color: rgba(244,114,182,0.3); background: rgba(255,255,255,0.01); }
+.d2-card-num {
+  position: absolute; left: -6px; top: 8px;
+  font-family: var(--font-mono); font-size: 9px;
+  color: rgba(224,216,200,0.15);
+}
+.d2-card-title { font-family: var(--font-serif); font-size: 15px; font-weight: 400; line-height: 1.3; }
+.d2-card-meta { font-size: 10px; color: rgba(224,216,200,0.4); font-family: var(--font); margin-top: 2px; }
+.d2-card-note {
+  font-family: var(--font-hand); font-size: 12px; color: rgba(244,114,182,0.4);
+  margin-top: 3px; line-height: 1.3;
+}
+.d2-stamp {
+  display: inline-block; font-size: 7px; font-family: var(--font-mono);
+  text-transform: uppercase; letter-spacing: 2px;
+  padding: 1px 6px; border: 1px solid; transform: rotate(-3deg);
+  margin-top: 4px; border-radius: 1px;
+}
+.d2-stamp-opp { color: rgba(244,114,182,0.5); border-color: rgba(244,114,182,0.25); }
+.d2-stamp-urgent { color: rgba(255,107,107,0.5); border-color: rgba(255,107,107,0.25); }
+
+.d2-tags { display: flex; gap: 3px; margin-top: 4px; }
+.d2-tag { font-size: 8px; font-family: var(--font-mono); padding: 0 4px; text-transform: uppercase; letter-spacing: 0.5px; }
+.d2-tag-axa { background: rgba(94,106,210,0.08); color: rgba(94,106,210,0.6); }
+.d2-tag-ai { background: rgba(16,185,129,0.08); color: rgba(16,185,129,0.6); }
+.d2-tag-ng { background: rgba(245,158,11,0.08); color: rgba(245,158,11,0.6); }
+
+.d2-footer {
+  margin-top: 12px; padding-top: 8px;
+  border-top: 1px solid rgba(255,255,255,0.04);
+  font-family: var(--font-hand);
+  font-size: 12px; color: rgba(224,216,200,0.25);
+  text-align: center;
+}
+
+/* ====================================
+   DIRECTION 3: COMMAND CENTER
+   ==================================== */
+.tag-center { background: rgba(255,107,0,0.1); color: #ff6b00; border: 1px solid rgba(255,107,0,0.15); }
+.badge-center { background: rgba(255,107,0,0.08); color: #ff6b00; }
+
+.d3 {
+  font-family: var(--font-grotesk); font-size: 12px;
+  position: relative;
+  background: radial-gradient(ellipse at 50% 30%, rgba(255,107,0,0.02) 0%, transparent 60%);
+}
+
+.d3-radar {
+  position: relative; height: 100px; margin-bottom: 12px;
+  border: 1px solid rgba(255,107,0,0.12); border-radius: 8px;
+  overflow: hidden;
+  background: radial-gradient(circle at 50% 50%, rgba(255,107,0,0.04) 0%, transparent 50%);
+}
+.d3-radar-grid {
+  position: absolute; inset: 0;
+  background: 
+    repeating-linear-gradient(0deg, transparent, transparent 19px, rgba(255,107,0,0.04) 19px, rgba(255,107,0,0.04) 20px),
+    repeating-linear-gradient(90deg, transparent, transparent 19px, rgba(255,107,0,0.04) 19px, rgba(255,107,0,0.04) 20px);
+}
+.d3-radar-sweep {
+  position: absolute; top: 50%; left: 50%; width: 120%;
+  height: 2px; background: linear-gradient(90deg, transparent, rgba(255,107,0,0.15));
+  transform-origin: left center;
+  animation: sweep 4s linear infinite;
+}
+@keyframes sweep {
+  0% { transform: translate(-50%, -50%) rotate(0deg); }
+  100% { transform: translate(-50%, -50%) rotate(360deg); }
+}
+.d3-radar-blip {
+  position: absolute; width: 4px; height: 4px; border-radius: 50%;
+  box-shadow: 0 0 6px;
+}
+.d3-blip1 { top: 30%; left: 25%; background: #ff6b00; box-shadow: 0 0 6px #ff6b00; animation: pulse 2s ease-in-out infinite; }
+.d3-blip2 { top: 55%; left: 60%; background: #10b981; box-shadow: 0 0 6px #10b981; animation: pulse 2s ease-in-out infinite 0.5s; }
+.d3-blip3 { top: 70%; left: 35%; background: #7170ff; box-shadow: 0 0 6px #7170ff; animation: pulse 2s ease-in-out infinite 1s; }
+.d3-blip4 { top: 40%; left: 75%; background: #f59e0b; box-shadow: 0 0 6px #f59e0b; animation: pulse 2s ease-in-out infinite 1.5s; }
+@keyframes pulse { 0%, 100% { opacity: 0.4; transform: scale(1); } 50% { opacity: 1; transform: scale(1.5); } }
+
+.d3-radar-label {
+  position: absolute; bottom: 4px; left: 50%; transform: translateX(-50%);
+  font-size: 8px; text-transform: uppercase; letter-spacing: 2px;
+  color: rgba(255,107,0,0.3); font-family: var(--font-mono);
+}
+
+.d3-telemetry {
+  display: grid; grid-template-columns: 1fr 1fr; gap: 6px; margin-bottom: 10px;
+}
+.d3-tele-item {
+  border: 1px solid rgba(255,107,0,0.08); border-radius: 4px;
+  padding: 8px 10px; position: relative; overflow: hidden;
+  background: rgba(255,255,255,0.01);
+}
+.d3-tele-item .label {
+  font-size: 8px; text-transform: uppercase; letter-spacing: 1.5px;
+  color: rgba(255,255,255,0.3);
+}
+.d3-tele-item .value {
+  font-family: var(--font-mono); font-size: 16px; font-weight: 500;
+  color: #fff;
+}
+.d3-tele-item .trend {
+  font-size: 9px; font-family: var(--font-mono);
+  margin-top: 2px;
+}
+.d3-trend-up { color: #10b981; }
+.d3-trend-warn { color: #ff6b00; }
+.d3-trend-urgent { color: #ff4757; }
+.d3-tele-bar {
+  position: absolute; bottom: 0; left: 0; height: 2px;
+  background: linear-gradient(90deg, rgba(255,107,0,0.4), transparent);
+}
+
+.d3-priority {
+  display: flex; gap: 4px; margin-bottom: 10px;
+}
+.d3-pri-item {
+  flex: 1; padding: 4px 6px; text-align: center;
+  border-radius: 3px; font-size: 8px; text-transform: uppercase; letter-spacing: 1px;
+}
+.d3-pri-critical { background: rgba(255,71,87,0.1); color: #ff4757; border: 1px solid rgba(255,71,87,0.2); }
+.d3-pri-high { background: rgba(255,107,0,0.1); color: #ff6b00; border: 1px solid rgba(255,107,0,0.2); }
+.d3-pri-med { background: rgba(16,185,129,0.1); color: #10b981; border: 1px solid rgba(16,185,129,0.2); }
+.d3-pri-info { background: rgba(113,112,255,0.1); color: #7170ff; border: 1px solid rgba(113,112,255,0.2); }
+.d3-pri-count { font-size: 14px; font-weight: 700; display: block; }
+
+.d3-card {
+  border: 1px solid rgba(255,255,255,0.04); border-radius: 6px;
+  padding: 10px 12px; margin-bottom: 6px;
+  background: rgba(255,255,255,0.01); cursor: pointer;
+  transition: all 0.15s; position: relative;
+}
+.d3-card:hover { border-color: rgba(255,107,0,0.15); background: rgba(255,107,0,0.02); }
+.d3-card-severity {
+  position: absolute; left: 0; top: 0; bottom: 0; width: 3px;
+  border-radius: 6px 0 0 6px;
+}
+.d3-sev-high { background: #ff6b00; }
+.d3-sev-med { background: #10b981; }
+.d3-sev-info { background: #7170ff; }
+.d3-card-header {
+  display: flex; align-items: flex-start; gap: 6px;
+}
+.d3-card-status {
+  width: 6px; height: 6px; border-radius: 50%; margin-top: 4px; flex-shrink: 0;
+  background: #10b981; box-shadow: 0 0 4px currentColor;
+}
+.d3-card-status.new { background: #ff6b00; box-shadow: 0 0 4px #ff6b00; animation: pulse 2s ease-in-out infinite; }
+.d3-card-title { font-size: 12px; font-weight: 500; line-height: 1.4; font-family: var(--font); }
+.d3-card-meta { font-size: 9px; color: var(--text-tertiary); margin-top: 3px; display: flex; gap: 8px; }
+.d3-card tags { display: flex; gap: 2px; margin-top: 4px; }
+.d3-tag-center {
+  font-size: 7px; font-family: var(--font-mono); padding: 0 4px;
+  text-transform: uppercase; letter-spacing: 0.5px;
+}
+.d3-tag-c-axa { background: rgba(94,106,210,0.08); color: rgba(94,106,210,0.6); }
+.d3-tag-c-ai { background: rgba(16,185,129,0.08); color: rgba(16,185,129,0.6); }
+.d3-tag-c-ng { background: rgba(245,158,11,0.08); color: rgba(245,158,11,0.6); }
+.d3-tag-c-opp { background: rgba(244,114,182,0.08); color: rgba(244,114,182,0.6); }
+
+.d3-footer {
+  margin-top: 8px; padding-top: 6px;
+  border-top: 1px solid rgba(255,255,255,0.03);
+  font-size: 8px; font-family: var(--font-mono); color: rgba(255,255,255,0.15);
+  display: flex; justify-content: space-between;
+  text-transform: uppercase; letter-spacing: 1px;
+}
+.d3-footer .cycle { color: rgba(255,107,0,0.4); }
+</style>
+</head>
+<body>
+
+<div class="page-header">
+  <h1>Daily Intelligence Brief — 3 Creative Directions</h1>
+  <div>
+    <div class="sub">Push further than "different skins" — three genuinely distinct design philosophies for your dashboard</div>
+  </div>
+</div>
+
+<div class="directions">
+
+<!-- ======== DIRECTION 1: BLUEPRINT TERMINAL ======== -->
+<div class="direction">
+  <div class="dir-header">
+    <h2>BLUEPRINT / TERMINAL</h2>
+    <span class="dir-tag tag-terminal">Command-Line Intelligence</span>
+    <div class="dir-sub">Bloomberg terminal meets cyberdeck · Keyboard-navigable · Monospace everything · Data-dense</div>
+  </div>
+  <div class="dir-content">
+    <div class="dir-inner d1">
+
+      <div class="d1-ascii-logo">
+  ██╗███╗   ██╗██████╗ ███████╗██╗     ██╗ ██████╗ ███████╗███╗   ██╗ ██████╗███████╗
+  ██║████╗  ██║██╔══██╗██╔════╝██║     ██║██╔════╝ ██╔════╝████╗  ██║██╔════╝██╔════╝
+  ██║██╔██╗ ██║██║  ██║█████╗  ██║     ██║██║  ███╗█████╗  ██╔██╗ ██║██║     █████╗
+  ██║██║╚██╗██║██║  ██║██╔══╝  ██║     ██║██║   ██║██╔══╝  ██║╚██╗██║██║     ██╔══╝
+  ██║██║ ╚████║██████╔╝███████╗███████╗██║╚██████╔╝███████╗██║ ╚████║╚██████╗███████╗
+  ╚═╝╚═╝  ╚═══╝╚═════╝ ╚══════╝╚══════╝╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝╚══════╝
+      </div>
+
+      <div class="d1-statusbar">
+        <span class="dot green"></span>
+        <span>CHANNEL: DAILY-BRIEF-01</span>
+        <span style="flex:1"></span>
+        <span>SIG: STRONG</span>
+        <span>|</span>
+        <span>2026-05-22 07:00 WAT</span>
+      </div>
+
+      <div class="d1-ticker">
+        <span>◆ AXA MAN SARD LAUNCHES AI CLAIMS PROCESSING ◆ SEC PUBLISHES AI FINTECH GUIDELINES ◆ GPT-5 2M TOKEN CONTEXT SHIPS ◆ AFRICAN ACTUARIAL PARTNERSHIPS OPEN ◆ BTC HOLDS $92K ◆ NGN FLAT ◆</span>
+      </div>
+
+      <div class="d1-panes">
+        <div class="d1-pane">
+          <div class="d1-pane-title">Coverage</div>
+          <div class="d1-stat-line"><span>Articles</span><span class="d1-stat-val">38</span></div>
+          <div class="d1-stat-line"><span>Sources</span><span class="d1-stat-val">12</span></div>
+          <div class="d1-stat-line"><span>AXA Signal</span><span class="d1-stat-val d1-stat-trend up">HIGH ▲</span></div>
+        </div>
+        <div class="d1-pane">
+          <div class="d1-pane-title">Opportunities</div>
+          <div class="d1-stat-line"><span>AI/ML</span><span class="d1-stat-val">6<span class="d1-stat-trend up"> ▲</span></span></div>
+          <div class="d1-stat-line"><span>Nigeria</span><span class="d1-stat-val">4<span class="d1-stat-trend warn"> ◆</span></span></div>
+          <div class="d1-stat-line"><span>Finance</span><span class="d1-stat-val">3<span class="d1-stat-trend up"> ▲</span></span></div>
+        </div>
+        <div class="d1-pane">
+          <div class="d1-pane-title">Actions</div>
+          <div class="d1-stat-line"><span>Pending</span><span class="d1-stat-val">5</span></div>
+          <div class="d1-stat-line"><span>Urgent</span><span class="d1-stat-val">2</span></div>
+          <div class="d1-stat-line"><span>Done</span><span class="d1-stat-val">12</span></div>
+        </div>
+      </div>
+
+      <div style="font-size:8px;text-transform:uppercase;letter-spacing:1.5px;color:rgba(0,255,136,0.3);margin-bottom:6px;">INBOX // 5 NEW</div>
+
+      <div class="d1-article">
+        <span class="d1-art-title">AXA Mansard Launches AI-Powered Claims Processing in Nigeria</span>
+        <div class="d1-art-meta">
+          <span>TechCabal · 22m ago</span>
+          <span class="d1-art-tags">
+            <span class="d1-tag-terminal d1-tag-t-axa">$AXA</span>
+            <span class="d1-tag-terminal d1-tag-t-ai">$AI</span>
+          </span>
+        </div>
+      </div>
+
+      <div class="d1-article">
+        <span class="d1-art-title">Nigeria's SEC Releases New AI-Based Fintech Guidelines</span>
+        <div class="d1-art-meta">
+          <span>BusinessDay · 2h ago</span>
+          <span class="d1-art-tags">
+            <span class="d1-tag-terminal d1-tag-t-ng">$NG</span>
+            <span class="d1-tag-terminal d1-tag-t-axa">$AXA</span>
+          </span>
+        </div>
+      </div>
+
+      <div class="d1-article">
+        <span class="d1-art-title">OpenAI GPT-5 Ships with 2M Token Context Window</span>
+        <div class="d1-art-meta">
+          <span>The Verge · 3h ago</span>
+          <span class="d1-art-tags">
+            <span class="d1-tag-terminal d1-tag-t-ai">$AI</span>
+          </span>
+        </div>
+      </div>
+
+      <div class="d1-article">
+        <span class="d1-art-title">African Actuarial Pipeline: New Certification Pathways</span>
+        <div class="d1-art-meta">
+          <span>IAWeekly · 1d ago</span>
+          <span class="d1-art-tags">
+            <span class="d1-tag-terminal d1-tag-t-axa">$AXA</span>
+            <span class="d1-tag-terminal d1-tag-t-ng">$NG</span>
+          </span>
+        </div>
+      </div>
+
+      <div class="d1-article">
+        <span class="d1-art-title">Nigerian Fintech Startup Raises $15M for AI Risk Models</span>
+        <div class="d1-art-meta">
+          <span>TechCrunch · 4h ago</span>
+          <span class="d1-art-tags">
+            <span class="d1-tag-terminal d1-tag-t-ng">$NG</span>
+            <span class="d1-tag-terminal d1-tag-t-ai">$AI</span>
+          </span>
+        </div>
+      </div>
+
+      <div class="d1-prompt">
+        <span>hermes@brief:~$</span>
+        <span style="color:rgba(0,255,136,0.3);">_ dig --signal-strength AXA_MANSARD --since 7d</span>
+        <span class="d1-cursor"></span>
+      </div>
+
+      <div style="margin-top:8px;padding:4px 6px;border:1px dashed rgba(0,255,136,0.1);font-size:9px;color:rgba(0,255,136,0.4);">
+        > type "help" for commands · j/k to navigate · / to search · g for signal map
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- ======== DIRECTION 2: BRIEFING ZINE ======== -->
+<div class="direction">
+  <div class="dir-header">
+    <h2>BRIEFING / ZINE</h2>
+    <span class="dir-tag tag-zine">Magazine Collage Aesthetic</span>
+    <div class="dir-sub">Physical-zine feel · Serif type + hand-scrawled notes · Clippings and stamps · Collector energy</div>
+  </div>
+  <div class="dir-content">
+    <div class="dir-inner d2">
+
+      <div class="d2-vol">Vol. III · No. 142 · Thursday Edition</div>
+      <div class="d2-masthead">the morning brief</div>
+      <div class="d2-dateline">22 May 2026 · Lagos, Nigeria</div>
+
+      <div class="d2-hero">
+        <div class="d2-hero-label">★ Lead Story</div>
+        <h4>AXA Mansard's AI push signals new era for Nigerian insurance</h4>
+        <p>Company pilots ML across underwriting and claims ahead of <em>Odunayo's July start as AI Transformation Lead</em>. Positions AXA Mansard as potential market leader in AI-driven insurance in West Africa. <em>Your angle: Review integration architecture before onboarding.</em></p>
+        <div style="display:flex;gap:6px;margin-top:6px;">
+          <span class="d2-tag d2-tag-axa">AXA</span>
+          <span class="d2-tag d2-tag-ai">AI</span>
+          <span class="d2-tag d2-tag-ng">Nigeria</span>
+        </div>
+        <div style="margin-top:6px;display:flex;gap:6px;">
+          <span class="d2-stamp d2-stamp-opp">✦ OPPORTUNITY</span>
+          <span class="d2-stamp d2-stamp-urgent">⚡ URGENT</span>
+        </div>
+      </div>
+
+      <div class="d2-tape"></div>
+
+      <div class="d2-section-label">also in today's clipping...</div>
+
+      <div class="d2-card">
+        <span class="d2-card-num">02</span>
+        <div class="d2-card-title">SEC publishes AI governance framework for fintech</div>
+        <div class="d2-card-meta">BusinessDay · 2h ago</div>
+        <div class="d2-card-note">Directly impacts AXA's AI deployment — compliance requirements for ML models in insurance.</div>
+        <div class="d2-tags">
+          <span class="d2-tag d2-tag-ng">Nigeria</span>
+          <span class="d2-tag d2-tag-axa">AXA</span>
+        </div>
+      </div>
+
+      <div class="d2-card">
+        <span class="d2-card-num">03</span>
+        <div class="d2-card-title">GPT-5 ships with 2M token context</div>
+        <div class="d2-card-meta">The Verge · 3h ago</div>
+        <div class="d2-card-note">Massive context window means document analysis at scale. Relevant for your AI strategy work.</div>
+        <div class="d2-tags">
+          <span class="d2-tag d2-tag-ai">AI</span>
+        </div>
+      </div>
+
+      <div class="d2-card">
+        <span class="d2-card-num">04</span>
+        <div class="d2-card-title">Nigerian fintech raises $15M for AI risk modeling</div>
+        <div class="d2-card-meta">TechCrunch · 4h ago</div>
+        <div class="d2-card-note">Potential competitor or acquisition target in the Nigerian AI insurance space.</div>
+        <div class="d2-tags">
+          <span class="d2-tag d2-tag-ng">Nigeria</span>
+          <span class="d2-tag d2-tag-ai">AI</span>
+        </div>
+        <span class="d2-stamp d2-stamp-opp" style="margin-top:4px;">✦ WATCH</span>
+      </div>
+
+      <div class="d2-card">
+        <span class="d2-card-num">05</span>
+        <div class="d2-card-title">Actuarial certification pathways open across Africa</div>
+        <div class="d2-card-meta">IAWeekly · 1d ago</div>
+        <div class="d2-card-note">Talent pipeline development — relevant for building your team at AXA Mansard.</div>
+        <div class="d2-tags">
+          <span class="d2-tag d2-tag-axa">AXA</span>
+          <span class="d2-tag d2-tag-ng">Nigeria</span>
+        </div>
+      </div>
+
+      <div class="d2-footer">
+        ✦ curated for Odunayo · issue continues tomorrow ✦
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<!-- ======== DIRECTION 3: COMMAND CENTER ======== -->
+<div class="direction">
+  <div class="dir-header">
+    <h2>COMMAND / CENTER</h2>
+    <span class="dir-tag tag-center">Mission Control Aesthetic</span>
+    <div class="dir-sub">Radar display · Telemetry readouts · Severity-coded alerts · NASA/JPL energy</div>
+  </div>
+  <div class="dir-content">
+    <div class="dir-inner d3">
+
+      <div class="d3-radar">
+        <div class="d3-radar-grid"></div>
+        <div class="d3-radar-sweep"></div>
+        <div class="d3-radar-blip d3-blip1"></div>
+        <div class="d3-radar-blip d3-blip2"></div>
+        <div class="d3-radar-blip d3-blip3"></div>
+        <div class="d3-radar-blip d3-blip4"></div>
+        <div class="d3-radar-label">SIGNAL MAP · 8 SOURCES ACTIVE</div>
+      </div>
+
+      <div class="d3-telemetry">
+        <div class="d3-tele-item">
+          <div class="label">Articles</div>
+          <div class="value">38</div>
+          <div class="trend d3-trend-up">▲ +12% WoW</div>
+          <div class="d3-tele-bar" style="width:76%;"></div>
+        </div>
+        <div class="d3-tele-item">
+          <div class="label">AI Opps</div>
+          <div class="value">6</div>
+          <div class="trend d3-trend-up">▲ +3 new</div>
+          <div class="d3-tele-bar" style="width:50%;background:linear-gradient(90deg,rgba(16,185,129,0.4),transparent);"></div>
+        </div>
+        <div class="d3-tele-item">
+          <div class="label">Actions</div>
+          <div class="value">7</div>
+          <div class="trend d3-trend-warn">◆ 2 urgent</div>
+          <div class="d3-tele-bar" style="width:40%;background:linear-gradient(90deg,rgba(255,107,0,0.4),transparent);"></div>
+        </div>
+        <div class="d3-tele-item">
+          <div class="label">Signal</div>
+          <div class="value">HIGH</div>
+          <div class="trend d3-trend-up">▲ steady</div>
+          <div class="d3-tele-bar" style="width:85%;background:linear-gradient(90deg,rgba(16,185,129,0.4),transparent);"></div>
+        </div>
+      </div>
+
+      <div class="d3-priority">
+        <div class="d3-pri-item d3-pri-critical">
+          <span class="d3-pri-count">2</span>
+          CRITICAL
+        </div>
+        <div class="d3-pri-item d3-pri-high">
+          <span class="d3-pri-count">4</span>
+          HIGH
+        </div>
+        <div class="d3-pri-item d3-pri-med">
+          <span class="d3-pri-count">8</span>
+          MED
+        </div>
+        <div class="d3-pri-item d3-pri-info">
+          <span class="d3-pri-count">24</span>
+          INFO
+        </div>
+      </div>
+
+      <div style="font-size:9px;text-transform:uppercase;letter-spacing:1.5px;color:var(--text-tertiary);margin-bottom:6px;">INCOMING BRIEFS</div>
+
+      <div class="d3-card">
+        <div class="d3-card-severity d3-sev-high"></div>
+        <div class="d3-card-header">
+          <div class="d3-card-status new"></div>
+          <div>
+            <div class="d3-card-title">AXA Mansard launches AI-powered claims processing</div>
+            <div class="d3-card-meta">
+              <span>TechCabal</span>
+              <span>·</span>
+              <span>22m ago</span>
+              <span>·</span>
+              <span style="color:#ff6b00;">HIGH SIGNAL</span>
+            </div>
+            <div class="d3-card tags" style="margin-top:4px;">
+              <span class="d3-tag-center d3-tag-c-axa">AXA</span>
+              <span class="d3-tag-center d3-tag-c-ai">AI</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="d3-card">
+        <div class="d3-card-severity d3-sev-high"></div>
+        <div class="d3-card-header">
+          <div class="d3-card-status new"></div>
+          <div>
+            <div class="d3-card-title">SEC publishes AI governance framework for fintech</div>
+            <div class="d3-card-meta">
+              <span>BusinessDay</span>
+              <span>·</span>
+              <span>2h ago</span>
+              <span>·</span>
+              <span style="color:#ff6b00;">REGULATORY IMPACT</span>
+            </div>
+            <div class="d3-card tags" style="margin-top:4px;">
+              <span class="d3-tag-center d3-tag-c-ng">Nigeria</span>
+              <span class="d3-tag-center d3-tag-c-axa">AXA</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="d3-card">
+        <div class="d3-card-severity d3-sev-med"></div>
+        <div class="d3-card-header">
+          <div class="d3-card-status" style="background:#10b981;"></div>
+          <div>
+            <div class="d3-card-title">OpenAI GPT-5 with 2M token context</div>
+            <div class="d3-card-meta">
+              <span>The Verge</span>
+              <span>·</span>
+              <span>3h ago</span>
+            </div>
+            <div class="d3-card tags" style="margin-top:4px;">
+              <span class="d3-tag-center d3-tag-c-ai">AI</span>
+              <span class="d3-tag-center d3-tag-c-opp">OPP</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="d3-card">
+        <div class="d3-card-severity d3-sev-med"></div>
+        <div class="d3-card-header">
+          <div class="d3-card-status" style="background:#10b981;"></div>
+          <div>
+            <div class="d3-card-title">Nigerian fintech raises $15M for AI risk models</div>
+            <div class="d3-card-meta">
+              <span>TechCrunch</span>
+              <span>·</span>
+              <span>4h ago</span>
+            </div>
+            <div class="d3-card tags" style="margin-top:4px;">
+              <span class="d3-tag-center d3-tag-c-ng">Nigeria</span>
+              <span class="d3-tag-center d3-tag-c-ai">AI</span>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="d3-footer">
+        <span>last scan: 07:00:22 WAT</span>
+        <span class="cycle">cycle: 0134 · next: 07:15 WAT</span>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+</div>
+</body>
+</html>
