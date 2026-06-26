@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-06-25T20:37:56Z",
-    "total_articles": 2956,
-    "total_days": 37
+    "last_updated": "2026-06-26T07:00:55Z",
+    "total_articles": 2983,
+    "total_days": 38
   },
   "articles": [
     {
@@ -42383,25 +42383,393 @@
         "axa"
       ],
       "duplicate_of": "2026-05-11"
+    },
+    {
+      "id": "91c1f4e75696",
+      "title": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+      "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
+      "summary": "Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models.\nThe p",
+      "source": "GitHub Blog",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 14,
+      "date": "2026-06-26",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0c3116b7bd37",
+      "title": "A comprehensive list of the 28 data centres in Nigeria (operational and under construction)",
+      "url": "https://technext24.com/2026/06/26/28-data-centres-nigeria-2026/",
+      "summary": "Data centres are transforming Nigeria into West Africa’s primary digital hub by domesticating digital assets and fueling AI…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 12,
+      "date": "2026-06-26",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e99588b79edc",
+      "title": "$150 Million Insurance Claims Loom After AI 171 Crash - Rediff",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0QzX2MyckxaZDJmdzhXM251UUI0cnljREdmR2E3TFo4T2NFOFdxUWZoMWdRdXc0dHBsYktNWGREc0lBeE83amhKekxDWEdLOGtSdE9pREp0eVdhTmo2aUdxZ0lnRHNZN2VIbEIwbXlheFJWTDFRd1hBSEd5T2JRRVByWWxCSjBCZ3B6R25fTWF1ajN0Q0VwSktRUTdXbF9OSVJ30gGmAUFVX3lxTE9IUUpOVkE0TS1ERXFGNnB2czQ2Yng0QXIzMURQZ1NtbnhBajNET2ZLbWNaYmtfcjdvSmdIdTVwTnlqRmlJN3UwUkFvLUJtRExMTGJqeFdyaHZ6aktscW1LQzlHSzhhcjV3bjdXd0hrbnB5RTB0Y25OZlFpaDJVMVZTRjFsV3h5enFPMkpJZVRNcU01YUhleWxWaDdyNmNyWjg2dGR2aXc?oc=5",
+      "summary": "$150 Million Insurance Claims Loom After AI 171 Crash  Rediff",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-06-26",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "859a0c755a0b",
+      "title": "NREIT’s profit before tax jumps 333.6% to N3.19 billion in Q1 2026",
+      "url": "https://nairametrics.com/2026/06/26/nreits-profit-before-tax-jumps-333-6-to-n3-19-billion-in-q1-2026/",
+      "summary": "Nigerian Real Estate Investment Trust Fund (NREIT) reported year-to-date pre-tax profit of N3.19 billion for the first quarter of 2026, representing an increase of 333.60% from N736.56 million in the ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-06-26",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7b28de2eba02",
+      "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
+      "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
+      "summary": "OpenAI reportedly plans to share its newest model, GPT 5.6, with a select group of partners instead of with the broader public. The reason: the Trump administration told it to.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 9,
+      "date": "2026-06-26",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0fc6b257bbf5",
+      "title": "An oral history of Bank Python (2021)",
+      "url": "https://calpaterson.com/bank-python.html",
+      "summary": "Article URL: https://calpaterson.com/bank-python.html\nComments URL: https://news.ycombinator.com/item?id=48678645\nPoints: 101\n# Comments: 31",
+      "source": "Hacker News",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-26",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e996c0a18029",
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "summary": "Giftlink: https://www.bloomberg.com/news/articles/2026-06-25/apple-to-...also https://www.msn.com/en-ca/lifestyle/shopping/apple-to-skip-h...\n\nComments URL: https://news.ycombinator.com/item?id=486767",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-06-26",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "58264a6b5461",
+      "title": "Correction or Opportunity? Nigerian stocks lose N11 trillion from their peak",
+      "url": "https://nairametrics.com/2026/06/26/correction-or-opportunity-nigerian-stocks-lose-n11-trillion-from-their-peak/",
+      "summary": "Nigerian stocks face Short-Term Volatility amid bearish correction. The local equity market is navigating short-term volatility after a massive bull run took place much earlier in the year. The market",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-26",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2cf5d2ff16e3",
+      "title": "FG hands Enugu Airport to private operator",
+      "url": "https://nairametrics.com/2026/06/26/fg-hands-enugu-airport-to-private-operator/",
+      "summary": "The Federal Government has officially concessioned the Akanu Ibiam International Airport in Enugu to Aero Alliance Limited under a Public-Private Partnership (PPP).\nThe post FG hands Enugu Airport to ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-26",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "36a62f15fdd1",
+      "title": "Un-0: Generating Images with Coupled Oscillators",
+      "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+      "summary": "Article URL: https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/\nComments URL: https://news.ycombinator.com/item?id=48679007\nPoints: 136\n# Comments: 32",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-06-26",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7c49328cbadb",
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "summary": "Article URL: https://www.fernandoi.cl/posts/hackmyclaw/\nComments URL: https://news.ycombinator.com/item?id=48681687\nPoints: 92\n# Comments: 32",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-06-26",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "fd3ed3c4403f",
+      "title": "Libre Barcode Project",
+      "url": "https://graphicore.github.io/librebarcode/",
+      "summary": "Article URL: https://graphicore.github.io/librebarcode/\nComments URL: https://news.ycombinator.com/item?id=48681949\nPoints: 85\n# Comments: 6",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-06-26",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e511f8c93804",
+      "title": "Parallel Parentheses Matching",
+      "url": "https://williamdue.github.io/blog/parallel-parentheses-matching",
+      "summary": "Article URL: https://williamdue.github.io/blog/parallel-parentheses-matching\nComments URL: https://news.ycombinator.com/item?id=48678623\nPoints: 78\n# Comments: 10",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-06-26",
+      "tags": [
+        "tech",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b807baf85815",
+      "title": "We All Depend on Open Source. We Will Defend It Together",
+      "url": "https://akrites.org/letter/",
+      "summary": "Article URL: https://akrites.org/letter/\nComments URL: https://news.ycombinator.com/item?id=48682737\nPoints: 11\n# Comments: 4",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-06-26",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "02d6617c14d7",
+      "title": "Apple just raised prices: See which devices cost more now",
+      "url": "https://techcabal.com/2026/06/25/apple-price-increase-2026/",
+      "summary": "Table of contents Which Apple products got more expensive? Full Apple price increase breakdown Which Apple products are still at the old price Why Apple raised its prices Is the iPhone affected too? W",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-06-26",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "23ba9c4951d0",
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/\nComments URL: https://news.ycombinator.com/item?id=48681220\nPoints: 129\n# Comments: 67",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-26",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7746ca6e675f",
+      "title": "Ghana to purchase 30% of gold output from large-scale miners starting July",
+      "url": "https://nairametrics.com/2026/06/26/ghana-to-purchase-30-of-gold-output-from-large-scale-miners-starting-july/",
+      "summary": "Ghana will begin purchasing 30% of gold produced by large-scale mining companies from July 1 under a new agreement aimed at strengthening the country's foreign exchange reserves and expanding its dome",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-06-26",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0c62bec8880d",
+      "title": "Micron locks in historically high memory prices for five years",
+      "url": "https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854",
+      "summary": "Article URL: https://www.theregister.com/systems/2026/06/25/micron-locks-in-historically-high-memory-prices-for-five-years/5261854\nComments URL: https://news.ycombinator.com/item?id=48683041\nPoints: 7",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-26",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2e2149df18fd",
+      "title": "Naira appreciates to N1,383/$ as yen hovers near 40-year low",
+      "url": "https://nairametrics.com/2026/06/26/naira-appreciates-to-n1383-as-yen-hovers-near-40-year-low/",
+      "summary": "The naira strengthened against the U.S. dollar on Thursday, appreciating to N1,383/$ at the official foreign exchange market, even as the dollar remained firm globally.\nThe post Naira appreciates to N",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-06-26",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c98e24515567",
+      "title": "Om Malik has died",
+      "url": "https://om.co/2026/06/24/1966-2026/",
+      "summary": "https://runtimewire.com/article/om-malik-taught-silicon-vall...\n\nComments URL: https://news.ycombinator.com/item?id=48678852\nPoints: 776\n# Comments: 82",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-26",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4706d7bdb61d",
+      "title": "Quick Fire 🔥 with Sarah Idahosa",
+      "url": "https://techcabal.com/2026/06/26/quick-fire-%f0%9f%94%a5-with-sarah-idahosa/",
+      "summary": "Meet Sarah Idahosa, the founder of Women In DeFi and Africa Partnerships and Sales Lead at MANSA, a stablecoin liquidity provider backed by Tether.",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-06-26",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c8255f5e0d16",
+      "title": "Tala to lay off 10% of employees in Kenya",
+      "url": "https://techpoint.africa/insight/techpoint-digest-1375/",
+      "summary": "On Techpoint Digest, we discuss Kenya's changes to tax filing deadlines under the Finance Act 2026, Vodacom's merger with Tala to cut 10% of Kenya's workforce, and Amazon Prime for South African custo",
+      "source": "Techpoint Africa",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-06-26",
+      "tags": [
+        "nigeria",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "efee70f20e1c",
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "summary": "Article URL: https://expression.fire.org/p/the-papers-please-era-of-the-internet\nComments URL: https://news.ycombinator.com/item?id=48679608\nPoints: 606\n# Comments: 274",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-26",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a8cbfadc8893",
+      "title": "The Doorman's Fallacy in action",
+      "url": "https://rozumem.xyz/posts/17",
+      "summary": "Article URL: https://rozumem.xyz/posts/17\nComments URL: https://news.ycombinator.com/item?id=48678495\nPoints: 95\n# Comments: 131",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-26",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": "2026-06-25"
+    },
+    {
+      "id": "911c55642c0f",
+      "title": "The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023)",
+      "url": "https://gchandbook.org/",
+      "summary": "Article URL: https://gchandbook.org/\nComments URL: https://news.ycombinator.com/item?id=48680370\nPoints: 109\n# Comments: 14",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-26",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9aee58c70885",
+      "title": "Why are we so obsessed with lawns?",
+      "url": "https://www.gardensillustrated.com/features/the-history-of-lawns",
+      "summary": "Article URL: https://www.gardensillustrated.com/features/the-history-of-lawns\nComments URL: https://news.ycombinator.com/item?id=48682066\nPoints: 8\n# Comments: 4",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-26",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8e24922d6ad6",
+      "title": "👨🏿‍🚀TechCabal Daily – Tala cuts jobs again",
+      "url": "https://techcabal.com/2026/06/26/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-tala-cuts-jobs-again/",
+      "summary": "In today's edition: Quick Fire 🔥 with Sarah Idahosa || The curious case of WayaWaya's \"acquisition\" || Tala is cutting jobs in Kenya again || Who secured the bag?💰",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-06-26",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
     }
   ],
   "deadlines": [
-    {
-      "title": "Association of Commonwealth Universities (ACU) Fellowships 2026",
-      "date": "2026-06-25",
-      "first_seen": "2026-05-08",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/association-of-commonwealth-universities-acu-fellowships-2026/",
-      "article_id": "ecb2abdcee74"
-    },
-    {
-      "title": "The French Institutes for Advanced Study Fellowship Programme 2027/2028 at the Paris IAS (Fully Funded to France & 2,700€ per month stipend)",
-      "date": "2026-06-25",
-      "first_seen": "2026-05-13",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/the-french-institutes-for-advanced-study-fellowship-programme-2027-2028/",
-      "article_id": "32737db9d495"
-    },
     {
       "title": "World Innovation Summit for Education (WISE) Awards Program 2026/2027 for innovative education projects ($USD 1 million prize )",
       "date": "2026-06-27",
