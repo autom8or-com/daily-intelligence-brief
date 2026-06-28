@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-06-27T07:01:17Z",
-    "total_articles": 3054,
-    "total_days": 39
+    "last_updated": "2026-06-28T07:00:46Z",
+    "total_articles": 3080,
+    "total_days": 40
   },
   "articles": [
     {
@@ -43785,17 +43785,380 @@
         "tech"
       ],
       "duplicate_of": null
+    },
+    {
+      "id": "53095892636b",
+      "title": "Nile University Expands Executive Education Footprint with Launch of Nile Business School Lagos Liaison Office",
+      "url": "https://nairametrics.com/2026/06/27/nile-university-expands-executive-education-footprint-with-launch-of-nile-business-school-lagos-liaison-office/",
+      "summary": "Nile University of Nigeria has officially expanded its footprint in executive and professional education with the launch of the Lagos Liaison Office of the Nile Business School (NBS), marking a signif",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 12,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b5c627f91ff6",
+      "title": "Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "summary": "New models are launching in Asia that promise Mythos-like capabilities without fear of an export ban. U.S. AI labs may never recover this enormous market.",
+      "source": "TechCrunch",
+      "angle": "Directly relevant to your Nigerian tech ecosystem work.",
+      "score": 10,
+      "date": "2026-06-28",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f1cff8dd90a6",
+      "title": "Why Nigerian universities are grading AI in the classroom all wrong",
+      "url": "https://nairametrics.com/2026/06/27/why-nigerian-universities-are-grading-ai-in-the-classroom-all-wrong/",
+      "summary": "Over six weeks in 2024, about 800 senior secondary students in Edo State sat in computer labs twice a week and learned English with the help of Microsoft Copilot. By the end, their test scores had imp",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 10,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3496a98663e3",
+      "title": "Lawsuit blocks 1.55 million smart meter imports under $500 million World Bank loan",
+      "url": "https://nairametrics.com/2026/06/27/lawsuit-blocks-1-55-million-smart-meter-imports-under-500-million-world-bank-loan/",
+      "summary": "A legal battle initiated by local electricity meter manufacturers has emerged as the biggest threat to Nigeria's $500 million World Bank-backed Distribution Sector Recovery Programme (DISREP), forcing",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3c4d6021b93e",
+      "title": "NGX YTD return slips below 50% first time in 2026, erasing N982.96 billion",
+      "url": "https://nairametrics.com/2026/06/27/ngx-ytd-return-slips-below-50-first-time-in-2026-erasing-n982-96-billion/",
+      "summary": "The Nigerian Exchange (NGX) All-Share Index's year-to-date return sank below the psychological threshold of 50% for the first time in 2026, closing at 49.12% — a level that marks a dramatic retreat fr",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ca9b26be5b15",
+      "title": "Obi, Dickson condemn NDC deregistration, allege assault on multi-party democracy",
+      "url": "https://nairametrics.com/2026/06/27/obi-dickson-condemn-ndc-deregistration-allege-assault-on-multi-party-democracy/",
+      "summary": "The presidential candidate of the Nigeria Democratic Congress (NDC), Peter Obi, and Senator Henry Seriake Dickson have condemned the Federal High Court's decision setting aside the registration of the",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5500f4027648",
+      "title": "Tango Brook Technologies Provides Energy Intelligence, Thought Leadership",
+      "url": "https://nairametrics.com/2026/06/27/tango-brook-technologies-provides-energy-intelligence-thought-leadership/",
+      "summary": "The Hidden Cost of Mobility and Energy in Nigeria: Why Visibility, Control, and Intelligence Are No Longer Optional Every year, Nigerian businesses collectively spend trillions of naira on fuel — and ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b130ba2ef980",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "url": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "summary": "When confronted with cancer, Connor Christou fed everything tied tied to his regime — blood results, scan data, wearable output, journal entries — into Claude.",
+      "source": "TechCrunch",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 9,
+      "date": "2026-06-28",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "10f0edc56cd9",
+      "title": "Zenith Bank backs Canada-Africa Business Conference to deepen trade and investment ties",
+      "url": "https://nairametrics.com/2026/06/27/zenith-bank-backs-canada-africa-business-conference-to-deepen-trade-and-investment-ties/",
+      "summary": "Zenith Bank Plc reaffirmed its commitment to advancing trade, investment and economic cooperation between Canada and Africa as the Headline Conference Sponsor of the 6th Canada-Africa Business Confere",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7443ecc484e5",
+      "title": "ngCERT raises alarm as bank loses $2 million to ATM cash-out cyberattack",
+      "url": "https://nairametrics.com/2026/06/27/ngcert-raises-alarm-as-bank-loses-2-million-to-atm-cash-out-cyberattack/",
+      "summary": "The Nigeria Computer Emergency Response Team (ngCERT) has issued a cybersecurity advisory warning financial institutions across the country about a growing wave of cyber-enabled ATM cash-out attacks.\n",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "53c592e0325d",
+      "title": "ALTON backs NCC’s push for local smartphone manufacturing to drive digital inclusion",
+      "url": "https://nairametrics.com/2026/06/27/alton-backs-nccs-push-for-local-smartphone-manufacturing-to-drive-digital-inclusion/",
+      "summary": "The Association of Licensed Telecommunications Operators of Nigeria has declared support for the Nigerian Communications Commission's push to promote local smartphone manufacturing in the country.\nThe",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "774b2faea5a3",
+      "title": "Best performing Nigerian stocks for the week ended June 26, 2026",
+      "url": "https://nairametrics.com/2026/06/28/best-performing-nigerian-stocks-for-the-week-ended-june-26-2026/",
+      "summary": "Nigerian equities closed the fourth week of June 2026 on a deeply bearish note as sustained profit-taking in oil and gas, industrial goods, and insurance counters dragged the NGX All-Share Index down ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5fee5aaeb478",
+      "title": "Best places to invest in the second half of 2026",
+      "url": "https://nairametrics.com/2026/06/28/best-places-to-invest-in-the-second-half-of-2026/",
+      "summary": "In the first half of 2026, investors saw a massive rally in Nigerian equities, ongoing AI-driven gains in the US, and a sharp rebound in cryptocurrencies after a prolonged correction.\nThe post Best pl",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "43d35c847cbe",
+      "title": "FG’s borrowing jumps 75.6%—what it means for the naira and interest rates",
+      "url": "https://nairametrics.com/2026/06/27/fgs-borrowing-jumps-75-6-what-it-means-for-the-naira-and-interest-rates/",
+      "summary": "The government is borrowing aggressively. At the same time, banks remain very careful with lending to the real economy. So what does this mean for ordinary Nigerians? Let’s break it down and look at t",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "191c1d253776",
+      "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
+      "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
+      "summary": "Dilip Asbe said that newer UPI apps could be more competitive with a viable commercial model",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-06-28",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5e2bb1d80dcf",
+      "title": "NGX correction: Why smart investors aren’t panicking",
+      "url": "https://nairametrics.com/2026/06/27/ngx-correction-why-smart-investors-arent-panicking/",
+      "summary": "The recent correction in the Nigerian Stock Exchange, which wiped trillions of naira from investors' portfolios within a few trading sessions, has understandably unsettled many market participants.\nTh",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "48ef39d3023d",
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+      "source": "TechCrunch",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "111148c24866",
+      "title": "Tinubu appoints ex-Reps spokesperson Abdulrazak Namdas as BCDA Director-General",
+      "url": "https://nairametrics.com/2026/06/27/tinubu-appoints-ex-reps-spokesperson-abdulrazak-namdas-as-bcda-director-general/",
+      "summary": "President Bola Ahmed Tinubu has appointed former House of Representatives spokesperson Abdulrazak Sa'ad Namdas as the new Director-General of the Border Communities Development Agency (BCDA), in a mov",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "03274b6ca5d1",
+      "title": "Top 10 busiest airports in Africa by outbound seats – June 2026",
+      "url": "https://nairametrics.com/2026/06/27/top-10-busiest-airports-in-africa-by-outbound-seats-june-2026/",
+      "summary": "Africa’s aviation market continued to expand in June 2026, supported by stronger domestic travel demand and sustained capacity growth among the continent’s leading airlines. While performance varied a",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "43302cbfc934",
+      "title": "US lifts Anthropic ban, allows Mythos 5 access for over 100 trusted organisations",
+      "url": "https://nairametrics.com/2026/06/27/us-lifts-anthropic-ban-allows-mythos-5-access-for-over-100-trusted-organisations/",
+      "summary": "The US government has partially lifted its two-week-old suspension of access to Anthropic's most powerful AI models, according to Reuters.\nThe post US lifts Anthropic ban, allows Mythos 5 access for o",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "90aad777a3c7",
+      "title": "FCCPC grants full approval to 48 more loan app companies",
+      "url": "https://nairametrics.com/2026/06/27/fccpc-grants-full-approval-to-48-more-loan-app-companies/",
+      "summary": "The Federal Competition and Consumer Protection Commission (FCCPC) has granted full approval to 48 loan app companies that were previously given conditional approval.\nThe post FCCPC grants full approv",
+      "source": "Nairametrics",
+      "angle": "Nigerian ecosystem pulse — relevant for enterprise consulting and PORA positioning.",
+      "score": 4,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria",
+        "opportunity"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e8bb4366b8b3",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "url": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-28",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0d5dc023b5d8",
+      "title": "Chams Holdco appoints Segun Oloketuyi as new board chairman",
+      "url": "https://technext24.com/2026/06/27/chams-welcomes-new-board-chairman/",
+      "summary": "Chams Holding Company Plc has appointed Segun Oloketuyi as its new Board Chairman, succeeding founder Sir (Dr.) Demola…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f103d8318727",
+      "title": "Ikeja Electric appoints Ogochukwu Onyelucheya as Acting CEO",
+      "url": "https://nairametrics.com/2026/06/28/ikeja-electric-appoints-ogochukwu-onyelucheya-as-acting-ceo/",
+      "summary": "Ikeja Electric has appointed Mrs. Ogochukwu Onyelucheya as its Acting Chief Executive Officer, effective July 1, 2026, as part of efforts to strengthen leadership and accelerate operational performanc",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e1a3ef264ffa",
+      "title": "NDLEA intercepts 9,058kg drugs, arrests 260 suspects in MMIA crackdown",
+      "url": "https://nairametrics.com/2026/06/27/ndlea-intercepts-9058kg-drugs-arrests-260-suspects-in-mmia-crackdown/",
+      "summary": "The National Drug Law Enforcement Agency's Murtala Muhammed International Airport Strategic Command in Ikeja has seized 9,058.543 kilograms of illicit drugs and arrested 260 suspects, from 2025 to dat",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a7f2bc42c65a",
+      "title": "“We had no clear path about how this was going to turn out”: Day 1-1000 of Blaaiz",
+      "url": "https://techcabal.com/2026/06/27/day-1-1000-of-blaaiz/",
+      "summary": "Convinced that the problem was worth fixing himself, Ayodele left the certainty of consulting, teamed up with Gbenga Oni, and started building Blaaiz.",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-06-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
     }
   ],
   "deadlines": [
-    {
-      "title": "World Innovation Summit for Education (WISE) Awards Program 2026/2027 for innovative education projects ($USD 1 million prize )",
-      "date": "2026-06-27",
-      "first_seen": "2026-05-14",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/world-innovation-summit-for-education-wise-awards-program-2026-2027/",
-      "article_id": "64e42b540f03"
-    },
     {
       "title": "GoGettaz Agripreneur Prize Competition 2026 for young African Entrepreneurs (USD50,000 in growth funding)",
       "date": "2026-06-28",
