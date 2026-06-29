@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-06-28T07:00:46Z",
-    "total_articles": 3080,
-    "total_days": 40
+    "last_updated": "2026-06-29T07:01:03Z",
+    "total_articles": 3132,
+    "total_days": 41
   },
   "articles": [
     {
@@ -44156,33 +44156,748 @@
         "nigeria"
       ],
       "duplicate_of": null
+    },
+    {
+      "id": "729fb57d0010",
+      "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+      "url": "https://github.com/kamaludu/bash4llm/",
+      "summary": "Bash4LLM is a single-file Bash wrapper for interacting with LLMs from the terminal.  I created it because I wanted something simple that worked without installing Python, Node, or any other runtime.It",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 18,
+      "date": "2026-06-29",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "28d355b535be",
+      "title": "Insurance meets tech names Nigeria’s 10 to watch insurance innovators driving the nation’s digital future",
+      "url": "https://nairametrics.com/2026/06/29/insurance-meets-tech-names-nigerias-10-to-watch-insurance-innovators-driving-the-nations-digital-future/",
+      "summary": "Insurance Meets Tech (IMT), Nigeria’s premier platform for dialogue between the insurance industry and the technology sector, today named its inaugural 10 To Watch industry recognition framework that ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 10,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "fded4740bd6c",
+      "title": "ACAMB Visits NIBSS, Advocates Wider QR Code Adoption, Stronger Payment Systems",
+      "url": "https://nairametrics.com/2026/06/29/acamb-visits-nibss-advocates-wider-qr-code-adoption-stronger-payment-systems/",
+      "summary": "The Association of Corporate Communication and Marketing Professionals in Banks (ACAMB) has urged banks to deepen the adoption of digital payment channels, including QR code payments, following a cour",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c9d79e40c9ae",
+      "title": "AXA XL collaborates with UK’s first climate tech accelerator - Life Insurance International",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUGJFVWlmdVNRbmhva2xWelcxOG5JQU1pY2ZnQ1RNZ3k5TFN5TXlydGlQWV9rbDI3YVE1SW8ySUx1b2MycDVsc2dNZ0kwazBjb3ltTHl1U3RuLWFPZ2xMMDBJNVVRTng0ZUdSWGxkZmMwc3BTZ05GSThib2xtaDJrTms0cU5ZY19Oc0xLYQ?oc=5",
+      "summary": "AXA XL collaborates with UK’s first climate tech accelerator  Life Insurance International",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-06-29",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "bf87c4d72952",
+      "title": "Insurance Firm Debuts Digital Motor Inspection Tool - LEADERSHIP Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1wNzVZdUFGNnE3SHlRREU3clBEYXBDaVlvSXFPNV9BblFWUlFfa1VfVWEwZkVTOVVWaDRUaTlCY09pNkxNSGE0UEFFSjhZVlpLTEczOUNTdjdQSU5rdlJBOWFXM0lBdVdPaU1WQnZwOE5nRkZtZllKQVl5YmlvZkk?oc=5",
+      "summary": "Insurance Firm Debuts Digital Motor Inspection Tool  LEADERSHIP Newspapers",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-06-29",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "44e260f7370c",
+      "title": "Insurance Firm Replaces Physical Vehicle Checks With Digital Inspection Tool - LEADERSHIP Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajQ3T05SeUVVN1FJa1BvbjJ1VEprTXVFQUUxV3JtbkRXNFZKUVhUM0pUUHYzQkxhY1hvVm1DazZyWUVacUdydC1wRTZFdEJOalpDOGlNZWozS2EwTzRPdHBmaEZTZ0EyRGNTTjE4TmFiWTRTcXY4MnJNWWJYSlRnc1FOWWdHNmpqZlc3RHZTV08yeG1mNnZIQW1Oei1YTmhR?oc=5",
+      "summary": "Insurance Firm Replaces Physical Vehicle Checks With Digital Inspection Tool  LEADERSHIP Newspapers",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-06-29",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2db1f317c1b5",
+      "title": "MPR: Analysts see MPC holding rates as election cycle begins",
+      "url": "https://nairametrics.com/2026/06/28/analysts-predict-interest-rate-stability-as-nigeria-enters-election-season/",
+      "summary": "Analysts predict interest rate stability as Nigeria enters election season\nThe post MPR: Analysts see MPC holding rates as election cycle begins appeared first on Nairametrics.",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "bcc56f5ab8de",
+      "title": "Nigeria’s insurance enrolment hits 22 million, ranks 4th in Africa—Minister",
+      "url": "https://nairametrics.com/2026/06/28/nigerias-insurance-enrolment-hits-22-million-ranks-4th-in-africa-minister/",
+      "summary": "Nigeria’s health sector reforms have recorded significant gains over the past three years, with health insurance enrolment rising from 16 million to 22 million Nigerians\nThe post Nigeria’s insurance e",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ab014718a9c6",
+      "title": "Professor denounces mass AI fraud on an exam at Brown",
+      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "summary": "Article URL: https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html\nComments URL: https://news.ycombinator.com/item?id=48708991\nPoints: 365\n# C",
+      "source": "Hacker News",
+      "angle": "Incorporate into PORA Academy courses (Stats, Data Analytics, AI Automation).",
+      "score": 9,
+      "date": "2026-06-29",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c3550b8e9fac",
+      "title": "UBA Champions Sustainability Through Pan-African Environmental Clean-Up Initiative",
+      "url": "https://nairametrics.com/2026/06/29/uba-champions-sustainability-through-pan-african-environmental-clean-up-initiative/",
+      "summary": "Africa’s Global Bank, United Bank for Africa (UBA) Plc, has reaffirmed its commitment to sustainability, employee wellbeing, and community development by mobilising thousands of employees across its o",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "538e1efc359d",
+      "title": "‘Only 40% of insurance companies in Nigeria can underwrite airlines’ - The Guardian Nigeria News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSWZoRmRVdG8wUG1HWkxINXUzWWQ2MzhYeVF5VjkwOW5CS1hQaUdCYU96cTU0aEhrWDhmS2hJTTNBMFVRc242enY3aWJHckRhY2ZBQ3ppdHJOOFY5QVM4cVhtMVM5M0xGUEtPZm1qcVdLME5EbWgxN2gzak12YVlWcHRIWEVfRWs5MU4xc0pkNy13U1dWN0VUUlcyYk1ic25zc3hsTFo3U1JYMWtVZ2JyWHlFTUs?oc=5",
+      "summary": "‘Only 40% of insurance companies in Nigeria can underwrite airlines’  The Guardian Nigeria News",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-06-29",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6f07a043c87d",
+      "title": "Recent remarks by the Nigerian First Lady on grants for small businesses",
+      "url": "https://nairametrics.com/2026/06/28/remi-tinubus-akara-grants-macroeconomic-expectations-vs-micro-survival-realities/",
+      "summary": "The recent remarks by Nigeria’s First Lady, Senator Oluremi Tinubu, suggesting that vulnerable citizens utilize Renewed Hope Initiative grants to start low-capital businesses\nThe post Recent remarks b",
+      "source": "Nairametrics",
+      "angle": "Nigerian ecosystem pulse — relevant for enterprise consulting and PORA positioning.",
+      "score": 8,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria",
+        "opportunity"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0b6fb9f3a216",
+      "title": "Bharti Airtel acquires 16.3% stake in Airtel Africa from ICIL in share-for-share deal",
+      "url": "https://nairametrics.com/2026/06/28/bharti-airtel-acquires-16-3-stake-in-airtel-africa-from-icil-in-share-for-share-deal/",
+      "summary": "Bharti Airtel Limited has acquired approximately 16.35% of Airtel Africa's issued share capital from Indian Continent Investment Limited in a share-for-share transaction completed on June 22, 2026.\nTh",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5a6baa39e669",
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "summary": "Article URL: https://danunparsed.com/p/hackerrank-open-source-ats\nComments URL: https://news.ycombinator.com/item?id=48713832\nPoints: 234\n# Comments: 52",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 7,
+      "date": "2026-06-29",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "40bf00039f91",
+      "title": "Herdr: Agent multiplexer that lives in your terminal",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "summary": "Article URL: https://github.com/ogulcancelik/herdr\nComments URL: https://news.ycombinator.com/item?id=48714802\nPoints: 30\n# Comments: 10",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 7,
+      "date": "2026-06-29",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4addaf92d2cf",
+      "title": "Librepods: AirPods liberated",
+      "url": "https://github.com/librepods-org/librepods",
+      "summary": "Article URL: https://github.com/librepods-org/librepods\nComments URL: https://news.ycombinator.com/item?id=48710232\nPoints: 346\n# Comments: 117",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 7,
+      "date": "2026-06-29",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4da75a7e0edb",
+      "title": "Lore – give your coding agent the decisions your team made",
+      "url": "https://github.com/itsthelore/rac-core",
+      "summary": "Article URL: https://github.com/itsthelore/rac-core\nComments URL: https://news.ycombinator.com/item?id=48714880\nPoints: 16\n# Comments: 9",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 7,
+      "date": "2026-06-29",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "db15be60a396",
+      "title": "Court ruling revives Computer Village relocation to Katangowa, says Bridgeways",
+      "url": "https://nairametrics.com/2026/06/28/court-ruling-revives-computer-village-relocation-to-katangowa-says-bridgeways/",
+      "summary": "Bridgeways Global Projects Limited says a recent judgment of the Lagos State High Court has revived plans for the long-delayed relocation of Computer Village from Ikeja to the proposed Katangowa ICT B",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "69f302b8ffc1",
+      "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+      "url": "https://www.openculture.com/2020/10/daisugi.html",
+      "summary": "https://x.com/wrathofgnon/status/1250287741247426565, https://xcancel.com/wrathofgnon/status/1250287741247426565\n\nComments URL: https://news.ycombinator.com/item?id=48708859\nPoints: 129\n# Comments: 42",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-06-29",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ab30f64ebcef",
+      "title": "EKEDP loses national grid supply, triggers power challenges across Lagos network",
+      "url": "https://nairametrics.com/2026/06/28/ekedp-loses-national-grid-supply-triggers-power-challenges-across-lagos-network/",
+      "summary": "The Eko Electricity Distribution Plc (EKEDP) has announced a loss of power supply from the national grid, which is currently affecting electricity supply across its network.\nThe post EKEDP loses natio",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2cd8947e300e",
+      "title": "FCCPC denies approving 48 loan apps, rejects 505 lenders’ claim",
+      "url": "https://nairametrics.com/2026/06/28/fccpc-denies-approving-48-loan-apps-rejects-505-lenders-claim/",
+      "summary": "The FCCPC has denied reports that it has approved 48 more loan apps, bringing the total licensed digital lenders in Nigeria to 505.\nThe post FCCPC denies approving 48 loan apps, rejects 505 lenders’ c",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "239892575fc8",
+      "title": "FG restricts okada, truck parking on Lagos-Calabar Coastal Highway",
+      "url": "https://nairametrics.com/2026/06/29/fg-restricts-okada-truck-parking-on-lagos-calabar-coastal-highway/",
+      "summary": "The Federal Ministry of Works has announced a ban on commercial motorcycles (okada) and tricycles (keke Marwa) from operating on the Lagos-Calabar Coastal Highway, as the government moves to preserve ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e758719ff2a4",
+      "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+      "url": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+      "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-06-29",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "eae567abd0bc",
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "summary": "Article URL: https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/\nComments URL: https://news.ycombinator.com/item?id=48709670\nPoints: 707\n# Comments: 340",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 6,
+      "date": "2026-06-29",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e2e5f623c6e8",
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "summary": "Article URL: https://antoine.fi/mri-analysis-using-claude-code-opus\nComments URL: https://news.ycombinator.com/item?id=48708941\nPoints: 404\n# Comments: 524",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 6,
+      "date": "2026-06-29",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "10d252834061",
+      "title": "June sell-off just turned these 12 stocks into buy opportunities for the rest of 2026",
+      "url": "https://nairametrics.com/2026/06/28/ngx-june-sell-off-just-turned-these-12-stocks-into-buy-opportunities/",
+      "summary": "With just days left in the first half of 2026, the Nigerian Exchange has delivered one of its strongest performances in recent years although June has offered a sobering reminder that markets do not m",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a48d58cf6528",
+      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+      "url": "https://arxiv.org/abs/2401.07013",
+      "summary": "Article URL: https://arxiv.org/abs/2401.07013\nComments URL: https://news.ycombinator.com/item?id=48712420\nPoints: 81\n# Comments: 13",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-06-29",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e5a61d0cb495",
+      "title": "LG Showcases AI-Powered Smart Living Innovations at Africa Technology Expo 2026",
+      "url": "https://technext24.com/2026/06/28/lg-showcases-africa-technology-expo-2026/",
+      "summary": "LG Electronics has reaffirmed its commitment to advancing innovation and smart living across Africa by participating as a…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "fe4f8b6ce210",
+      "title": "NDLEA intercepts 558,900 tramadol pills, arrests traffickers in Lagos",
+      "url": "https://nairametrics.com/2026/06/28/ndlea-intercepts-558900-tramadol-pills-arrests-traffickers-in-lagos/",
+      "summary": "NDLEA intercepts 558,900 tramadol pills, arrests three cross-border drug traffickers\nThe post NDLEA intercepts 558,900 tramadol pills, arrests traffickers in Lagos appeared first on Nairametrics.",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5cbf3a909a9a",
+      "title": "Nigerian Navy seizes 22,870 litres of illegally refined diesel in Rivers",
+      "url": "https://nairametrics.com/2026/06/29/nigerian-navy-seizes-22870-litres-of-illegally-refined-diesel-in-rivers/",
+      "summary": "The Nigerian Navy has intercepted approximately 22,870 litres of suspected illegally refined Automotive Gas Oil (AGO), commonly known as diesel, during an intelligence-led operation in Rivers State un",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "bd0f14379bd2",
+      "title": "Nigeria’s new vehicle sales to grow 7.6% in 2026 on Dangote refinery boost – BMI",
+      "url": "https://nairametrics.com/2026/06/28/nigerias-new-vehicle-sales-to-grow-7-6-in-2026-on-dangote-refinery-boost-bmi/",
+      "summary": "Nigeria’s new vehicle sales to grow 7.6% in 2026 on Dangote refinery boost – BMI\nThe post Nigeria’s new vehicle sales to grow 7.6% in 2026 on Dangote refinery boost – BMI appeared first on Nairametric",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1c208dd0da7a",
+      "title": "TechCrunch Mobility: All eyes on Tesla FSD",
+      "url": "https://techcrunch.com/2026/06/28/techcrunch-mobility-all-eyes-on-tesla-fsd/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-06-29",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3443d2eb5f98",
+      "title": "Tokenmaxxing is dead, long live tokenmaxxing",
+      "url": "https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing",
+      "summary": "Article URL: https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing\nComments URL: https://news.ycombinator.com/item?id=48708795\nPoints: 138\n# Comments: 166",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 6,
+      "date": "2026-06-29",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1701e56e1e6b",
+      "title": "Top 10 states to buy cheap food in Nigeria",
+      "url": "https://nairametrics.com/2026/06/28/top-10-states-to-buy-cheap-food-in-nigeria-as-of-may-2026/",
+      "summary": "Adamawa emerged as Nigeria's most affordable state for food in May 2026 after recording the lowest prices for more staple food items than any other state\nThe post Top 10 states to buy cheap food in Ni",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d26b9fdce7eb",
+      "title": "👨🏿‍🚀TechCabal Daily – Abay Bank lists in Ethiopia",
+      "url": "https://techcabal.com/2026/06/29/%f0%9f%91%a8%f0%9f%8f%bf%f0%9f%9a%80techcabal-daily-abay-bank-lists-in-ethiopia/",
+      "summary": "In today's edition: Vodacom cleared to acquire Safaricom stake || Ethiopia's Abay Bank goes public || Optasia relaunches Nigeria operations || New draft rules in SA target offshore e-commerce operator",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5a93b5d9bdd5",
+      "title": "5k menus from the New York Public Library’s Buttolph Collection (1880-1920)",
+      "url": "https://pudding.cool/2026/06/menu-story/",
+      "summary": "https://pudding.cool/2026/06/menu-collection/\n\nComments URL: https://news.ycombinator.com/item?id=48707763\nPoints: 354\n# Comments: 91",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-29",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "44dae018b4d6",
+      "title": "Age verification is just a precursor to automated attribution of speech",
+      "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+      "summary": "Article URL: https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026\nComments URL: https://news.ycombinator.com/item?id=48714529\nPoints: 282\n# Comments: 148",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-29",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6c99e4837174",
+      "title": "Beta Glass appoints Timothy Ononiwu as Chief Financial Officer",
+      "url": "https://nairametrics.com/2026/06/29/beta-glass-appoints-timothy-ononiwu-as-chief-financial-officer/",
+      "summary": "Beta Glass Plc has announced the appointment of Mr. Timothy Ononiwu as its new Chief Financial Officer (CFO), effective July 1, 2026.\nThe post Beta Glass appoints Timothy Ononiwu as Chief Financial Of",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "70522efd4c3e",
+      "title": "Canada commits $5.6 million to boost Black-owned businesses in Alberta",
+      "url": "https://nairametrics.com/2026/06/28/canada-commits-5-6-million-to-boost-black-owned-businesses-in-alberta/",
+      "summary": "Canada commits $5.6 million to boost Black-owned businesses in Alberta\nThe post Canada commits $5.6 million to boost Black-owned businesses in Alberta appeared first on Nairametrics.",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3e63224287bd",
+      "title": "Dissecting Apple's Sparse Image Format (ASIF)",
+      "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+      "summary": "Article URL: https://schamper.dev/dissecting-apples-sparse-image-format-asif/\nComments URL: https://news.ycombinator.com/item?id=48708644\nPoints: 24\n# Comments: 0",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-29",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9c237605addf",
+      "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
+      "url": "https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html",
+      "summary": "Article URL: https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html\nComments URL: https://news.ycombinator.com/item?id=48708700\nPoints: 101\n# Comments: 23",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-29",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a35ef3f8ffd5",
+      "title": "Former Wema Bank CEO Oloketuyi appointed Chairman of Chams Holding as Founder retires",
+      "url": "https://nairametrics.com/2026/06/29/former-wema-bank-ceo-oloketuyi-appointed-chairman-of-chams-holding-as-founder-retires/",
+      "summary": "Chams Holding Company Plc has appointed former Wema Bank CEO Mr. Segun Oloketuyi as Chairman of its Board of Directors following the retirement of the company’s founder, Sir Demola Aladekomo, after fo",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c9f4687e5b95",
+      "title": "Govee’s smart nugget ice maker makes every iced drink feel like a luxury",
+      "url": "https://techcrunch.com/2026/06/28/govees-smart-nugget-ice-maker-makes-every-iced-drink-feel-like-a-luxury/",
+      "summary": "For some people, the ice in a beverage is almost as important as the drink itself. That’s the audience Govee had in mind when designing its latest ice maker, the GoveeLife Smart Nugget Ice Maker Pro. ",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-29",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b5b725a89275",
+      "title": "Historical memory prices 1960-2026",
+      "url": "https://dam.stanford.edu/memory-prices.html",
+      "summary": "Article URL: https://dam.stanford.edu/memory-prices.html\nComments URL: https://news.ycombinator.com/item?id=48710092\nPoints: 267\n# Comments: 94",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-29",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6c57ac3cf1ea",
+      "title": "Nigeria to boost local smartphones and MiFi devices production with tax holidays",
+      "url": "https://technext24.com/2026/06/29/nigeria-boost-local-smartphones-mifi/",
+      "summary": "The Federal Government of Nigeria has further intensified efforts to promote domestic production of smartphones and MiFi devices…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4bb3e21c54c4",
+      "title": "Petrol prices: FCCPC warns marketers over slow cuts despite crude oil price decline",
+      "url": "https://nairametrics.com/2026/06/28/petrol-prices-fccpc-warns-marketers-over-slow-cuts-despite-crude-oil-price-decline/",
+      "summary": "The Federal Competition and Consumer Protection Commission (FCCPC) has raised concerns over what it described as the slow reduction in petrol prices by refiners, marketers, depot operators, and retail",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-06-29",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8b1f380870f3",
+      "title": "Show HN: Zanagrams",
+      "url": "https://zanagrams.com/",
+      "summary": "Article URL: https://zanagrams.com/\nComments URL: https://news.ycombinator.com/item?id=48708182\nPoints: 253\n# Comments: 58",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-29",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7b3f7a8f1f46",
+      "title": "TOP500 at ISC’26: We have a New Number 1 Supercomputer",
+      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+      "summary": "Article URL: https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number\nComments URL: https://news.ycombinator.com/item?id=48710775\nPoints: 95\n# Comments: 58",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-29",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "af2460bff561",
+      "title": "The curious case of the disappearing Polish S (2015)",
+      "url": "https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/",
+      "summary": "Article URL: https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/\nComments URL: https://news.ycombinator.com/item?id=48706814\nPoints: 229\n# Comments: 76",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-29",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d4ba9293226d",
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "url": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "summary": "Eager to find more public AI-related companies that may do as well as Nvidia, Wall Street investors think they've found a winner with Micron.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-29",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "119cbcd76b8b",
+      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
+      "url": "http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html",
+      "summary": "Article URL: http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html\nComments URL: https://news.ycombinator.com/item?id=48709187\nPoints: 106\n# Comments: 29",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-29",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8b4704f7c90f",
+      "title": "Writer Ian Bogost says ‘The Small Stuff’ can help us reclaim our lives from too much convenience",
+      "url": "https://techcrunch.com/2026/06/28/writer-ian-bogost-says-the-small-stuff-can-help-us-reclaim-our-lives-from-dematerialization/",
+      "summary": "Has Silicon Valley been building the wrong things?",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-06-29",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
     }
   ],
   "deadlines": [
-    {
-      "title": "GoGettaz Agripreneur Prize Competition 2026 for young African Entrepreneurs (USD50,000 in growth funding)",
-      "date": "2026-06-28",
-      "first_seen": "2026-05-20",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/gogettaz-agripreneur-prize-competition-2026/",
-      "article_id": "9669c30a467b"
-    },
-    {
-      "title": "The UNODA Youth4Disarmament Champions Programme 2026/2027 for young peace and security Leaders",
-      "date": "2026-06-28",
-      "first_seen": "2026-06-11",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/the-un-youth4disarmament-champions-programme-2026-2027/",
-      "article_id": "1b12778cf5aa"
-    },
-    {
-      "title": "The elea Talent Program (eTP) 2026/2027 for University Graduates (South Africa)",
-      "date": "2026-06-28",
-      "first_seen": "2026-06-11",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/the-elea-talent-program-2026-2027/",
-      "article_id": "01cdb9008b93"
-    },
     {
       "title": "2026 TWAS-Abdool Karim Award in Biological Sciences for women scientists in Low-Income African Countries (USD5,000 cash award)",
       "date": "2026-06-30",
