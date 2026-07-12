@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-07-11T06:01:23Z",
-    "total_articles": 4017,
-    "total_days": 53
+    "last_updated": "2026-07-12T06:00:54Z",
+    "total_articles": 4059,
+    "total_days": 54
   },
   "articles": [
     {
@@ -57565,6 +57565,598 @@
       "date": "2026-07-11",
       "tags": [
         "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b94b5bb00c65",
+      "title": "Lagos govt, AXA kick off initiative against domestic violence - The Sun Nigeria",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSFhqLXRIanE4NmYtTzBHYkRuaEFxdjZBb1lVQ0ozWDl4UE1iOUN5VFhyMmh4M3dsNUlyODMtRjhMWkVjN0Q0ZHVCTUZJVzdET05uQmFMZXdHSGJ6VUwyNkJEVnVOTlBfNTg3OGZRb3ZvdDVsNlJVUXVFN08tVlFoeWZlTFc0UdIBiwFBVV95cUxQMUpvajJESDgza0pYOE04MlpkRjRsOVhWekRMc25UMkxrZzJWaVJoX0V0ZUFZRWVnOXRxRWJybnZ2SWpkVkhKRW9YamsxdEpEbDczS1lmTk15bFU3azNlRzBRS0wyMmFsMmdpOERnZmRwYUk4LXpHbXh4Y3ZsZmJvbGR4YzQ1bW1JMjRB?oc=5",
+      "summary": "Lagos govt, AXA kick off initiative against domestic violence  The Sun Nigeria",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 12,
+      "date": "2026-07-12",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "658a6d0dc697",
+      "title": "Before Moniepoint and Opay, this fintech came first",
+      "url": "https://nairametrics.com/2026/07/11/before-moniepoint-and-opay-this-fintech-came-first/",
+      "summary": "In the latest episode of the Money Brief Podcast: Corporate Stories, host Ugo Obichukwu revisits the story of FlashMeCash, a GSM-based money transfer platform launched by First Atlantic Bank in 2002 a",
+      "source": "Nairametrics",
+      "angle": "Nigerian ecosystem pulse — relevant for enterprise consulting and PORA positioning.",
+      "score": 10,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f299c4b38cde",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "summary": "Article URL: https://www.iroh.computer/blog/mesh-llm\nComments URL: https://news.ycombinator.com/item?id=48876505\nPoints: 175\n# Comments: 40",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 9,
+      "date": "2026-07-12",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b76f6170b5c4",
+      "title": "N60 billion Facebook fine: legal expert says regulators cannot sanction companies without fair hearing",
+      "url": "https://technext24.com/news/facebook-fine-regulators-cannot-sanction/",
+      "summary": "When the Advertising Regulatory Council of Nigeria (ARCON) sent Facebook Nigeria a letter in October 2024 demanding N60…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f1ef2fa053a4",
+      "title": "NELFUND denies suspending upkeep allowance amid students’ complaints over non-payment",
+      "url": "https://nairametrics.com/2026/07/11/nelfund-denies-suspending-upkeep-allowance-amid-students-complaints-over-non-payment/",
+      "summary": "The Nigerian Education Loan Fund (NELFUND) has dismissed as fake a viral social media document claiming that the Federal Government had suspended the payment of upkeep allowances to beneficiaries of t",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "926ad99f0644",
+      "title": "Top 10 most populous countries in Africa in 2026",
+      "url": "https://nairametrics.com/2026/07/11/top-10-most-populous-countries-in-africa-in-2026/",
+      "summary": "According to the latest 2026 population estimates by Worldometer, Nigeria remains Africa's most populous country with over 242 million people, accounting for nearly 3% of the world's population.\nThe p",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4e08a76ba0bb",
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
+      "summary": "Hello HN!I'm the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, a platform for deploy",
+      "source": "Hacker News",
+      "angle": "Optimize self-hosted infra; extend your 70% cloud cost reduction.",
+      "score": 8,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7330fa1dbcc1",
+      "title": "Army confirms security force casualties during rescue of abducted Oyo pupils, teachers",
+      "url": "https://nairametrics.com/2026/07/11/army-confirms-security-force-casualties-during-rescue-of-abducted-oyo-pupils-teachers/",
+      "summary": "The Nigerian Army has disclosed that security personnel suffered casualties during the month-long operation that led to the rescue of 44 pupils and teachers abducted in Oriire Local Government Area of",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6bf4132341f5",
+      "title": "SBM flags rising kidnap threats, mob justice as armed groups shift across Nigeria",
+      "url": "https://nairametrics.com/2026/07/11/sbm-flags-rising-kidnap-threats-mob-justice-as-armed-groups-shift-across-nigeria/",
+      "summary": "Security intelligence firm SBM Intelligence has flagged rising kidnap threats and mob justice as armed groups shift across Nigeria.\nThe post SBM flags rising kidnap threats, mob justice as armed group",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f4f9a7e8bc69",
+      "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "summary": "Article URL: https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547\nComments URL: https://news.ycombinator.com/item?id=48877371\nPoints: 178\n# Comments: 95",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 7,
+      "date": "2026-07-12",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e3a37da042e7",
+      "title": "Apple sues OpenAI over alleged trade secret theft",
+      "url": "https://nairametrics.com/2026/07/11/apple-sues-openai-over-alleged-trade-secret-theft/",
+      "summary": "Apple has filed a lawsuit against OpenAI, accusing the artificial intelligence company of orchestrating a coordinated effort to obtain confidential information related to its unreleased products, esca",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3ba54733cbd1",
+      "title": "Best performing Nigerian stocks for the week ended July 10, 2026",
+      "url": "https://nairametrics.com/2026/07/11/best-performing-nigerian-stocks-for-the-week-ended-july-10-2026/",
+      "summary": "Nigerian equities posted N9.34 trillion in weekly gains for the week ended July 10, 2026, marking one of the market's strongest weekly rebounds recorded this year after June's historic correction.\nThe",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "750b535ead90",
+      "title": "Caverton reports pre-tax loss of N13.87 billion in 2025 as revenue declines",
+      "url": "https://nairametrics.com/2026/07/11/caverton-reports-pre-tax-loss-of-n13-87-billion-in-2025-as-revenue-declines/",
+      "summary": "Caverton Offshore Support Group Plc has released its 2025 audited results for the period ended December 31, 2025, reporting a pre-tax loss of N13.87 billion, representing a 74.15% reduction from the N",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e899a285df2a",
+      "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+      "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
+      "summary": "Article URL: https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/\nComments URL: https://news.ycombinator.com/item?id=48876619\nPoints: 23\n# Comments: 10",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3517f4727a8b",
+      "title": "For Titilayo Adesoga, agriculture isn’t just about food—it’s about who gets the opportunity to grow.",
+      "url": "https://nairametrics.com/2026/07/11/for-titilayo-adesoga-agriculture-isnt-just-about-food-its-about-who-gets-the-opportunity-to-grow/",
+      "summary": "As she launches the FudFarmer Foundation, Titilayo Adesoga is championing greater access and opportunity for women across Nigeria’s agricultural value chain.For Titilayo Adesoga, agriculture is about ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "cba4abdd7233",
+      "title": "Japaul Gold’s pre-tax profit falls 13% in 2025 despite 28% revenue growth",
+      "url": "https://nairametrics.com/2026/07/11/japaul-golds-pre-tax-profit-falls-13-in-2025-despite-28-revenue-growth/",
+      "summary": "Japaul Gold & Ventures Plc reported a group pre-tax profit of N1.30 billion for the year ended 31 December 2025, representing a 13.19% decline from the N1.50 billion recorded in 2024.\nThe post Japaul ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "afc0c826eb6d",
+      "title": "NSIB report reveals conflicting pilot accounts in Asaba road landing",
+      "url": "https://nairametrics.com/2026/07/11/nsib-report-reveals-conflicting-pilot-accounts-in-asaba-road-landing/",
+      "summary": "The Nigerian Safety Investigation Bureau (NSIB) has revealed conflicting accounts from the three pilots aboard the Bombardier Challenger 601-3A that mistakenly landed on a road under construction near",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6776669d6497",
+      "title": "Naira falls to N1,381/$1 as FX reserves hit $51.7 billion",
+      "url": "https://nairametrics.com/2026/07/11/naira-falls-to-n1381-1-as-fx-reserves-hit-51-7-billion/",
+      "summary": "The naira weakened against the United States dollar at the official foreign exchange market during the week ended Friday, July 10, extending its losses throughout the trading week.\nThe post Naira fall",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "387e59d513e6",
+      "title": "Naira slips to N1,576/€1 against Euro despite strong external reserves",
+      "url": "https://nairametrics.com/2026/07/11/naira-slips-to-n1576-e1-against-euro-despite-strong-external-reserves/",
+      "summary": "The naira experienced a slight depreciation against the major European currency this week, with the CBN's latest data indicating it settled at N1576/€1, up from N1569/€1 last week.\nThe post Naira slip",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "94bae2cd1613",
+      "title": "Nigerian stocks gain 6.35% in one week, as bulls takeover",
+      "url": "https://nairametrics.com/2026/07/11/nigerian-stocks-gain-6-35-in-one-week-as-bulls-takeover/",
+      "summary": "The Nigerian equities market held nearly steady on Friday, July 10, 2026, as the benchmark NGX All-Share Index depreciated marginally by 0.065% to close at 243,798.76 points, virtually unchanged from ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "784404382e8f",
+      "title": "Nigeria’s 6 fastest-growing sectors employ just 2.7% of workers – CardinalStone",
+      "url": "https://nairametrics.com/2026/07/11/nigerias-6-fastest-growing-sectors-employ-just-2-7-of-workers-cardinalstone/",
+      "summary": "Nigeria's six fastest-growing sectors account for just 2.7% of the country's workforce despite recording average annual growth rates above 5% over the past three years.\nThe post Nigeria’s 6 fastest-gr",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2af3f4f9b9a2",
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "summary": "Article URL: https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom\nComments URL: https://news.ycombinator.com/item?id=48873836\nPoints: 213\n# Comments: 70",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "094ff653917c",
+      "title": "OIS Services denies exit from Nigerian visa processing in the US",
+      "url": "https://technext24.com/news/ois-services-denies-exit-from-nigerian-visa/",
+      "summary": "Online Integrated Solution has pushed back against reports that it has been permanently removed from handling Nigerian visa…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a7e114a875f9",
+      "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+      "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+      "summary": "ChatGPT is hiring a dedicated product manager to build experiences for families, caregivers, and older adults, according to a job posting.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-07-12",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e45c9a8f5c88",
+      "title": "Reed Jobs would rather talk about curing cancer than his last name",
+      "url": "https://techcrunch.com/2026/07/11/reed-jobs-would-rather-talk-about-curing-cancer-than-his-last-name/",
+      "summary": "When we last sat down with Jobs at TechCrunch Disrupt nearly three years ago, his firm Yosemite was brand new and biotech was still reeling from its post-pandemic crash. Now, the venture outfit has a ",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "10bb375e0377",
+      "title": "Sixtyfour (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success",
+      "summary": "Article URL: https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success\nComments URL: https://news.ycombinator.com/item?id=48873665\nPoints: 0\n# Com",
+      "source": "Hacker News",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e4f6111310bf",
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "summary": "Article URL: https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf\nComments URL: https://news.ycombinator.com/item?id=48872858\nPoints: 108\n# Comments: 62",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d4f2dc6d0e07",
+      "title": "Prefer strict tables in SQLite",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "summary": "Article URL: https://evanhahn.com/prefer-strict-tables-in-sqlite/\nComments URL: https://news.ycombinator.com/item?id=48873940\nPoints: 250\n# Comments: 122",
+      "source": "Hacker News",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 4,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "53c62b9a026b",
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "summary": "Article URL: https://github.com/Wren6991/RISCBoy\nComments URL: https://news.ycombinator.com/item?id=48876245\nPoints: 98\n# Comments: 17",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "06c65c8722c5",
+      "title": "6 ways Nigeria’s creative economy has grown over the years",
+      "url": "https://technext24.com/social-tech/the-rise-of-nigerias-creative-economy/",
+      "summary": "Creativity has always been part of Nigeria’s identity. What has changed is how easily talent can now become…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4f2cd92af650",
+      "title": "A Erlang style pure Scheme Webserver and further",
+      "url": "https://igropyr.com",
+      "summary": "Article URL: https://igropyr.com\nComments URL: https://news.ycombinator.com/item?id=48877344\nPoints: 52\n# Comments: 2",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9082284e3a22",
+      "title": "A dock that wakes up reliably",
+      "url": "https://fabiensanglard.net/tb4/index.html",
+      "summary": "Article URL: https://fabiensanglard.net/tb4/index.html\nComments URL: https://news.ycombinator.com/item?id=48877269\nPoints: 59\n# Comments: 38",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2b5fea4ed245",
+      "title": "A pure scheme web programming tool",
+      "url": "https://goeteia.dev",
+      "summary": "Article URL: https://goeteia.dev\nComments URL: https://news.ycombinator.com/item?id=48877314\nPoints: 73\n# Comments: 17",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7b4385a04898",
+      "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
+      "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
+      "summary": "Article URL: https://archive.cancerworld.net/featured/how-doctors-die/\nComments URL: https://news.ycombinator.com/item?id=48876741\nPoints: 118\n# Comments: 67",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6d829dbb31bf",
+      "title": "Long Covid May Physically Damage the Nerves That Control the Stomach",
+      "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
+      "summary": "Article URL: https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext\nComments URL: https://news.ycombinator.com/item?id=48877192\nPoints: 92\n# Comments: 38",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9f569d5baa9d",
+      "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
+      "url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
+      "summary": "Article URL: https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491\nComments URL: https://news.ycombinator.com/item?id=48877178\nPoints: 62\n# Comments: 14",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "01bd1db4dd2f",
+      "title": "Police arrest suspect who stole over ₦3 billion from a bank with POS machines",
+      "url": "https://technext24.com/news/police-arrest-suspect-%e2%82%a63-billion-pos-machines/",
+      "summary": "The Police Special Fraud Unit has arrested a suspected member of a cybercrime syndicate accused of using Point…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-07-12",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "898302aa5ba9",
+      "title": "The Energetic Costs of Cellular Computation (2012)",
+      "url": "https://arxiv.org/abs/1203.5426",
+      "summary": "Article URL: https://arxiv.org/abs/1203.5426\nComments URL: https://news.ycombinator.com/item?id=48877613\nPoints: 17\n# Comments: 1",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "040919025785",
+      "title": "UPI: Anatomy of a Payment Transaction",
+      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "summary": "Article URL: https://timeseriesofindia.com/economy/reads/upi-architecture/\nComments URL: https://news.ycombinator.com/item?id=48873457\nPoints: 140\n# Comments: 52",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "dca6b1caffa8",
+      "title": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+      "summary": "Article URL: https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/\nComments URL: https://news.ycombinator.com/item?id=48877668\nPoints: 69\n# Comments: 19",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "83818b9b521c",
+      "title": "We scaled PgBouncer to 4x throughput",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "summary": "Article URL: https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres\nComments URL: https://news.ycombinator.com/item?id=48872874\nPoints: 194\n# Comments: 39",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1d5a5ede10ce",
+      "title": "Why Write Code in 2026",
+      "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
+      "summary": "Article URL: https://softwaredoug.com/blog/2026/07/09/write-code.html\nComments URL: https://news.ycombinator.com/item?id=48878195\nPoints: 16\n# Comments: 2",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-07-12",
+      "tags": [
+        "tech"
       ],
       "duplicate_of": null
     }
