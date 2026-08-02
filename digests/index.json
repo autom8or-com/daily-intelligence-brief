@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-08-01T06:01:00Z",
-    "total_articles": 5433,
-    "total_days": 74
+    "last_updated": "2026-08-02T06:01:24Z",
+    "total_articles": 5481,
+    "total_days": 75
   },
   "articles": [
     {
@@ -77832,6 +77832,687 @@
       "angle": "Directly relevant to your Nigerian tech ecosystem work.",
       "score": 1,
       "date": "2026-08-01",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a7cd35853c53",
+      "title": "MTN nears 100 million subscriptions as Nigeria’s mobile database hits 189.4 million",
+      "url": "https://nairametrics.com/2026/08/01/mtn-nears-100-million-subscriptions-as-nigerias-mobile-database-hits-189-4-million/",
+      "summary": "The largest network operator in Nigeria, MTN is now close to the 100 million active subscriptions mark as its database hit 96.9 million in May\nThe post MTN nears 100 million subscriptions as Nigeria’s",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 13,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "22126090f339",
+      "title": "Nigeria’s AI boom depends on one thing government hasn’t fixed",
+      "url": "https://nairametrics.com/2026/08/01/nigerias-ai-boom-depends-on-one-thing-government-hasnt-fixed/",
+      "summary": "A new IMF departmental paper puts numbers on a question Nigerian policymakers have largely addressed in broad terms – what AI could actually be worth to the economy and why its current payoff is so li",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 12,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1d859bcb7e50",
+      "title": "Berger Paints profit jumps 27% despite rising operating costs",
+      "url": "https://nairametrics.com/2026/08/01/berger-paints-h1-pre-tax-profit-climbs-27-to-n1-20-billion-on-strong-paint-sales/",
+      "summary": "Berger Paints Nigeria Plc has released its H1 financial statement, reporting a pre-tax profit of N1.20 billion for the six months ended June 30, 2026.\nThe post Berger Paints profit jumps 27% despite r",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "cbac820dcb2d",
+      "title": "Cardinal Torch pivots to agro-processing after N10 billion fundraising",
+      "url": "https://nairametrics.com/2026/08/01/cardinal-torch-pivots-to-agro-processing-after-n10-billion-fundraising/",
+      "summary": "Indigenous commodity trader Cardinal Torch Company Limited has announced plans to transition into a full-fledged agro-processing in a strategic shift to capture higher margins along Nigeria’s agricult",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c3079f166cd9",
+      "title": "FirstBank: Economic stability alone won’t improve Nigerians’ living standards",
+      "url": "https://nairametrics.com/2026/08/01/firstbank-economic-stability-alone-wont-improve-nigerians-living-standards/",
+      "summary": "FirstBank of Nigeria Limited has said Nigeria’s economy has entered a new phase where the priority is no longer restoring macroeconomic...\nThe post FirstBank: Economic stability alone won’t improve Ni",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f02ce2c12982",
+      "title": "LG Electronics extends care beyond technology with AXA Mansard Health partnership - premiumtimesng.com",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbmUzQnJON3dmWlh2Y3ZyZEdDTklRakFXZ3I4MUZmYm1DUXVrSC0tU3ZyQ1RjUXdFZ0F4eklLcW5lS0JkMjlCankyRm4wYk5PQlNuSFNxWjdoUGpSUVlUcHhTNlNpNjY2WkZKTS1tWWx4MHo4S09zX2s4ZkVqQm1qNFNSbnlYMkNSSlZUcHZQLTkzakhOeVRwUGY0YlExbUVUQVBDODY2N0p4djA0b0Q1akwyM3E5SkJ3Q2t1WXpISU1sREc2RFU3RDFXMUFZQQ?oc=5",
+      "summary": "LG Electronics extends care beyond technology with AXA Mansard Health partnership  premiumtimesng.com",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-08-02",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": "2026-05-07"
+    },
+    {
+      "id": "95440cbbe870",
+      "title": "Lagos govt, AXA kick off initiative against domestic violence - thesun.ng",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSFhqLXRIanE4NmYtTzBHYkRuaEFxdjZBb1lVQ0ozWDl4UE1iOUN5VFhyMmh4M3dsNUlyODMtRjhMWkVjN0Q0ZHVCTUZJVzdET05uQmFMZXdHSGJ6VUwyNkJEVnVOTlBfNTg3OGZRb3ZvdDVsNlJVUXVFN08tVlFoeWZlTFc0UdIBiwFBVV95cUxQMUpvajJESDgza0pYOE04MlpkRjRsOVhWekRMc25UMkxrZzJWaVJoX0V0ZUFZRWVnOXRxRWJybnZ2SWpkVkhKRW9YamsxdEpEbDczS1lmTk15bFU3azNlRzBRS0wyMmFsMmdpOERnZmRwYUk4LXpHbXh4Y3ZsZmJvbGR4YzQ1bW1JMjRB?oc=5",
+      "summary": "Lagos govt, AXA kick off initiative against domestic violence  thesun.ng",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-08-02",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": "2026-07-12"
+    },
+    {
+      "id": "6c512dd41d09",
+      "title": "Spider-Man: Brand New Day sets N120.4 million preview record in Nigeria",
+      "url": "https://nairametrics.com/2026/08/01/spider-man-brand-new-day-sets-n120-4-million-preview-record-in-nigeria/",
+      "summary": "Marvel Studios and Sony Pictures' Spider-Man: Brand New Day has set a new record for the biggest preview opening in Nigerian box office...\nThe post Spider-Man: Brand New Day sets N120.4 million previe",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "945cef73c895",
+      "title": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+      "url": "https://costperprompt.com/",
+      "summary": "Article URL: https://costperprompt.com/\nComments URL: https://news.ycombinator.com/item?id=49140340\nPoints: 12\n# Comments: 5",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 7,
+      "date": "2026-08-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5fa280225450",
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "summary": "Article URL: https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions\nComments URL: https://news.ycombinator.com/item?id=49139102\nPoint",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "74a0551fa56d",
+      "title": "Africa’s exports jump 14%, trail only Asia in global trade growth",
+      "url": "https://nairametrics.com/2026/08/01/africas-exports-jump-14-trail-only-asia-in-global-trade-growth/",
+      "summary": "Africa’s merchandise exports increased by 14% year-on-year in the first quarter of 2026, recording the second-highest regional growth after Asia, according to the World Trade Organization (WTO).\nThe p",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "291c118da8bb",
+      "title": "Aradel reports N753bn pre-tax profit after blockbuster half-year",
+      "url": "https://nairametrics.com/2026/08/01/aradel-reports-n753bn-pre-tax-profit-after-blockbuster-half-year/",
+      "summary": "Aradel Holdings Plc has released its unaudited H1 financial statement, reporting a pre-tax profit of N752.71 billion for the six months ended.\nThe post Aradel reports N753bn pre-tax profit after block",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6eadd57222d1",
+      "title": "Best performing Nigerian stocks for the week ended July 31, 2026",
+      "url": "https://nairametrics.com/2026/08/02/best-performing-nigerian-stocks-for-the-week-ended-july-31-2026/",
+      "summary": "The Nigerian equities market closed the week at losses, with the benchmark All-Share Index slipping 0.03% session-on-session and 0.81% week-on-week to close at 245,283.68 points, down from 245,362.26 ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c041a11622e1",
+      "title": "Building homes or building an economy? Why nigeria’s housing strategy will determine the path to a us$1 trillion economy",
+      "url": "https://nairametrics.com/2026/08/01/building-homes-or-building-an-economy-why-nigerias-housing-strategy-will-determine-the-path-to-a-us1-trillion-economy/",
+      "summary": "Nigeria needs approximately 20 million additional homes. Most discussions focus on how quickly those homes can be built....\nThe post Building homes or building an economy? Why nigeria’s housing strate",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9d485e22e805",
+      "title": "CBN mops up N7.2 trillion in July, but quietly changes its playbook",
+      "url": "https://nairametrics.com/2026/08/01/cbn-mops-up-n7-2-trillion-in-july-but-quietly-changes-its-playbook/",
+      "summary": "The Central Bank of Nigeria (CBN) sterilized N7.18 trillion from the financial system in July through Open Market Operations (OMO) auctions, a 48.57% decline from the N13.96 trillion mopped up conduct",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9019294ba4a4",
+      "title": "Canadians are leaving the country at record levels. Can anyone solve this?",
+      "url": "https://thehub.ca/2026/04/03/can-anyone-solve-canadas-brain-drain-problem/",
+      "summary": "Article URL: https://thehub.ca/2026/04/03/can-anyone-solve-canadas-brain-drain-problem/\nComments URL: https://news.ycombinator.com/item?id=49140996\nPoints: 7\n# Comments: 3",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "257ea0759c3b",
+      "title": "Digital Nomads: How a Nigerian tutor relocated to Thailand on a $500 visa",
+      "url": "https://techcabal.com/2026/08/01/digital-nomad-ava-anthony/",
+      "summary": "Between 2016 and 2020, she worked in advertising and branding, developing campaigns for clients including Nigerian tier-one lenders Access Bank and Zenith Bank.",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a74ee9c9bce2",
+      "title": "Don't credit the LLM",
+      "url": "https://isaacsu.com/2026/08/dont-credit-the-llm/",
+      "summary": "Article URL: https://isaacsu.com/2026/08/dont-credit-the-llm/\nComments URL: https://news.ycombinator.com/item?id=49141008\nPoints: 25\n# Comments: 27",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "638036f82828",
+      "title": "Gavi commits $500 million to vaccinate Nigeria’s next generation",
+      "url": "https://nairametrics.com/2026/08/01/gavi-commits-500-million-to-vaccinate-nigerias-next-generation/",
+      "summary": "Gavi, the Vaccine Alliance, has committed more than $500 million to support Nigeria’s immunisation programme over the next five years.\nThe post Gavi commits $500 million to vaccinate Nigeria’s next ge",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7452f1c32d34",
+      "title": "Nigerian equities market adds N11.11 trillion in July as banking stocks power recovery",
+      "url": "https://nairametrics.com/2026/08/01/nigerian-equities-market-adds-n11-11-trillion-in-july-as-banking-stocks-power-recovery/",
+      "summary": "The Nigerian equities market delivered a strong performance in July 2026, adding approximately N11.11 trillion to investors' wealth as sustained buying interest in banking and other fundamentally stro",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "08e424490b4c",
+      "title": "Nigerian stocks set for profit-taking in August, Dangote Refinery in spotlight",
+      "url": "https://nairametrics.com/2026/08/01/nigerian-stocks-set-for-profit-taking-in-august-dangote-refinery-in-spotlight/",
+      "summary": "Nigeria's stocks enter August with the NGX All-Share Index (ASI) hovering around 247,000 index points, approaching record highs.\nThe post Nigerian stocks set for profit-taking in August, Dangote Refin",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "94f853106fd4",
+      "title": "Nigeria’s N70,000 minimum wage and the cost-of-living reality",
+      "url": "https://nairametrics.com/2026/08/01/nigerias-n70000-minimum-wage-and-the-cost-of-living-reality/",
+      "summary": "When the Minister of Finance and Coordinating Minister of the Economy explained that savings from the removal of fuel and foreign exchange...\nThe post Nigeria’s N70,000 minimum wage and the cost-of-li",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "77ccb0920b0d",
+      "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+      "url": "https://zenodo.org/records/21753002",
+      "summary": "Article URL: https://zenodo.org/records/21753002\nComments URL: https://news.ycombinator.com/item?id=49140080\nPoints: 8\n# Comments: 2",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "bb079519a930",
+      "title": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
+      "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
+      "summary": "Article URL: https://www.wafer.ai/blog/kimi-k3-mi355x\nComments URL: https://news.ycombinator.com/item?id=49141073\nPoints: 51\n# Comments: 0",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "49d2f9e8f8c0",
+      "title": "SAHCO’s H1 2026 pre-tax profit falls 41% as cost pressures weaken margins",
+      "url": "https://nairametrics.com/2026/08/02/sahcos-h1-2026-pre-tax-profit-falls-41-as-cost-pressures-weaken-margins/",
+      "summary": "Skyway Aviation Handling Company Plc reported pre-tax profit of N5.827 billion for the first half year ended 30 June 2026, representing a 41.49% decline from N9.958 billion recorded in the correspondi",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "00273746d5cf",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "cd019142164a",
+      "title": "South Africa plans new $30 travel permit fee for visitors",
+      "url": "https://nairametrics.com/2026/08/01/south-africa-plans-new-30-travel-permit-fee-for-visitors/",
+      "summary": "South Africa is proposing a new ZAR 500 ($30) processing fee for travellers applying for its Electronic Travel Authorisation (ETA), as the country continues expanding its digital border management sys",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6e15cb0482a4",
+      "title": "Top 10 most expensive hotels in Africa 2026",
+      "url": "https://nairametrics.com/2026/08/01/top-10-most-expensive-hotels-in-africa-2026/",
+      "summary": "Africa's luxury hospitality industry continues to push the boundaries of exclusivity, with a growing number of hotels and safari lodges...\nThe post Top 10 most expensive hotels in Africa 2026 appeared",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "79e0fcdcfec0",
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "source": "TechCrunch",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 6,
+      "date": "2026-08-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6216f7547daa",
+      "title": "Four Time Scales for Technology Development and Deployment",
+      "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
+      "summary": "Article URL: https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/\nComments URL: https://news.ycombinator.com/item?id=49140487\nPoints: 20\n# Comments: 2",
+      "source": "Hacker News",
+      "angle": "Optimize self-hosted infra; extend your 70% cloud cost reduction.",
+      "score": 4,
+      "date": "2026-08-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a1239827b200",
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "url": "https://github.com/tom-ilan/cycloidal_gearbox",
+      "summary": "Article URL: https://github.com/tom-ilan/cycloidal_gearbox\nComments URL: https://news.ycombinator.com/item?id=49140396\nPoints: 76\n# Comments: 18",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-08-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9519c149853e",
+      "title": "ASRock BC-250: Building the Budget Steam Machine",
+      "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+      "summary": "Article URL: https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/\nComments URL: https://news.ycombinator.com/item?id=49140213\nPoints: 40\n# Comments: 15",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c0b386d3eae0",
+      "title": "Atom is better than RSS, in ways that matter",
+      "url": "https://chrismorgan.info/atom%3Erss",
+      "summary": "Article URL: https://chrismorgan.info/atom%3Erss\nComments URL: https://news.ycombinator.com/item?id=49138897\nPoints: 40\n# Comments: 8",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "356c4cfddc47",
+      "title": "Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific",
+      "url": "https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#",
+      "summary": "Article URL: https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#\nComments URL: https://news.ycombinator.com/item?id=49140599\nPoints: 27\n# Comments: ",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c2d544619c1e",
+      "title": "Go 1.27 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "summary": "Article URL: https://victoriametrics.com/blog/go-1-27/index.html\nComments URL: https://news.ycombinator.com/item?id=49140218\nPoints: 117\n# Comments: 31",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "47f61d2d4a52",
+      "title": "IMF says governments are squeezing savers as debt piles up",
+      "url": "https://nairametrics.com/2026/08/01/imf-says-governments-are-squeezing-savers-as-debt-piles-up/",
+      "summary": "Financial repression has risen to its highest levels in decades as governments with elevated debt increasingly face constraints in using...\nThe post IMF says governments are squeezing savers as debt p",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ac8aa925e70c",
+      "title": "Inside the London hacker house taking a stand against founder burnout",
+      "url": "https://techcrunch.com/2026/08/01/inside-one-london-founder-house-rewriting-the-founder-house-rules/",
+      "summary": "How one founder house is betting work-life balance can beat burnout .",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f7cd33ba8e64",
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+      "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e636ee827259",
+      "title": "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering",
+      "url": "https://wwnorton.com/books/9781324051299",
+      "summary": "Article URL: https://wwnorton.com/books/9781324051299\nComments URL: https://news.ycombinator.com/item?id=49139796\nPoints: 10\n# Comments: 2",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ba1702005f65",
+      "title": "Linux desktop market share has hit over 10% in North America",
+      "url": "https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/",
+      "summary": "Article URL: https://old.reddit.com/r/linux/comments/1vcpk8i/linux_desktop_market_share_has_hit_over_10_in/\nComments URL: https://news.ycombinator.com/item?id=49140696\nPoints: 64\n# Comments: 22",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8203b800ce71",
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+      "summary": "Article URL: http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html\nComments URL: https://news.ycombinator.com/item?id=49140702\nPoints: 35\n# Comments: 1",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a2199b7c1912",
+      "title": "Morph (YC S23) Is Hiring Member of Technical Staff",
+      "url": "https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff",
+      "summary": "Article URL: https://www.ycombinator.com/companies/morph/jobs/0Z8vI3K-member-of-technical-staff\nComments URL: https://news.ycombinator.com/item?id=49139352\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3ac6fc377f80",
+      "title": "Plug-in solar is coming. Plug-in batteries should follow",
+      "url": "https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
+      "summary": "Article URL: https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow\nComments URL: https://news.ycombinator.com/item?id=49140633\nPoints: 79\n# Comments: 85",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "073f3a660ada",
+      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+      "summary": "Article URL: https://www.rfc-editor.org/rfc/rfc10015.html\nComments URL: https://news.ycombinator.com/item?id=49139711\nPoints: 50\n# Comments: 7",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2899e00d5845",
+      "title": "The VFD Group Future Leaders Programme 2026 for young Nigerian graduates.",
+      "url": "https://www.opportunitiesforafricans.com/the-vfd-group-future-leaders-programme-2026-for-young-nigerian-graduates/",
+      "summary": "Application Deadline: Unspecified Applications are now open for the 2026 VFD Group Future Leaders Programme. The VFD Group Future Leaders Programme is designed for exceptional graduates with the curio",
+      "source": "Opps4Africans",
+      "angle": "General opportunity — review if relevant to your network.",
+      "score": 3,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6ddd8d6a77d7",
+      "title": "The creator economy has a plagiarism problem, and AI is making it worse",
+      "url": "https://technext24.com/social-tech/creator-economy-plagiarism-problem-ai/",
+      "summary": "Every content creator knows the heartbreak of opening social media only to find their “original” idea thriving on…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-08-02",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d3187034a2d2",
+      "title": "Unraveling the mysteries of habit formation",
+      "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+      "summary": "Article URL: https://www.kyoto-u.ac.jp/en/research-news/2026-07-28\nComments URL: https://news.ycombinator.com/item?id=49139383\nPoints: 59\n# Comments: 21",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "81757b4ceb73",
+      "title": "When random.bytes() runs but doesn't work",
+      "url": "https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt",
+      "summary": "Article URL: https://insider.btcpp.dev/p/when-randombytes-runs-but-doesnt\nComments URL: https://news.ycombinator.com/item?id=49140405\nPoints: 21\n# Comments: 5",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-02",
       "tags": [
         "tech"
       ],
