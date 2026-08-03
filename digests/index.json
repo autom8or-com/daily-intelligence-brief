@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-08-02T06:01:24Z",
-    "total_articles": 5481,
-    "total_days": 75
+    "last_updated": "2026-08-03T06:00:48Z",
+    "total_articles": 5519,
+    "total_days": 76
   },
   "articles": [
     {
@@ -78517,17 +78517,549 @@
         "tech"
       ],
       "duplicate_of": null
+    },
+    {
+      "id": "66e6e4489d66",
+      "title": "Nigeria is adopting AI fast, but foreign firms are winning, Report warns",
+      "url": "https://nairametrics.com/2026/08/02/nigeria-is-adopting-ai-fast-but-foreign-firms-are-winning-report-warns/",
+      "summary": "Nigeria is at risk of becoming permanently dependent on foreign artificial intelligence (AI) technologies unless it significantly increases investment in developing indigenous AI models, datasets and ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 15,
+      "date": "2026-08-03",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "411384f51aac",
+      "title": "AXA Mansard’s profit climbs to ₦7.8bn as capital base meets NAICOM’s threshold - Champion Newspapers LTD",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZHozNDZYTks4ekQ2b2libXZNNUE0Z0ZGR1pUMDdWQ1U2V2dWTUlIUW9tMUIzNlFUMTkySUpVZ0xpNFVSekNwMF9Fa2FKenJOMjVOMHhXZFZvVDJyNEVJb3Y2c3BVbXVRbzVoTTRGVW80SUVYSWkwd2RYUGJHU1lhS3FfUTlwa0tZVUJ0ZnFvV2RSRlF1Z1JOS3VXY1R0c29jemxDVTFRWmNqTmo5WDhBaW1vSnJHZ1NHTk1wcnU3NXI1UQ?oc=5",
+      "summary": "AXA Mansard’s profit climbs to ₦7.8bn as capital base meets NAICOM’s threshold  Champion Newspapers LTD",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 10,
+      "date": "2026-08-03",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8727ed94fad8",
+      "title": "AfDB: West Africa misallocates capital despite $100 billion annual development needs",
+      "url": "https://nairametrics.com/2026/08/02/afdb-west-africa-misallocates-capital-despite-100-billion-annual-development-needs/",
+      "summary": "West Africa needs between $90 billion and $100 billion annually to meet its development goals, yet the region continues to struggle with poorly mobilised, fragmented and misallocated capital rather th",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 10,
+      "date": "2026-08-03",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4c1161214894",
+      "title": "OpenAI's super PAC is funding AI-generated news site attacking industry critics",
+      "url": "https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda",
+      "summary": "Article URL: https://www.modelrepublic.org/articles/the-reporters-at-this-news-site-are-ai-bots.-openai%E2%80%99s-super-pac-appears-to-be-using-it-to-advance-its-political-agenda\nComments URL: https:/",
+      "source": "Hacker News",
+      "angle": "Directly relevant to your Nigerian tech ecosystem work.",
+      "score": 10,
+      "date": "2026-08-03",
+      "tags": [
+        "ai",
+        "opportunity",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e6ffdba66c2f",
+      "title": "Portfolio investment into Nigeria: Understanding the flow, the assets, the risks, and the path forward",
+      "url": "https://nairametrics.com/2026/08/02/portfolio-investment-into-nigeria-understanding-the-flow-the-assets-the-risks-and-the-path-forward/",
+      "summary": "Foreign portfolio investment has become the main channel through which foreign capital is entering Nigeria in recent years. In 2025, total capital importation reached about $23.22 billion, with portfo",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 10,
+      "date": "2026-08-03",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "01bc2ad616af",
+      "title": "7 factors that could jolt Nigerian economy before 2026 ends",
+      "url": "https://nairametrics.com/2026/08/02/7-factors-that-could-jolt-nigerian-economy-before-2026-ends/",
+      "summary": "Nigeria’s economy has entered a new phase where the focus is shifting from stabilising key economic indicators to delivering real improvements in investment, productivity and living standards, accordi",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-08-03",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e4026d2b9147",
+      "title": "AXA Mansard Health Launches iMED: The International Medical Plan Covering Users Worldwide - bellanaija.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE83WTFfVFBJOUZ2ZHp1SWFscGZCTFNpdTViWkVNUmhsTEEwbGpOaUlCR1pMZ2NFLWpFZDFucnNzazEwUk9IYmt0TWM3V1ZHVXZMemx4ZjJ5WTNmQ0YtdXNjaWxR?oc=5",
+      "summary": "AXA Mansard Health Launches iMED: The International Medical Plan Covering Users Worldwide  bellanaija.com",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-08-03",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": "2026-05-07"
+    },
+    {
+      "id": "dbc1ca255860",
+      "title": "AXA Mansard unveils digital motor insurance inspection process - punchng.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONG8wMTRzV2FnOFZMU09nMkV3UFlPQjY2cnRPYU5GeF9XZnM2R3M1UkVzeGREcXhLM2FGaW0xRlphVUY2UG14TnJPSXZYYnhjblJwVHhwMWdsaUNXbzc0TXlIVjgyZDF1YzBQeFlrWmpsU2JnVjBtaV9PVnM2bDVuZHI2ejBsRzhwNGlr?oc=5",
+      "summary": "AXA Mansard unveils digital motor insurance inspection process  punchng.com",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-08-03",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": "2026-06-25"
+    },
+    {
+      "id": "bad94e7ff523",
+      "title": "AI migrated legacy COBOL programs to Java, bugs included",
+      "url": "https://arxiv.org/abs/2607.28271",
+      "summary": "Article URL: https://arxiv.org/abs/2607.28271\nComments URL: https://news.ycombinator.com/item?id=49150773\nPoints: 12\n# Comments: 8",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-08-03",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3c8ca84e1ed3",
+      "title": "Best-performing Nigerian stocks in July as two stocks crossed 100% gains",
+      "url": "https://nairametrics.com/2026/08/02/best-performing-nigerian-stocks-in-july-as-two-stocks-crossed-100-gains/",
+      "summary": "The Nigerian equities market staged a strong recovery in July 2026, with the benchmark NGX All-Share Index gaining 6.92% month-on-month to close at 245,283.68 points, up from 229,419.18 points at the ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-03",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d8ba2e175d61",
+      "title": "MMIA fire: Passenger processing, flights resume at Lagos airport after incident",
+      "url": "https://nairametrics.com/2026/08/02/mmia-fire-passenger-processing-flights-resume-at-lagos-airport-after-incident/",
+      "summary": "Passenger processing and flight operations have resumed at the Murtala Muhammed International Airport (MMIA), Lagos, following an incident initially reported as a fire at one of the airport's terminal",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-03",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "645f1a9cd4c5",
+      "title": "Meet the 12 CEOs running Nigeria’s Electricity Distribution Companies in 2026",
+      "url": "https://nairametrics.com/2026/08/02/meet-the-12-ceos-running-nigerias-electricity-distribution-companies-in-2026/",
+      "summary": "This article features the 12 CEOs leading Nigeria's top electricity distribution companies.\nThe post Meet the 12 CEOs running Nigeria’s Electricity Distribution Companies in 2026 appeared first on Nai",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-03",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e7ba243a2541",
+      "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+      "url": "https://frogs.vaguespac.es/",
+      "summary": "Article URL: https://frogs.vaguespac.es/\nComments URL: https://news.ycombinator.com/item?id=49147622\nPoints: 127\n# Comments: 59",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-08-03",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1fbf685b15d7",
+      "title": "Oando cuts H1 pre-tax loss by 77% as Q2 returns to profit",
+      "url": "https://nairametrics.com/2026/08/02/oando-cuts-h1-pre-tax-loss-by-77-as-q2-returns-to-profit/",
+      "summary": "Oando Plc has released its H1 2026 unaudited results, reporting a pre-tax loss of N32.84 billion for the first half of 2026, representing a 77.47% reduction from the N145.74 billion pre-tax loss recor",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-03",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2fe2969afc3d",
+      "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
+      "url": "https://qwen.ai/blog?id=qwen3.8",
+      "summary": "Article URL: https://qwen.ai/blog?id=qwen3.8\nComments URL: https://news.ycombinator.com/item?id=49150470\nPoints: 322\n# Comments: 118",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-08-03",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d61458431998",
+      "title": "TechCrunch Mobility: Two roads diverged — for robotaxis",
+      "url": "https://techcrunch.com/2026/08/02/techcrunch-mobility-two-roads-diverged-for-robotaxis/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-08-03",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5b087abc0024",
+      "title": "The global memory shortage hits the MacBook Air",
+      "url": "https://techcrunch.com/2026/08/02/the-global-memory-shortage-hits-the-macbook-air/",
+      "summary": "The global memory chip shortage appears to be affecting the availability of Apple’s most popular Mac.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-08-03",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3a9ec1cdd231",
+      "title": "These App Store hidden gems prove there’s still room for great software in the AI era",
+      "url": "https://techcrunch.com/2026/08/02/these-app-store-hidden-gems-prove-theres-still-room-for-great-software-in-the-ai-era/",
+      "summary": "Despite predictions that AI agents could make traditional apps obsolete, developers are shipping new software faster than ever. From smarter bookmarking tools and neighborhood marketplaces to digital ",
+      "source": "TechCrunch",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 6,
+      "date": "2026-08-03",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8dbd705f9636",
+      "title": "U.S. visa bond: Nigeria among countries under permanent $20,000 rule",
+      "url": "https://nairametrics.com/2026/08/02/u-s-visa-bond-nigeria-among-countries-under-permanent-20000-rule/",
+      "summary": "Nigeria is among the countries whose eligible travellers will remain subject to the United States' permanent visa bond programme, with consular officers empowered to require bonds of up to $20,000 for",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-03",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f9dd008a78c5",
+      "title": "CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K",
+      "url": "https://github.com/johnsonjh/cpm386",
+      "summary": "Article URL: https://github.com/johnsonjh/cpm386\nComments URL: https://news.ycombinator.com/item?id=49149898\nPoints: 52\n# Comments: 17",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-08-03",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0dfc1f29ef61",
+      "title": "Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM",
+      "url": "https://github.com/wie-project/kakehashi",
+      "summary": "Article URL: https://github.com/wie-project/kakehashi\nComments URL: https://news.ycombinator.com/item?id=49145937\nPoints: 203\n# Comments: 45",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-08-03",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "07711272b261",
+      "title": "Show HN: Make your Framework 12 sound like a creaky door",
+      "url": "https://github.com/ArcaEge/creakwork12",
+      "summary": "I was poking through the iio devices on my Framework the other day and turns out Framework 12s have a pretty accurate hinge angle sensor! So I made a version of LidAngleSensor (https://github.com/samh",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-08-03",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1d8f30893a97",
+      "title": "Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours",
+      "url": "https://github.com/pg83/shitty",
+      "summary": "Article URL: https://github.com/pg83/shitty\nComments URL: https://news.ycombinator.com/item?id=49149326\nPoints: 116\n# Comments: 111",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-08-03",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "453508f3099e",
+      "title": "Brent crude slides $16 in eight trading days as Trump revives Iran peace talks",
+      "url": "https://nairametrics.com/2026/08/03/brent-crude-slides-16-in-eight-trading-days-as-trump-revives-iran-peace-talks/",
+      "summary": "Brent crude has fallen by more than $16 per barrel in eight trading sessions, retreating sharply from the $100 level reached during the height of the latest Middle East conflict as signs of renewed pe",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-08-03",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2fdabeb78ee4",
+      "title": "Great Question (YC W21) Is Hiring Senior Demand Gen Manager",
+      "url": "https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager",
+      "summary": "Article URL: https://www.ycombinator.com/companies/great-question/jobs/YutDxyf-senior-demand-generation-manager\nComments URL: https://news.ycombinator.com/item?id=49143683\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-03",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "439647b46307",
+      "title": "How the words we teach English language learners changed",
+      "url": "https://pudding.cool/2026/07/essential-words/",
+      "summary": "Article URL: https://pudding.cool/2026/07/essential-words/\nComments URL: https://news.ycombinator.com/item?id=49145590\nPoints: 199\n# Comments: 152",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-03",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "96a03dd624b1",
+      "title": "Karpathy’s Pelican",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "summary": "https://xcancel.com/karpathy/status/2083749667410727319\n\nComments URL: https://news.ycombinator.com/item?id=49140998\nPoints: 518\n# Comments: 366",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-03",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "282fe349d918",
+      "title": "OPEC+ approves fourth consecutive 188,000 bpd output hike for September",
+      "url": "https://nairametrics.com/2026/08/02/opec-approves-fourth-consecutive-188000-bpd-output-hike-for-september/",
+      "summary": "The Organization of the Petroleum Exporting Countries and its allies (OPEC+) has approved a 188,000 barrels per day (bpd) increase in oil production quotas for September, marking the fourth consecutiv",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-08-03",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "bdf1cd516709",
+      "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
+      "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
+      "summary": "Article URL: https://www.rfc-editor.org/rfc/rfc9851.html\nComments URL: https://news.ycombinator.com/item?id=49150181\nPoints: 22\n# Comments: 7",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-03",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "575a0d8471f9",
+      "title": "Rooting, firmware analysis and persistent credentials of TP-Link TL-841N",
+      "url": "https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/",
+      "summary": "Article URL: https://blog.juni-mp4.com/posts/42/rooting-the-tplink-tl841n-pt1/\nComments URL: https://news.ycombinator.com/item?id=49145883\nPoints: 96\n# Comments: 18",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-03",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e0858e0339af",
+      "title": "Sam Altman and AI’s decel debate",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+      "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-03",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8fa5a3e41398",
+      "title": "Show HN: Isopolis – Isometric pixel map of SF",
+      "url": "https://sf.isopolis.city/",
+      "summary": "Article URL: https://sf.isopolis.city/\nComments URL: https://news.ycombinator.com/item?id=49149966\nPoints: 148\n# Comments: 37",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-03",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c816fde9d7c4",
+      "title": "Show HN: NixOS-DGX-Spark – Nix and NixOS on the DGX Spark",
+      "url": "https://github.com/graham33/nixos-dgx-spark",
+      "summary": "Try DGX Spark playbooks using Nix on DGX OS, or install NixOS on your DGX Spark for the full Nix experience. The repository provides USB images and a NixOS module with settings for DGX Spark systems.T",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-03",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "372bcd6b7814",
+      "title": "Show HN: ssh ssh.place",
+      "url": "https://ssh.place",
+      "summary": "Article URL: https://ssh.place\nComments URL: https://news.ycombinator.com/item?id=49149805\nPoints: 82\n# Comments: 39",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-03",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0528b2a59b77",
+      "title": "SwiftUI After 7 Years",
+      "url": "https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/",
+      "summary": "Article URL: https://ykvm.com/2026/07/swiftui-a-story-of-mediocrity/\nComments URL: https://news.ycombinator.com/item?id=49147263\nPoints: 157\n# Comments: 127",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-03",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "dda08ceeefc2",
+      "title": "The Computational Theory of Mind (2015)",
+      "url": "https://plato.stanford.edu/entries/computational-mind/",
+      "summary": "Article URL: https://plato.stanford.edu/entries/computational-mind/\nComments URL: https://news.ycombinator.com/item?id=49149125\nPoints: 48\n# Comments: 29",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-03",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ab46f112b6e2",
+      "title": "The myth of Snow Leopard",
+      "url": "https://www.rubenerd.au/the-myth-of-snow-leopard/",
+      "summary": "Article URL: https://www.rubenerd.au/the-myth-of-snow-leopard/\nComments URL: https://news.ycombinator.com/item?id=49146960\nPoints: 74\n# Comments: 59",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-03",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "06f69b25090b",
+      "title": "TinyNES Review – A Super Niche NES Console",
+      "url": "https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/",
+      "summary": "Article URL: https://blog.lon.tv/2023/02/05/tinynes-review-a-super-niche-nes-console/\nComments URL: https://news.ycombinator.com/item?id=49147760\nPoints: 45\n# Comments: 13",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-03",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
     }
   ],
   "deadlines": [
-    {
-      "title": "The Brandtech Group AI for Good Scholarship to attend 2026 One Young World Summit in CapeTown, South Africa (Fully Funded)",
-      "date": "2026-08-02",
-      "first_seen": "2026-07-02",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/the-brandtech-group-ai-for-good-scholarship-to-attend-2026/",
-      "article_id": "3d04636ade92"
-    },
     {
       "title": "AVoHC Kofi Annan Scholars Program – Financial Specialist – Africa CDC for young African professionals (Fully Funded)",
       "date": "2026-08-03",
