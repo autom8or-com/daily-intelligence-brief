@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-08-30T06:00:42Z",
-    "total_articles": 7311,
-    "total_days": 103
+    "last_updated": "2026-08-31T06:01:09Z",
+    "total_articles": 7352,
+    "total_days": 104
   },
   "articles": [
     {
@@ -104686,17 +104686,589 @@
         "tech"
       ],
       "duplicate_of": null
+    },
+    {
+      "id": "c8952f776692",
+      "title": "Why Nigerian fintechs want to become banks—Sycamore CEO",
+      "url": "https://nairametrics.com/2026/08/30/why-nigerian-fintechs-want-to-become-banks-sycamore-ceo/",
+      "summary": "In this exclusive interview with Nairametrics, the Sycamore founder spoke about what changed, what he was wrong about when he started, and why the real contest in African fintech has quietly moved fro",
+      "source": "Nairametrics",
+      "angle": "Nigerian ecosystem pulse — relevant for enterprise consulting and PORA positioning.",
+      "score": 10,
+      "date": "2026-08-31",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "55fa4e6611eb",
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "summary": "Article URL: https://sander.ai/2026/08/24/continuous-dlms.html\nComments URL: https://news.ycombinator.com/item?id=49502611\nPoints: 74\n# Comments: 30",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 9,
+      "date": "2026-08-31",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f455212dbe58",
+      "title": "Coronation Art Gallery Opens The Value of Belief to Resounding Acclaim",
+      "url": "https://nairametrics.com/2026/08/31/coronation-art-gallery-opens-the-value-of-belief-to-resounding-acclaim/",
+      "summary": "Coronation Art Gallery last night officially opened The Value of Belief — Collectors, Conviction and the Making of Cultural Futures, welcoming guests to an evening that marked the beginning of its mos",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-08-31",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "72b0c8d77644",
+      "title": "NDLEA intercepts N6.2 billion worth of ‘Jihadi drug’ and opioids at Lagos airport",
+      "url": "https://nairametrics.com/2026/08/30/ndlea-intercepts-n6-2-billion-worth-of-jihadi-drug-and-opioids-at-lagos-airport/",
+      "summary": "Operatives of the National Drug Law Enforcement Agency (NDLEA) have intercepted consignments of captagon, popularly known as the \"Jihadi drug,\" and millions of opioid pills worth more than N6.2 billio",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-08-31",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a8d7b0792cab",
+      "title": "Nigeria’s remittances hit record $947 million in July, near CBN’s $1 billion target",
+      "url": "https://nairametrics.com/2026/08/30/nigerias-remittances-hit-record-947-million-in-july-near-cbns-1-billion-target/",
+      "summary": "Nigeria recorded $947 million in remittance inflows through International Money Transfer Operators (IMTOs) in July 2026, the highest monthly inflow ever recorded through formal channels.\nThe post Nige",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-08-31",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5a1ce6de08a6",
+      "title": "How to build a diffusion language model",
+      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+      "summary": "Article URL: https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/\nComments URL: https://news.ycombinator.com/item?id=49503956\nPoints: 45\n# Comments: 4",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 7,
+      "date": "2026-08-31",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d02263c8e865",
+      "title": "Liux’s Big microcar bets on sustainability to take on Chinese rivals",
+      "url": "https://techcrunch.com/2026/08/30/liuxs-big-microcar-bets-on-sustainability-to-take-on-chinese-rivals/",
+      "summary": "The Liux Big microcar is made in Spain. The startup thinks it can compete in a crowded market with its tiny electric car built around sustainability.",
+      "source": "TechCrunch",
+      "angle": "Directly relevant to your Nigerian tech ecosystem work.",
+      "score": 7,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "372e39e2abb6",
+      "title": "Meet 10 female executives shaping Nigeria’s telecoms industry in 2026",
+      "url": "https://nairametrics.com/2026/08/30/meet-10-female-executives-shaping-nigerias-telecoms-industry-in-2026/",
+      "summary": "From technology and enterprise services to finance, marketing, customer experience and corporate governance, these executives are helping shape the next phase of Nigeria’s telecommunications industry.",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-08-31",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "00b43c65290c",
+      "title": "Show HN: Prove your code produced your claims without making reviewers rerun it",
+      "url": "https://github.com/27-GROUP/kveritas-go/",
+      "summary": "Article URL: https://github.com/27-GROUP/kveritas-go/\nComments URL: https://news.ycombinator.com/item?id=49505043\nPoints: 4\n# Comments: 0",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 7,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a1da785e47ad",
+      "title": "The Movers: Inside Moniepoint’s resourceful team of founders and experienced hands",
+      "url": "https://technext24.com/explainer/inside-moniepoint-resourceful-founders/",
+      "summary": "Nigeria-based and Africa’s fastest-growing fintech, Moniepoint Inc., has risen to stardom over the past few years. Founded in…",
+      "source": "Technext",
+      "angle": "Nigerian ecosystem pulse — relevant for enterprise consulting and PORA positioning.",
+      "score": 7,
+      "date": "2026-08-31",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9142a73ab7c5",
+      "title": "CPPE urges NMDPRA to restrict fuel imports to verified supply shortfalls",
+      "url": "https://nairametrics.com/2026/08/30/cppe-urges-nmdpra-to-restrict-fuel-imports-to-verified-supply-shortfalls/",
+      "summary": "The Centre for the Promotion of Private Enterprise (CPPE) has urged the Nigerian Midstream and Downstream Petroleum Regulatory Authority (NMDPRA) to restrict petroleum-product import approvals to veri",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-31",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d0ae5e4b5833",
+      "title": "Dangote Refinery may cut petrol supplies to import-dependent marketers over quality",
+      "url": "https://nairametrics.com/2026/08/31/dangote-refinery-may-cut-petrol-supplies-to-import-dependent-marketers-over-quality/",
+      "summary": "Dangote Petroleum Refinery and Petrochemicals may restrict petrol supplies to major marketers that continue to import Premium Motor Spirit (PMS) into Nigeria, amid concerns over product quality and ma",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-31",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "13d7acf6801b",
+      "title": "FG targets 20,000 annual medical admissions, plans simulation centres nationwide",
+      "url": "https://nairametrics.com/2026/08/30/fg-targets-20000-annual-medical-admissions-plans-simulation-centres-nationwide/",
+      "summary": "The Federal Government is targeting 20,000 annual admissions into Nigerian medical schools within the next three years and plans to establish medical simulation centres across the country's six geo-po",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-31",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b187ad4db724",
+      "title": "Haiku R1/beta6 has been released",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "summary": "Article URL: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6\nComments URL: https://news.ycombinator.com/item?id=49499867\nPoints: 283\n# Comments: 85",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5dc01d5252f8",
+      "title": "Lagos, Ikoyi-Obalende LCDA move to tackle illegal space encroachment",
+      "url": "https://nairametrics.com/2026/08/30/lagos-ikoyi-obalende-lcda-move-to-tackle-illegal-space-encroachment/",
+      "summary": "The Lagos State Government, through the Lagos State Informal Space Management Authority (LASISMA) and the Ikoyi-Obalende Local Council Development Area (LCDA), has moved to tackle illegal encroachment",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-31",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7390b25cf3ca",
+      "title": "Matrox: Graphics for Professionals",
+      "url": "https://www.abortretry.fail/p/matrox",
+      "summary": "Article URL: https://www.abortretry.fail/p/matrox\nComments URL: https://news.ycombinator.com/item?id=49503934\nPoints: 68\n# Comments: 14",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "aa0dfb95abc4",
+      "title": "Navy deactivates two illegal refining sites in Rivers, recovers 34,000 litres of diesel",
+      "url": "https://nairametrics.com/2026/08/30/navy-deactivates-two-illegal-refining-sites-in-rivers-recovers-34000-litres-of-diesel/",
+      "summary": "The Nigerian Navy has deactivated two illegal refining sites in Rivers State and recovered approximately 34,000 litres of suspected illegally refined diesel.\nThe post Navy deactivates two illegal refi",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-31",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2dabc258a26d",
+      "title": "NiMet forecasts thunderstorms, moderate rains from Monday to Wednesday",
+      "url": "https://nairametrics.com/2026/08/31/nimet-forecasts-thunderstorms-moderate-rains-from-monday-to-wednesday/",
+      "summary": "The Nigerian Meteorological Agency (NiMet) has forecast thunderstorms and moderate rains across several parts of Nigeria from Monday to Wednesday, with the southern region expected to experience wides",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-08-31",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6d6bf9830b82",
+      "title": "OpenClaw 2.0, Accidentally",
+      "url": "https://openclaw.ai/blog/openclaw-2-accidentally",
+      "summary": "Article URL: https://openclaw.ai/blog/openclaw-2-accidentally\nComments URL: https://news.ycombinator.com/item?id=49505310\nPoints: 23\n# Comments: 13",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1e4e278e7f02",
+      "title": "P99 0 ms* autocomplete for 240M domain names",
+      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "summary": "Article URL: https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names\nComments URL: https://news.ycombinator.com/item?id=49505219\nPoints: 46\n# Comments: 22",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e10099167062",
+      "title": "TechCrunch Mobility: The hidden human cost of robotaxis",
+      "url": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-08-31",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ac1a4d53b92b",
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "summary": "Article URL: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/\nComments URL: https://news.ycombinator.com/item?id=49504625\nPoints: 114\n# Comments: 42",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-08-31",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2538363609b0",
+      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
+      "url": "https://github.com/KodeMunkie/sm750hdmifb",
+      "summary": "Article URL: https://github.com/KodeMunkie/sm750hdmifb\nComments URL: https://news.ycombinator.com/item?id=49501611\nPoints: 96\n# Comments: 35",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 5,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4e83dd8b4ba4",
+      "title": "Caterpillar is bringing to AI deployment what it learned from automating mining",
+      "url": "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+      "summary": "Caterpillar has spent decades putting autonomous machines to work at remote mining sites. It's now bringing that experience to AI deployment.",
+      "source": "TechCrunch",
+      "angle": "Optimize self-hosted infra; extend your 70% cloud cost reduction.",
+      "score": 4,
+      "date": "2026-08-31",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1d5b0564236b",
+      "title": "FG targets 2031 completion for Trans-Saharan Highway",
+      "url": "https://nairametrics.com/2026/08/30/fg-targets-2031-completion-for-trans-saharan-highway/",
+      "summary": "The Federal Government is targeting 2031 for the completion of the Trans-Sahara Superhighway, which is expected to improve connectivity, security, agriculture and commerce across its corridor.\nThe pos",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 4,
+      "date": "2026-08-31",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "de6d77108cd7",
+      "title": "Startup Anti-Patterns",
+      "url": "https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/",
+      "summary": "Article URL: https://www.itamarnovick.com/intro-to-startup-anti-pattern-series/\nComments URL: https://news.ycombinator.com/item?id=49499831\nPoints: 124\n# Comments: 65",
+      "source": "Hacker News",
+      "angle": "Directly relevant to your Nigerian tech ecosystem work.",
+      "score": 4,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4b5aa4b93708",
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+      "summary": "Article URL: https://www.qubes-os.org/news/2026/08/29/qsb-118/\nComments URL: https://news.ycombinator.com/item?id=49496918\nPoints: 217\n# Comments: 89",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "cf09567a5cb2",
+      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "url": "https://komoroske.com/slime-mold/",
+      "summary": "Article URL: https://komoroske.com/slime-mold/\nComments URL: https://news.ycombinator.com/item?id=49499891\nPoints: 144\n# Comments: 45",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "64e459fd2fd3",
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+      "summary": "Article URL: https://www.righto.com/2026/08/spacelab-core-memory.html\nComments URL: https://news.ycombinator.com/item?id=49502214\nPoints: 97\n# Comments: 16",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9d9de6c67365",
+      "title": "Creepy Crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "summary": "Article URL: https://people.kernel.org/monsieuricon/creepy-crawlies\nComments URL: https://news.ycombinator.com/item?id=49491791\nPoints: 1027\n# Comments: 515",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c59d6ede37a1",
+      "title": "Dangote Sugar, 28% below its high, trades at 493x. Is it cheap?",
+      "url": "https://nairametrics.com/2026/08/30/dangote-sugar-28-below-its-high-trades-at-493x-is-it-cheap/",
+      "summary": "Dangote Sugar Refinery Plc stock closed at N69 as of August 28, 2026, about 28% below its 52-week high of N95.80. For some stocks, a decline of that size leaves them cheaper\nThe post Dangote Sugar, 28",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-08-31",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "44f3132bd5a2",
+      "title": "Grindr wants to be the everything app for gay men; investors are still deciding whether it can pull it off",
+      "url": "https://techcrunch.com/2026/08/30/grindr-wants-to-be-the-everything-app-for-gay-men-investors-are-still-deciding-whether-it-can-pull-it-off/",
+      "summary": "George Arison is done letting Wall Street's \"Grindr discount\" go unchallenged — in a wide-ranging Q&A, the CEO walks us through how AI, a controversial $350-plus EDGE tier, and a bet on healthcare and",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7912a78a9ede",
+      "title": "Hacking IKEA Furniture",
+      "url": "https://greenlightning.eu/diy/hacking-ikea-furniture/",
+      "summary": "Article URL: https://greenlightning.eu/diy/hacking-ikea-furniture/\nComments URL: https://news.ycombinator.com/item?id=49497810\nPoints: 290\n# Comments: 197",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "44cd2d1679f9",
+      "title": "Internet centralization and the original sin of NAT",
+      "url": "https://dreamstation.systems/personal/ntppost.html",
+      "summary": "Article URL: https://dreamstation.systems/personal/ntppost.html\nComments URL: https://news.ycombinator.com/item?id=49504905\nPoints: 26\n# Comments: 13",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c95e9da9ed9e",
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "url": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already trigg",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "196a409453dc",
+      "title": "NABTEB sets deadline for 2026 November/December exam registration",
+      "url": "https://nairametrics.com/2026/08/30/nabteb-sets-deadline-for-2026-november-december-exam-registration/",
+      "summary": "The National Business and Technical Examinations Board (NABTEB) has set September 10, 2026, as the deadline for registration for its November/December certificate examinations.\nThe post NABTEB sets de",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-08-31",
+      "tags": [
+        "nigeria",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "deb51dec662c",
+      "title": "Racter (1984)",
+      "url": "https://www.ubu.com/historical/racter/index.html",
+      "summary": "Article URL: https://www.ubu.com/historical/racter/index.html\nComments URL: https://news.ycombinator.com/item?id=49483622\nPoints: 20\n# Comments: 6",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9b03c31eaeea",
+      "title": "Tinubu begins three-week annual leave, departs Abuja for Europe",
+      "url": "https://nairametrics.com/2026/08/30/tinubu-begins-three-week-annual-leave-departs-abuja-for-europe/",
+      "summary": "President Bola Ahmed Tinubu has begun a three-week annual leave, departing Abuja for Europe on Sunday as part of his vacation.\nThe post Tinubu begins three-week annual leave, departs Abuja for Europe ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-08-31",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "834291612ab3",
+      "title": "Transfer files over an Ethernet patch cable",
+      "url": "https://maurycyz.com/misc/etherfiles/",
+      "summary": "Article URL: https://maurycyz.com/misc/etherfiles/\nComments URL: https://news.ycombinator.com/item?id=49505217\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "471b712bff0b",
+      "title": "Zig: Pointer Stability for ArrayLists",
+      "url": "https://ziglang.org/devlog/2026/#2026-08-27",
+      "summary": "Article URL: https://ziglang.org/devlog/2026/#2026-08-27\nComments URL: https://news.ycombinator.com/item?id=49499095\nPoints: 97\n# Comments: 65",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "db546ca80179",
+      "title": "“I just chose words carefully”",
+      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "summary": "Article URL: https://unsung.aresluna.org/i-just-chose-words-carefully/\nComments URL: https://news.ycombinator.com/item?id=49503601\nPoints: 524\n# Comments: 129",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-08-31",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
     }
   ],
   "deadlines": [
-    {
-      "title": "Fulbright South African Research Scholar Program 2027/2028 for young South Africans (Fully Funded to the United States)",
-      "date": "2026-08-30",
-      "first_seen": "2026-05-08",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/fulbright-south-african-research-scholar-program-2027-2028/",
-      "article_id": "5232276e9eb8"
-    },
     {
       "title": "Google Africa Applied AI Lab Program for African AI entrepreneurs and researchers.",
       "date": "2026-08-31",
