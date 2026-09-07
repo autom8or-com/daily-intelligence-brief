@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-09-06T06:00:33Z",
-    "total_articles": 7817,
-    "total_days": 110
+    "last_updated": "2026-09-07T06:01:04Z",
+    "total_articles": 7844,
+    "total_days": 111
   },
   "articles": [
     {
@@ -111959,57 +111959,395 @@
         "tech"
       ],
       "duplicate_of": null
+    },
+    {
+      "id": "7f1afacf947c",
+      "title": "Next Wave: The perfect price discrimination",
+      "url": "https://techcabal.com/2026/09/06/next-wave-perfect-price-discrimination/",
+      "summary": "Big tech platforms across the continent are quietly deploying predictive software to shape consumer reality. Jumia, the pan-African e-commerce giant, relies heavily on personalised recommendation syst",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 16,
+      "date": "2026-09-07",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7a29d695bc09",
+      "title": "AXA, Allianz Dominate AI Maturity Rankings as Industry Transformation Accelerates - riskandinsurance.com",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMldYR3JUX2Y4a0liN2kxRHpXY2lmRTBmd3NYN3ZFcmFybWlaR2FPRHc3b0pYb2FDZmV3SWk0b1pXSjM3Tzk4eW1IOXVRSHZfOVpjWmhidVVjcXI1cEcyWFFTNVpfY1lZUUJvLVdoYUxWNFI1WjdHamg5cG5wWUg2YVQyY2VlMXBpNldVSWpSaW82SW9SX2RKaGpaQjdwVHh0LVRxMVBPTzljb2pPakNj?oc=5",
+      "summary": "AXA, Allianz Dominate AI Maturity Rankings as Industry Transformation Accelerates  riskandinsurance.com",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-09-07",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": "2026-05-07"
+    },
+    {
+      "id": "a1037988e2c9",
+      "title": "Leyla Delic Appointed Chief Technology and AI Officer at AXA XL - riskandinsurance.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTRIMTJ6ZUtkVk04N1ozSVEwcDFxbGxsajZaZ0htU3plNk5SX2hpTGtjakxwd2hVazVxYkk1LXEybFk4cjlkaUxsNGU3TlQ2RGswcUlUY29mSWpmeF9vc1NLcEl4ZE1tSW1FMGVTc3pDVXgzWFZSdVMyUUlCTEtweHV1WUpaRm9ocUtrMnlGWVpaX0pFSTdldA?oc=5",
+      "summary": "Leyla Delic Appointed Chief Technology and AI Officer at AXA XL  riskandinsurance.com",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-09-07",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": "2026-05-12"
+    },
+    {
+      "id": "daa778ff94c4",
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind/",
+      "summary": "Article URL: https://openai.com/index/an-alien-mind/\nComments URL: https://news.ycombinator.com/item?id=49588080\nPoints: 378\n# Comments: 332",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-09-07",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "088b22d770eb",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+      "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "source": "TechCrunch",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 6,
+      "date": "2026-09-07",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d921731591ae",
+      "title": "I refused to train the AI that could replace me",
+      "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/",
+      "summary": "Article URL: https://restofworld.org/2026/ai-training-jobs-expert-replacement/\nComments URL: https://news.ycombinator.com/item?id=49593959\nPoints: 10\n# Comments: 0",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-09-07",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "aeb7f829a077",
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "summary": "Article URL: https://austinhenley.com/blog/python1024.html\nComments URL: https://news.ycombinator.com/item?id=49591876\nPoints: 166\n# Comments: 61",
+      "source": "Hacker News",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-09-07",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5b044eca197c",
+      "title": "Next Wave: Why Uber broke in Nigeria",
+      "url": "https://techcabal.com/2026/09/06/next-wave-why-uber-broke-in-nigeria/",
+      "summary": "Uber’s departure from Nigeria and Uganda signals the end of Silicon Valley’s unhedged expansion across Africa.",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-09-07",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "61446d226eff",
+      "title": "Nvidia's Jensen Huang says 'AGI has arrived' and congratulates OpenAI",
+      "url": "https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9",
+      "summary": "Article URL: https://www.businessinsider.com/nvidia-jensen-huang-agi-openai-astra-ai-2026-9\nComments URL: https://news.ycombinator.com/item?id=49594189\nPoints: 10\n# Comments: 6",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-09-07",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "89f944811d1f",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "summary": "Article URL: https://openai.com/index/research-acceleration-view-inside-openai\nComments URL: https://news.ycombinator.com/item?id=49587217\nPoints: 149\n# Comments: 96",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-09-07",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ce919e0f0bf2",
+      "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+      "url": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-09-07",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "41262e40e13c",
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "summary": "Article URL: https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/\nComments URL: https://news.ycombinator.com/item?id=49585644\nPoints: 624\n# Comments: 398",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 6,
+      "date": "2026-09-07",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d9240c9d4b54",
+      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
+      "url": "https://github.com/marsbos/mador",
+      "summary": "Article URL: https://github.com/marsbos/mador\nComments URL: https://news.ycombinator.com/item?id=49590738\nPoints: 84\n# Comments: 23",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 5,
+      "date": "2026-09-07",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0dfa939c076d",
+      "title": "Has anybody seen my keys? A key-hierarchy strategy for rack-level security",
+      "url": "https://rfd.shared.oxide.computer/rfd/0301",
+      "summary": "Article URL: https://rfd.shared.oxide.computer/rfd/0301\nComments URL: https://news.ycombinator.com/item?id=49593066\nPoints: 8\n# Comments: 0",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-09-07",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d3dfa9996b28",
+      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+      "url": "https://github.com/Staatsgeheim/MathKernel",
+      "summary": "Article URL: https://github.com/Staatsgeheim/MathKernel\nComments URL: https://news.ycombinator.com/item?id=49592366\nPoints: 29\n# Comments: 5",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-09-07",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3f8d8c9c520c",
+      "title": "Nitter and XCancel resume service after legal advice",
+      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "summary": "https://github.com/zedeus/nitterhttps://xcancel.com/cdclegalhttps://nitter.net/https://xcancel.com/\n\nComments URL: https://news.ycombinator.com/item?id=49588988\nPoints: 597\n# Comments: 294",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-09-07",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "677772548aca",
+      "title": "Asahi Linux on M3",
+      "url": "https://asahilinux.org/2026/09/m2-episode-1/",
+      "summary": "https://www.phoronix.com/news/Asahi-Linux-Official-M3\n\nComments URL: https://news.ycombinator.com/item?id=49586698\nPoints: 398\n# Comments: 242",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-07",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "97e08a951849",
+      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117225539756835649\nComments URL: https://news.ycombinator.com/item?id=49590512\nPoints: 244\n# Comments: 183",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-07",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "551f24132e62",
+      "title": "Harnessing the Universal Geometry of Embeddings",
+      "url": "https://arxiv.org/abs/2505.12540",
+      "summary": "Article URL: https://arxiv.org/abs/2505.12540\nComments URL: https://news.ycombinator.com/item?id=49590595\nPoints: 64\n# Comments: 23",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-07",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3b76b7e6e437",
+      "title": "Is mathematics about to enter the conservatory?",
+      "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
+      "summary": "Article URL: https://mbmccoy.dev/posts/mathematical-conservatory/\nComments URL: https://news.ycombinator.com/item?id=49591793\nPoints: 27\n# Comments: 45",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-07",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "be73fbb6ce89",
+      "title": "It took a year to ship WebAssembly in Anubis",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "summary": "Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/\nComments URL: https://news.ycombinator.com/item?id=49590611\nPoints: 206\n# Comments: 109",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-07",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1c0660c085ba",
+      "title": "Keep Our Servers Running: Your Recurring Donation Goes 3X This September",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "summary": "Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/\nComments URL: https://news.ycombinator.com/item?id=49593563\nPoints: 155\n# Comm",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-07",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6e73a6fa678b",
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+      "summary": "Article URL: https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and\nComments URL: https://news.ycombinator.com/item?id=49587636\nPoints: 122\n# Comments: 11",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-07",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0ea50337d5e0",
+      "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
+      "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
+      "summary": "Article URL: https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm\nComments URL: https://news.ycombinator.com/item?id=49588466\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-07",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "bfd2b11c0817",
+      "title": "Show HN: GET Together – A social network where you don't need POST to Post",
+      "url": "https://gettogether.dev",
+      "summary": "Article URL: https://gettogether.dev\nComments URL: https://news.ycombinator.com/item?id=49592840\nPoints: 26\n# Comments: 10",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-07",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "83a9e1fa2e55",
+      "title": "Signing TLS handshakes inside a TPM",
+      "url": "https://bschaatsbergen.com/posts/go-tpm-tls/",
+      "summary": "Article URL: https://bschaatsbergen.com/posts/go-tpm-tls/\nComments URL: https://news.ycombinator.com/item?id=49590946\nPoints: 15\n# Comments: 5",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-07",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "34df906daaf9",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+      "summary": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-07",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
     }
   ],
   "deadlines": [
-    {
-      "title": "The AERC-World Bank Visiting Scholars Programme 2026/2027 for African Researchers.",
-      "date": "2026-09-06",
-      "first_seen": "2026-08-04",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/the-aerc-world-bank-visiting-scholars-programme-2026-2027-for-african-researchers/",
-      "article_id": "2ef2fd65622b"
-    },
-    {
-      "title": "United Nations OHCHR Indigenous Fellowship Programme 2027– Human Rights Training in Geneva Switzerland (Fully Funded)",
-      "date": "2026-09-06",
-      "first_seen": "2026-08-05",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/united-nations-ohchr-indigenous-fellowship-programme-2027-human-rights-training/",
-      "article_id": "5d49501a3aca"
-    },
-    {
-      "title": "The Internews’ Earth Journalism Network (EJN) 2026 Virtual Media Workshop on Mining, Environment and Human Rights Reporting in Africa",
-      "date": "2026-09-06",
-      "first_seen": "2026-08-06",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/the-internews-earth-journalism-network-ejn-2026-virtual-media-workshop-on-mining-environment-and-human-rights-reporting-in-africa/",
-      "article_id": "b72c8d871ac4"
-    },
-    {
-      "title": "Kenya Artificial Intelligence Accelerator Programme 2026 for Kenyan Startups and Innovators",
-      "date": "2026-09-06",
-      "first_seen": "2026-08-26",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/kenya-artificial-intelligence-accelerator-programme-2026-for-kenyan-startups-and-innovators/",
-      "article_id": "3debc6536b08"
-    },
-    {
-      "title": "The University of British Columbia Mastercard Foundation Scholars Program 2027/2028 for study in Canada (Fully Funded)",
-      "date": "2026-09-06",
-      "first_seen": "2026-09-01",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/university-of-british-columbia-mastercard-foundation-scholars-program-2027/",
-      "article_id": "152f55723542"
-    },
-    {
-      "title": "The AREF-MRC Towards Leadership Programme 2026/2027 for Emerging African Scientists (Fully Funded)",
-      "date": "2026-09-06",
-      "first_seen": "2026-09-03",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/the-aref-mrc-towards-leadership-programme-2026-2027/",
-      "article_id": "27a03ad0fa34"
-    },
     {
       "title": "The African Center for Economic Transformation (ACET) 2027 Young Leaders in Research (YLR) Grant for Early-career researchers ($15,000 in funding)",
       "date": "2026-09-07",
