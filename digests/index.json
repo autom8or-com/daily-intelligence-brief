@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-09-27T06:01:14Z",
-    "total_articles": 9297,
-    "total_days": 131
+    "last_updated": "2026-09-28T06:00:49Z",
+    "total_articles": 9340,
+    "total_days": 132
   },
   "articles": [
     {
@@ -133198,17 +133198,615 @@
         "tech"
       ],
       "duplicate_of": null
+    },
+    {
+      "id": "1ed8031003da",
+      "title": "CBN faces N8.57 trillion liquidity surge as OMO, Bond maturities hit banking system",
+      "url": "https://nairametrics.com/2026/09/27/cbn-faces-n8-57-trillion-liquidity-surge-as-omo-bond-maturities-hit-banking-system/",
+      "summary": "Nigeria’s apex bank could face significant upsurge in system liquidity up to about N8.57 trillion this week beginning Monday, September 28, following a potential N2.59 trillion injection from maturing",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 12,
+      "date": "2026-09-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a94ed6532699",
+      "title": "Delta drives N67.6 billion rise in states’ domestic debt to N4.59 trillion in Q2 2026",
+      "url": "https://nairametrics.com/2026/09/28/delta-drives-n67-6-billion-rise-in-states-domestic-debt-to-n4-59-trillion-in-q2-2026/",
+      "summary": "Nigeria’s 36 states and the Federal Capital Territory (FCT) increased their combined domestic debt by N67.57 billion to N4.59 trillion in the second quarter of 2026, driven largely by a sharp rise in ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 10,
+      "date": "2026-09-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5d9f0c5269b5",
+      "title": "Insurer links insurance to financial security with ‘Culture of Care’ campaign - guardian.ng",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRUdLcXNXR0ktVnE5dnFfV2RCTEthWnB5V1h1WUxyd2tLWUxtZGstcW04bGJLb0ZXT3ZrcHpvVnY3Nk1SRVFRMjUxUDF6YmdFb1BoNzhiSWl1cHY4RE5xTEhfYjh4Vms0NEl0Z2JxdGNObUh1bHBqX29NNFBRVEpYeVVobW1tbDBfeUFTajdNV2FpZUFKa082NjRjdjVKbXRGMVJpWHNnR2Z3MmtvXzVpME01RGs?oc=5",
+      "summary": "Insurer links insurance to financial security with ‘Culture of Care’ campaign  guardian.ng",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-09-28",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": "2026-09-19"
+    },
+    {
+      "id": "c523d38bebf0",
+      "title": "TabPFN and TabICL vs. tuned XGBoost: the model that doesn't train won 14/14",
+      "url": "https://efraingaray.com/en/blog/tabpfn-vs-xgboost/",
+      "summary": "Article URL: https://efraingaray.com/en/blog/tabpfn-vs-xgboost/\nComments URL: https://news.ycombinator.com/item?id=49872864\nPoints: 12\n# Comments: 5",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 9,
+      "date": "2026-09-28",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c3e8b3d4c58f",
+      "title": "Don't couple your Go code to GitHub",
+      "url": "https://iain.rocks/blog/dont-couple-your-go-code-to-github",
+      "summary": "Article URL: https://iain.rocks/blog/dont-couple-your-go-code-to-github\nComments URL: https://news.ycombinator.com/item?id=49868404\nPoints: 202\n# Comments: 94",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 7,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "83383e9f0d8e",
+      "title": "Thinking Fast and Slow in AI: The Role of Metacognition",
+      "url": "https://arxiv.org/abs/2110.01834",
+      "summary": "Article URL: https://arxiv.org/abs/2110.01834\nComments URL: https://news.ycombinator.com/item?id=49873241\nPoints: 43\n# Comments: 4",
+      "source": "Hacker News",
+      "angle": "Directly relevant to your Nigerian tech ecosystem work.",
+      "score": 7,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "079021e085ac",
+      "title": "Ember-1",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "summary": "Article URL: https://fireworks.ai/blog/ember-1\nComments URL: https://news.ycombinator.com/item?id=49868830\nPoints: 412\n# Comments: 199",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "347dd46eefea",
+      "title": "FG approves upgrades for four ports, six new deep seaports",
+      "url": "https://nairametrics.com/2026/09/27/fg-approves-upgrades-for-four-ports-six-new-deep-seaports/",
+      "summary": "The Federal Government has approved the modernisation and upgrade of four ports outside Lagos, alongside the development of six deep seaports\nThe post FG approves upgrades for four ports, six new deep",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-09-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b34bcc7c1df2",
+      "title": "Guinness World Record: Nollywood film ‘Black Market’ debuts with 51,000 viewers in Lagos",
+      "url": "https://nairametrics.com/2026/09/27/guinness-world-record-nollywood-film-black-market-debuts-with-51000-viewers-in-lagos/",
+      "summary": "Nollywood crime thriller Black Market has set a Guinness World Record for the largest attendance at a film screening at a single venue, after 51,000 people watched the movie at Tafawa Balewa Square (T",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-09-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a8d1ff33e958",
+      "title": "Imp is a full port of DSPy to the BEAM",
+      "url": "https://github.com/deepfates/imp",
+      "summary": "https://hex.pm/packages/imphttps://dspy.ai/current/\n\nComments URL: https://news.ycombinator.com/item?id=49869995\nPoints: 65\n# Comments: 6",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ec64548c32fe",
+      "title": "Meet 12 Female Chairpersons of NGX largest companies",
+      "url": "https://nairametrics.com/2026/09/27/meet-12-female-chairpersons-of-ngx-largest-companies/",
+      "summary": "More women are taking up influential leadership positions in Nigeria’s corporate sector, with the shift becoming increasingly visible on the...\nThe post Meet 12 Female Chairpersons of NGX largest comp",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-09-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "39cc894f6105",
+      "title": "Resident doctors give FG two-week ultimatum to avert strike",
+      "url": "https://nairametrics.com/2026/09/27/resident-doctors-give-fg-two-week-ultimatum-to-avert-strike/",
+      "summary": "The Nigerian Association of Resident Doctors (NARD) has given the Federal Government two weeks to resolve outstanding welfare and...\nThe post Resident doctors give FG two-week ultimatum to avert strik",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-09-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c5aa645ce86d",
+      "title": "TechCrunch Mobility: AV companies pick their lanes",
+      "url": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-09-28",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ea1b1c862d79",
+      "title": "Tinubu extends working vacation again, return now expected Tuesday",
+      "url": "https://nairametrics.com/2026/09/27/tinubu-extends-working-vacation-again-return-now-expected-tuesday/",
+      "summary": "President Bola Ahmed Tinubu has delayed his return to Nigeria from his working vacation in Europe, with his arrival now expected on Tuesday\nThe post Tinubu extends working vacation again, return now e",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-09-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "34616b454354",
+      "title": "Was Silent Reading Unusual During Augustine's Time?",
+      "url": "https://www.historyofinformation.com/detail.php?entryid=4341",
+      "summary": "Article URL: https://www.historyofinformation.com/detail.php?entryid=4341\nComments URL: https://news.ycombinator.com/item?id=49872474\nPoints: 27\n# Comments: 3",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "671a2b91f9c0",
+      "title": "Can Muse overcome Meta’s trust issues?",
+      "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+      "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+      "source": "TechCrunch",
+      "angle": "Directly relevant to your Nigerian tech ecosystem work.",
+      "score": 4,
+      "date": "2026-09-28",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8f8cca42c895",
+      "title": "Coronation targets higher premiums from capital raise, but investors want returns",
+      "url": "https://nairametrics.com/2026/09/27/coronation-targets-higher-premiums-from-capital-raise-but-investors-want-returns/",
+      "summary": "Coronation Insurance Plc, one of the insurance companies listed on the NGX, says its stronger capital base will allow it to take on larger insurance risks and grow its premium income. \nThe post Corona",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 4,
+      "date": "2026-09-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "62b4384d9b52",
+      "title": "Microsoft drops Copilot+ branding from its new laptops",
+      "url": "https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-controversial-branding",
+      "summary": "Article URL: https://www.tomshardware.com/tablets/microsoft-surface/microsoft-quietly-drops-copilot-branding-from-its-new-laptops-surface-cvp-confirms-new-devices-meet-hardware-requirements-but-lack-c",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "12a7ecdc10f7",
+      "title": "9 in 10 Nigerians use Android-powered smartphones as of 2025 — report",
+      "url": "https://technext24.com/news/9-in-10-nigerians-use-android-smartphones/",
+      "summary": "A new study has found that about nine in ten Nigerians (88%) use Android-powered smartphones as of 2025,…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3d705fefc846",
+      "title": "Air Peace cites Jet A1 shortage, Maiduguri airport restriction for flight disruption",
+      "url": "https://nairametrics.com/2026/09/27/air-peace-cites-jet-a1-shortage-maiduguri-airport-restriction-for-flight-disruption/",
+      "summary": "Air Peace has attributed recent flight disruptions at the Nnamdi Azikiwe International Airport, Abuja, to a shortage of Jet A1 aviation fuel and an operating restriction at the Maiduguri airport.\nThe ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5011c3c56e81",
+      "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
+      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "summary": "Article URL: https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11\nComments URL: https://news.ycombinator.com/item?id=49870070\nPoints: 100\n# Comments: 34",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "888ff7a75b69",
+      "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+      "url": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+      "summary": "\"AI is the devil and I its maker.\"",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "162605863f77",
+      "title": "Fragment of oldest known peace treaty found in Turkey",
+      "url": "https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey",
+      "summary": "Article URL: https://www.livescience.com/archaeology/ancient-egyptians/we-have-found-traces-of-peace-thousands-of-years-old-fragment-of-worlds-oldest-known-peace-treaty-found-in-turkey\nComments URL: h",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a2b009d75c84",
+      "title": "Ghana moves to lower domestic airfares amid rising ticket prices",
+      "url": "https://nairametrics.com/2026/09/27/ghana-moves-to-lower-domestic-airfares-amid-rising-ticket-prices/",
+      "summary": "Ghana is taking measures to lower domestic airfares amid growing concerns over high ticket prices. The Director General of the Ghana Civil...\nThe post Ghana moves to lower domestic airfares amid risin",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "417693699c79",
+      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
+      "url": "https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html",
+      "summary": "Article URL: https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html\nComments URL: https://news.ycombinator.com/item?id=49866951\nPoints: 229\n# Comments: 84",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "fe0e503adc3e",
+      "title": "Kano tops 2026 NECO results by number of candidates with five credits, English & Mathematics",
+      "url": "https://nairametrics.com/2026/09/27/kano-tops-2026-neco-results-by-number-of-candidates-with-five-credits-english-mathematics/",
+      "summary": "Kano State has emerged as the top-performing state in the 2026 National Examinations Council (NECO) results by number of candidates who\nThe post Kano tops 2026 NECO results by number of candidates wit",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "62ff8b3cd614",
+      "title": "Lunar Terminator Paradox",
+      "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+      "summary": "Article URL: https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html\nComments URL: https://news.ycombinator.com/item?id=49870837\nPoints: 57\n# Comments: 41",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "12f5be930662",
+      "title": "Malleable software: Restoring user agency in a world of locked-down apps (2025)",
+      "url": "https://www.inkandswitch.com/essay/malleable-software/",
+      "summary": "Article URL: https://www.inkandswitch.com/essay/malleable-software/\nComments URL: https://news.ycombinator.com/item?id=49869755\nPoints: 33\n# Comments: 9",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1307571387a5",
+      "title": "NDLEA seizes 2.55 million opioid pills imported from India, Bangladesh at MMIA",
+      "url": "https://nairametrics.com/2026/09/27/ndlea-seizes-2-55-million-opioid-pills-imported-from-india-bangladesh-at-mmia/",
+      "summary": "The National Drug Law Enforcement Agency (NDLEA) has intercepted 2.55 million opioid pills weighing 1,640.55kg in three consignments...\nThe post NDLEA seizes 2.55 million opioid pills imported from In",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "84ef1b4f14fc",
+      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+      "url": "https://www.youtube.com/watch?v=e1Xn3030IvM",
+      "summary": "https://en.wikipedia.org/wiki/John_Chowning\n\nComments URL: https://news.ycombinator.com/item?id=49869142\nPoints: 64\n# Comments: 17",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "12df2fffc8c0",
+      "title": "Owed a billion dollars in Nvidia stock",
+      "url": "https://colo.to/nvidia-stock-narrative.html",
+      "summary": "Article URL: https://colo.to/nvidia-stock-narrative.html\nComments URL: https://news.ycombinator.com/item?id=49872723\nPoints: 380\n# Comments: 168",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8d98a08b18be",
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "url": "https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/",
+      "summary": "Article URL: https://jvns.ca/blog/2026/09/27/replacing-the-old-battery-on-rechargeable-bike-lights/\nComments URL: https://news.ycombinator.com/item?id=49866515\nPoints: 152\n# Comments: 84",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "159babfd7a7b",
+      "title": "Research finds 485 chemicals in US pesticide products linked to breast cancer",
+      "url": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
+      "summary": "Article URL: https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products\nComments URL: https://news.ycombinator.com/item?id=49872497\nPoints: 79\n# Comments: 24",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "198836c40242",
+      "title": "Self-Hosting on the Dark Web",
+      "url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+      "summary": "Article URL: https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/\nComments URL: https://news.ycombinator.com/item?id=49870295\nPoints: 114\n# Comments: 39",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c7e2e233d3a5",
+      "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+      "url": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+      "summary": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9d4a9ca2522d",
+      "title": "Show HN: Lofi Cities – Pixel-art city nights with browser-generated lofi",
+      "url": "https://loficities.com/",
+      "summary": "Article URL: https://loficities.com/\nComments URL: https://news.ycombinator.com/item?id=49869574\nPoints: 205\n# Comments: 92",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d64abc9c468a",
+      "title": "Tango fuel app hits 150 corporate customers one year after launch",
+      "url": "https://nairametrics.com/2026/09/27/tango-fuel-app-hits-150-corporate-customers-one-year-after-launch/",
+      "summary": "Tango Brook Technologies has reached more than 150 corporate customers one year after launching its fuel management platform, as the company expands its technology solutions across fuel payments, flee",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c3344cf2b5bf",
+      "title": "The Architecture of Certainty: Rethinking Infrastructure in an Age of Complexity",
+      "url": "https://technext24.com/sponsored/rethinking-infrastructure-an-age-of-complexity/",
+      "summary": "The Assumption Beneath Every Business Decision",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c673a5c7c956",
+      "title": "The Next Wave: Kenya’s payments revolution cannot end with mobile money",
+      "url": "https://techcabal.com/2026/09/27/kenyas-payments-revolution-cannot-end-with-mobile-money/",
+      "summary": "Kenya’s mobile-money revolution transformed how millions of people pay, save, borrow, and do business. But with a domestic card scheme, the country is confronting a bigger question: what should its pa",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0d24e9e8aa93",
+      "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+      "url": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+      "summary": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "cd19ad1d28d0",
+      "title": "Trump rejects Iran offer as US-led economic pressure hits banks and airlines",
+      "url": "https://nairametrics.com/2026/09/27/trump-rejects-iran-offer-as-us-led-economic-pressure-hits-banks-and-airlines/",
+      "summary": "US President Donald Trump has rejected an offer from Iran to reopen the Strait of Hormuz as Washington intensifies economic pressure on Tehran, including measures targeting banks and airlines.\nThe pos",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2631ebd85da7",
+      "title": "What I did at Recurse Center",
+      "url": "https://thill.me/2026/09/11/what-i-did-at-rc.html",
+      "summary": "Article URL: https://thill.me/2026/09/11/what-i-did-at-rc.html\nComments URL: https://news.ycombinator.com/item?id=49869773\nPoints: 94\n# Comments: 27",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "16975321b571",
+      "title": "When did Google get so weird?",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "summary": "Article URL: https://sancho.bearblog.dev/google-weird/\nComments URL: https://news.ycombinator.com/item?id=49870367\nPoints: 1026\n# Comments: 562",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-09-28",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
     }
   ],
   "deadlines": [
-    {
-      "title": "Arizona State University Mastercard Foundation Innovation and Technology Scholarships 2027/2028 for young African professionals (Fully Funded)",
-      "date": "2026-09-27",
-      "first_seen": "2026-09-10",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/arizona-state-university-mastercard-foundation-innovation-and-technology-scholarships-2027-2028/",
-      "article_id": "5f14d81c530d"
-    },
     {
       "title": "Office of the Chief Justice (OCJ) Graduate Internship Programme 2027 for Unemployed South African Graduates (24 Months)",
       "date": "2026-09-28",
