@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-10-01T06:01:03Z",
-    "total_articles": 9576,
-    "total_days": 135
+    "last_updated": "2026-10-02T06:00:44Z",
+    "total_articles": 9652,
+    "total_days": 136
   },
   "articles": [
     {
@@ -137196,25 +137196,1114 @@
         "tech"
       ],
       "duplicate_of": null
+    },
+    {
+      "id": "a7922ca9304e",
+      "title": "How API Contract Testing Prevents Production Failures",
+      "url": "https://blog.n8n.io/how-api-contract-testing-prevents-production-failures/",
+      "summary": "API contract testing helps you catch breaking changes before they disrupt your workflows. See how n8n validates API responses while your automations run.",
+      "source": "n8n Blog",
+      "angle": "Enhance enterprise n8n flows or add to PORA AI Automation curriculum.",
+      "score": 13,
+      "date": "2026-10-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f2db3054c445",
+      "title": "Nigeria turns 66: Africa’s giant is still measuring success by the wrong yardstick",
+      "url": "https://nairametrics.com/2026/10/01/nigeria-turns-66-africas-giant-is-still-measuring-success-by-the-wrong-yardstick/",
+      "summary": "By headcount, Nigeria is Africa’s largest country, with about 243 million people. By market size, it remains one of the continent’s three big economies, with the IMF projecting 2026 output at about $3",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 13,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3acbc79837ee",
+      "title": "CSR: AXA Mansard mobilises over 1,000 employees to fight child abuse, gender-based violence - Daily Champion Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOTUyTHdYUTlkNS1abTFsUi1PcDJIZGpTaG5kdFNXV3hNU1liM3VtUkNDREJidDV0bFNZanoxMWFLUXduZGo5TDBnZ0l5M1B2MnVvYUZYMEl5RFVOTG85WDZzUWRZVGJES1VsUWxGTjU5eGtCQWFPV1lNRDdVa2xWUVBkeDlEeUNvQTF6ZGRzaEVXRzN0alVyQm1FNWVvbjlXYVlyUjNvN1ZMenhHaWpyZlZUdkRxLW93RHlWNzNINFVZLXNKYjdV?oc=5",
+      "summary": "CSR: AXA Mansard mobilises over 1,000 employees to fight child abuse, gender-based violence  Daily Champion Newspaper",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 12,
+      "date": "2026-10-02",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "aca9e3afeb4c",
+      "title": "I accept Bitcoin, people show me their Bitcoin wallets and still choose to pay with cash – Lagos businessman",
+      "url": "https://technext24.com/news/i-accept-bitcoin-people-still-pay-with-cash/",
+      "summary": "A Lagos businessman, Vincent*, has lamented the slow adoption of Bitcoin payments in Nigeria, explaining that while many…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 12,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "72dcbcba0093",
+      "title": "NGX Group, Nairobi Exchange Chart Path to Deeper Cross-Border Ties as Dangote Lauds Kwairanga, Popoola",
+      "url": "https://nairametrics.com/2026/10/01/ngx-group-nairobi-exchange-chart-path-to-deeper-cross-border-ties-as-dangote-lauds-kwairanga-popoola/",
+      "summary": "Nigerian Exchange Group (NGX Group) and the Nairobi Securities Exchange (NSE) have advanced efforts to deepen cross-border collaboration, as Nigerian and Kenyan market stakeholders met in Nairobi on T",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 12,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b2ff0d2af916",
+      "title": "The Oilserv Ingenious Graduate Trainee Programme (IGTP) 2027 for young Nigerian graduates.",
+      "url": "https://www.opportunitiesforafricans.com/the-2027-oilserv-ingenious-graduate-trainee-programme/",
+      "summary": "Application Deadline: 10th October 2026 Applications are now open for the 2027 Oilserv Ingenious Graduate Trainee Programme. The 2027 Oilserv Ingenious Graduate Trainee Programme stands as a gateway t",
+      "source": "Opps4Africans",
+      "angle": "General opportunity — review if relevant to your network.",
+      "score": 12,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e5250cbc833e",
+      "title": "Financial security key to long-term prosperity says AXA Mansard Investment - Daily Champion Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNUhhVVFkbmhmRTFLOXFaX0xDSWowNmJ3b0R3LWZOZndOeGUtWWdZVUtGaUNva0FxN0hIWkxCVENlM0pfSjdxakQ4dmRsTGtqWk9pdkJMSy1jajJOTlpaakV5M3o3enlWeGtxNmpPTkFqQmtJNHdMRGZzajRjdnJ2SE96NWlwTmkyYThZVlZ4SlN3QVEwSVJsdjhfbDFTRC01dU1OU293?oc=5",
+      "summary": "Financial security key to long-term prosperity says AXA Mansard Investment  Daily Champion Newspaper",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 10,
+      "date": "2026-10-02",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "69bd3d6f1f29",
+      "title": "Largest commercial paper offers by target size in Q3 2026",
+      "url": "https://nairametrics.com/2026/10/01/largest-commercial-paper-offers-by-target-size-in-q3-2026/",
+      "summary": "Twenty-three companies brought commercial paper offers to the Nigerian money market during the third quarter of 2026, targeting a combined N446.1 billion across 43 series under programmes with a total",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 10,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2f967da78314",
+      "title": "Meta appeals ruling that it can’t force Nigerians to accept ad tracking",
+      "url": "https://techcabal.com/2026/10/01/meta-appeals-ruling-that-it-cant-force-nigerians-accept-ad-tracking/",
+      "summary": "Meta is appealing a Lagos High Court ruling that limits how it can use Nigerians’ Facebook and Instagram data for behavioural advertising, putting consent, targeted ads and cross-border data transfers",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 10,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "02b63b0cb23c",
+      "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+      "url": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+      "summary": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+      "source": "TechCrunch",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 10,
+      "date": "2026-10-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a3bcf292c7e3",
+      "title": "AI governance isn't keeping pace with AI adoption, AXA XL warns - Insurance Business",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQT1ZZM3hPOUdtM19KVHF6ZGVyTENPck95bFF1RmYwNEdDV2pVTDZsa2E5d1JOcmZ1WDJCUm5OdFpTMkNJemdCNU9iMmxiODhNLUZIUUxhUUNFN0pSUVI5a3hoNGpwYlNwTHF5X0pSdDFQTGZVSWh1WU0tOFdVdF8wTkV2bWlyemNoMFpaUE9iZzUtbUo2ZEJDaGVlaUNrLV84amNrdEZySVRkNlpwOXN2UDVJcjBpOFJDTHMyWFpvUXZrZ3Fad3R2bw?oc=5",
+      "summary": "AI governance isn't keeping pace with AI adoption, AXA XL warns  Insurance Business",
+      "source": "AXA AI & Digital",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-10-02",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ae976c36af42",
+      "title": "AI poses existential risk for enterprise organisations, and should be treated as such: Axa XL - intelligentinsurer.com",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWm1SYWpCQ2lqSHQ5cEQ5ZDZDTHBzZ1A5V1VBR3BTLUpIR0FkY0JwT1hyS3AtZGV1azhWdWRiQ2JlcUpfbW5tQ0tiMEVJZ1RqS25qZFg1bTlpOGMxYUZwRFM2NWF2RzJqS0ZqOTRXWThUWkxuV2tWc1BPSkNFRzdFNWZ3RTN5LV9wVG5nYVl4SHp1UHJnRlE1dUIzSHI0RjRtalh0UElYakJmbk5UdnBlNnM0Wl9Ec05ZWjRXWVRHN2Z0dkQw?oc=5",
+      "summary": "AI poses existential risk for enterprise organisations, and should be treated as such: Axa XL  intelligentinsurer.com",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-10-02",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": "2026-09-25"
+    },
+    {
+      "id": "32b9df453641",
+      "title": "AXA Mansard's New Campaign Seeks to Deepen Insurance Penetration as Path to Economic Growth - Techeconomy",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMzFBWnl4RlZwc2RUVmNRb3pMMlNSeC1ZVWVwWWVkaTdHRGdjdHlMcElvZFFNRTZGUUVSLTlSem1rY0xDaXNVNFJuUWRyTWxUYzN2clE3WlV2NVplYnF6eFYxcEc2Z2lsazZGVUszWDFCSXlrSW1VMk8xWnE0M012ek5YcUt4OU11MGJ3TmlrdE9SR3pNczVYTFNoR1RvZGtRckd6S3FmbHVkS3dFTDNRVkc1bw?oc=5",
+      "summary": "AXA Mansard's New Campaign Seeks to Deepen Insurance Penetration as Path to Economic Growth  Techeconomy",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-10-02",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4e531900a008",
+      "title": "AfDB moves to help African countries improve credit ratings, cut borrowing costs",
+      "url": "https://nairametrics.com/2026/10/01/afdb-moves-to-help-african-countries-improve-credit-ratings-cut-borrowing-costs/",
+      "summary": "The African Development Bank (AfDB) will launch an initiative to help African countries better prepare for sovereign credit ratings by improving the quality of economic data and transparency, AfDB Pre",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "348956a46331",
+      "title": "Anthropic targets November IPO at $1.8 trillion to $2 trillion valuation",
+      "url": "https://nairametrics.com/2026/10/01/anthropic-targets-november-ipo-at-1-8-trillion-to-2-trillion-valuation/",
+      "summary": "Anthropic PBC, the artificial intelligence company behind the Claude chatbot, is reportedly seeking to launch its initial public offering as early as mid-November at a valuation of between $1.8 trilli",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9e72cfca45e7",
+      "title": "At independence; AXA Mansard Health says accessible healthcare key for productivity, national prosperity - Daily Champion Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaUtrQWF0ZUNxMjJ1SHc4aS05b1U1cWRBTU5pZV9TYUw1endlUVFFLUo1S3pibURDVEc3VDVfTkxUNHVkTFMybUtHOVRlS1FzVERXUi1IWnhGdzlxVXpLT1hzNkRST3AyZXBoVnAtZVZ6eVpkSUFWcWhNdzV3WHIwRUFxSlVUU2l3V09Mc0VoOWd0UG9ZT1lzQzBQVDBFOEtHQ2l0bWlJX3BwSi11TWY5Zk1DSFVSalNBOGxwWlBrRk5xVl9kREtBQVoxaw?oc=5",
+      "summary": "At independence; AXA Mansard Health says accessible healthcare key for productivity, national prosperity  Daily Champion Newspaper",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-10-02",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0f29e234aef1",
+      "title": "Cancer, other chronic health conditions find cover under AXA Mansard Health Int'l Health Plan - Daily Champion Newspaper",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYU1QWkxpQTU1SlJmb3h6RjhKRUZJSmFSNUkyRXYzLVdYM2wxbzE3WWFBal9rNG94ZDRKY05XTk1taFdIWTJUY0szRE1uRTVjN3VHN1cxZEhNVmZ5aDBQYy1xMjBBQjljMWVpY1lSbExGQk9NQ0FrV19CaDNuczNiUjd2dWRQVFhFcW5VMkkwNGdaUlRaZjFRSU9LUnVYNnA0SU05RHJWTXZmb1ViS0w3dUVCSXkyWVZTOW0yeg?oc=5",
+      "summary": "Cancer, other chronic health conditions find cover under AXA Mansard Health Int'l Health Plan  Daily Champion Newspaper",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-10-02",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": "2026-08-28"
+    },
+    {
+      "id": "497c3a4ec2c5",
+      "title": "Firm Launches Financial Protection, Savings Awareness Campaign - THISDAYLIVE",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZXQ1UXpmNXNodXpsMmEwbHlzanpOcjRIY3pkVTB2UE5EY0JUeG1GQ0NMLTBEWEZOenR5MUpoUE1YVWNic2lwbmd5a3RUclBmUVZFdmR6STlPLTVBcmpiY3JrSzNZS0dCN0NvWV9oY3lUNFZUOVZHdDVRUjM0RFRWb25lMG5IeV9vZE4xQzNMMnp3RUdtR0s3Vkd0UzlBZzRMbnZV?oc=5",
+      "summary": "Firm Launches Financial Protection, Savings Awareness Campaign  THISDAYLIVE",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-10-02",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b08eca929f52",
+      "title": "Podfest Naija 2026: The bigger story behind the speech",
+      "url": "https://technext24.com/opinion/podfest-naija-2026-bigger-story-behind-speech/",
+      "summary": "When I first pitched the Keynote segment of PodFest Naija to the Deputy Governor of Lagos State, H.E.…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "943f6455fec0",
+      "title": "UAE’s largest bank considers sharing exposure to Nigeria’s $5 billion swap",
+      "url": "https://nairametrics.com/2026/10/01/uaes-largest-bank-considers-sharing-exposure-to-nigerias-5-billion-swap/",
+      "summary": "First Abu Dhabi Bank PJSC (FAB), the United Arab Emirates’ largest lender, is considering sharing part of its exposure to Nigeria’s $5 billion total-return swap with other banks through a syndication ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9139fa9458d0",
+      "title": "Zero-rated: NCC, telcos roll out free 3GB/month mobile data initiative for 5 million students",
+      "url": "https://technext24.com/news/ncc-telcos-free-3gb-month-data-5m-students/",
+      "summary": "The Nigerian Communications Commission (NCC), in collaboration with the Association of Licensed Telecommunications Operators of Nigeria (ALTON), has…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f6c78cbf3fed",
+      "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+      "url": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+      "summary": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+      "source": "TechCrunch",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 8,
+      "date": "2026-10-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3d618fc712d2",
+      "title": "7-Fifteen Capital hosts Dep. Governor of Lagos, Dr. Obafemi Hamzat, for an evening with Lagos business leaders",
+      "url": "https://nairametrics.com/2026/10/01/7-fifteen-capital-hosts-dep-governor-of-lagos-dr-obafemi-hamzat-for-an-evening-with-lagos-business-leaders/",
+      "summary": "7-Fifteen Capital, a luxury real estate development company, hosted Dr. Obafemi Hamzat, Deputy Governor of Lagos State and the All Progressives Congress (APC) candidate for the 2027 Lagos State govern",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e3dffb3c5c04",
+      "title": "Airtel Money sets IPO price at £1.96, values business at £5.3 billion",
+      "url": "https://nairametrics.com/2026/10/01/airtel-money-sets-ipo-price-at-1-96-values-business-at-5-3-billion/",
+      "summary": "Airtel Mobile Commerce N.V., the parent company of Airtel Money, has set the offer price for its planned initial public offering (IPO) at £1.96 per share, implying an estimated market capitalisation o",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3b937cba75a9",
+      "title": "Dalai Lama Fellowship Programme 2027 for emerging changemakers (Fully Funded to Contemplative Leadership Assembly)",
+      "url": "https://www.opportunitiesforafricans.com/dalai-lama-fellowship-programme-2027/",
+      "summary": "Application Deadline: November 11, 2026 Applications are now open for the 2027 Dalai Lama Fellowship Programme. Dalai Lama Fellows (DLF) offers a one-year fellowship program for emerging changemakers ",
+      "source": "Opps4Africans",
+      "angle": "Fresh opportunity for you or PORA Academy — check eligibility.",
+      "score": 7,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria",
+        "ai",
+        "opportunity",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0635a48492ac",
+      "title": "IFC moves to unlock private capital for Nigeria’s risky sectors",
+      "url": "https://nairametrics.com/2026/10/01/ifc-moves-to-unlock-private-capital-for-nigerias-risky-sectors/",
+      "summary": "The International Finance Corporation (IFC) is seeking to develop innovative financing platforms and risk mitigation solutions that can unlock more private capital for strategic sectors of the Nigeria",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2f04675a4d4f",
+      "title": "Orange Corners Nigeria Incubation Programme Cohort 16 for young Entrepreneurs (30,000 Euros in funding)",
+      "url": "https://www.opportunitiesforafricans.com/orange-corners-nigeria-incubation-programme-cohort-16-for-young-entrepreneurs-30000-euros-in-funding/",
+      "summary": "Application Deadline: November 30, 2026 Applications are now open for the Orange Corners Nigeria Incubation Programme Cohort 16. Launched in 2019 by the Kingdom of the Netherlands and implemented by F",
+      "source": "Opps4Africans",
+      "angle": "General opportunity — review if relevant to your network.",
+      "score": 7,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria",
+        "opportunity",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "36e9bbced64b",
+      "title": "iPaaS vs. API Management: What Engineers Choose When Both Fall Short",
+      "url": "https://blog.n8n.io/ipaas-vs-api-management/",
+      "summary": "Compare iPaaS versus API management tools. See why engineering teams that need execution control, self-hosting, and code-level extensibility reach for n8n.",
+      "source": "n8n Blog",
+      "angle": "Enhance enterprise n8n flows or add to PORA AI Automation curriculum.",
+      "score": 7,
+      "date": "2026-10-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0ba2c4ba6319",
+      "title": "👨🏿‍🚀TechCabal Daily – Dangote’s cross-border IPO dash",
+      "url": "https://techcabal.com/2026/10/01/techcabal-daily-dangotes-cross-border-ipo-dash/",
+      "summary": "In today's edition: Kenyans may soon be able to buy Dangote shares || Woolworths is mastering dark store strategy || JPMorgan hires Sub-Saharan African lead || Is the JSE catching tech startups young?",
+      "source": "TechCabal",
+      "angle": "Nigerian ecosystem pulse — relevant for enterprise consulting and PORA positioning.",
+      "score": 7,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "712d6e715ae1",
+      "title": "African airlines lead international passenger capacity growth at 8.3% in August",
+      "url": "https://nairametrics.com/2026/10/01/african-airlines-lead-international-passenger-capacity-growth-at-8-3-in-august/",
+      "summary": "African airlines led international passenger capacity growth among the regional markets tracked by the International Air Transport Association (IATA), with available seat capacity increasing 8.3% year",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4b7fcec2d77d",
+      "title": "Airtel Money targets $7 billion valuation in London IPO debut",
+      "url": "https://techcabal.com/2026/10/01/airtel-money-ipo-7-billion-valuation-london/",
+      "summary": "The listing gives investors a price for a business processing more than $245 billion in annualised transactions.",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5e2055d36eaa",
+      "title": "Brian Chesky interview: AI agents need their own operating system",
+      "url": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+      "summary": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+      "source": "TechCrunch",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "13dadbe6edbf",
+      "title": "ChatGPT can now virtually try on clothes for you",
+      "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+      "summary": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "07f459c9986b",
+      "title": "FG installs 707,765 meters in Q2, 4.8 million electricity customers remain unmetered",
+      "url": "https://nairametrics.com/2026/10/02/fg-installs-707765-meters-in-q2-4-8-million-electricity-customers-remain-unmetered/",
+      "summary": "The Federal Government installed 707,765 electricity meters across Nigeria in the first half of 2026, representing a 71% increase from the 412,792 meters installed in the corresponding period of 2025.",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "cbd59e671b42",
+      "title": "FG launches digital postcode system, says ‘Every Nigerian deserves to be found’",
+      "url": "https://nairametrics.com/2026/10/01/fg-launches-digital-postcode-system-says-every-nigerian-deserves-to-be-found/",
+      "summary": "The Federal Government has launched the National Digital Alphanumeric Postcode System, assigning a unique digital postcode to addressable buildings across Nigeria.\nThe post FG launches digital postcod",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9e441324ab6b",
+      "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+      "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+      "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+      "source": "TechCrunch",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "910243a33f09",
+      "title": "International Monetary Fund Internship Program (FIP) 2027 for young professionals (Paid Internship- Washington D.C. USA)",
+      "url": "https://www.opportunitiesforafricans.com/international-monetary-fund-internship-program-fip-2027/",
+      "summary": "Application Deadline: Applications are now open for the 2027 International Monetary Fund Internship Program. The Fund Internship Program (FIP) offers PhD students in economics an outstanding opportuni",
+      "source": "Opps4Africans",
+      "angle": "Fresh opportunity for you or PORA Academy — check eligibility.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria",
+        "opportunity",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0f1eb05b5592",
+      "title": "Kora launches One Rail to bring stablecoin payments to African merchants",
+      "url": "https://technext24.com/news/kora-launches-one-rail-for-stablecoin-payments/",
+      "summary": "Kora, a leading payment solutions provider in Africa, has launched One Rail, a service that lets merchants manage…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "34c6c44b5260",
+      "title": "Lagos Traffic 101: 10 ways Nigerians wish they could commute easily",
+      "url": "https://technext24.com/reviews/6-alternative-ways-to-escape-lagos-traffic/",
+      "summary": "Lagos traffic has a way of making Nigerians question every transportation decision they have ever made. You leave…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4a8e1f3ca89f",
+      "title": "NDIC warns Nigerians against unregulated investments, assures depositors of faster claims",
+      "url": "https://nairametrics.com/2026/10/01/ndic-warns-nigerians-against-unregulated-investments-assures-depositors-of-faster-claims/",
+      "summary": "The Nigeria Deposit Insurance Corporation (NDIC) has warned Nigerians against investing in unregulated financial schemes, assuring depositors of faster claims processing and expanded insurance coverag",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "df7d55f40fb8",
+      "title": "NNPC’s forward-sale obligations rise 33% to N8.25 trillion in 2025",
+      "url": "https://nairametrics.com/2026/10/01/nnpcs-forward-sale-obligations-rise-33-to-n8-25-trillion-in-2025/",
+      "summary": "The Nigerian National Petroleum Company Limited’s (NNPC) forward-sale obligations rose to N8.25 trillion in 2025, tying future oil and gas deliveries to money already collected and putting pressure on",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d4388edc5ee5",
+      "title": "Netflix says growth is slowing as AI, live shows drive spending",
+      "url": "https://nairametrics.com/2026/10/01/netflix-says-growth-is-slowing-as-ai-live-shows-drive-spending/",
+      "summary": "Netflix Co-Chief Executive Officer Ted Sarandos has said the streaming giant is not growing as quickly as expected, as the company increases spending on live programming, theatrical releases and artif",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6016e2280877",
+      "title": "Nigeria launches 11-character NIPOST digital postcodes",
+      "url": "https://technext24.com/news/nigeria-launches-nipost-digital-postcodes/",
+      "summary": "Locating a particular house in either Lagos, Abuja or indeed almost all parts of the country usually requires…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7de24f7bab6a",
+      "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+      "url": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+      "summary": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d472bd271506",
+      "title": "PZ Cussons grew organic operating profit 39%",
+      "url": "https://nairametrics.com/2026/10/01/pz-cussons-nigeria-q1-revenue-climbs-10-as-core-profit-rises-46/",
+      "summary": "The Board of Directors of PZ Cussons, a leading manufacturer of personal healthcare products and consumer goods, has recorded N260.46 billion revenue for the first quarter of the 2027 financial year, ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "110d762ebe0f",
+      "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+      "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+      "summary": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+      "source": "TechCrunch",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "45b96b95bd68",
+      "title": "The Bank of Namibia Undergraduate Bursary 2027 for Namibian/SADC Students.",
+      "url": "https://www.opportunitiesforafricans.com/the-bank-of-namibia-undergraduate-bursary-2027-for-namibian-sadc-students/",
+      "summary": "Application Deadline: October 30, 2026 Applications are now open for the 2027 Bank of Namibia Undergraduate Bursary. As part of its commitment to capacity development and corporate social responsibili",
+      "source": "Opps4Africans",
+      "angle": "General opportunity — review if relevant to your network.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0bd3bd0b68c1",
+      "title": "The UONGOZI Institute Emerging Leaders Programme 2026/2027 for mid-level executives (Scholarships Available",
+      "url": "https://www.opportunitiesforafricans.com/the-uongozi-institute-emerging-leaders-programme-2026-2027/",
+      "summary": "Application Deadline: 23 October, 2026 at 23:00 hours (EAT). Applications are now open for the 2026/2027 UONGOZI Institute Emerging Leaders Programme. UONGOZI Institute invites applications from mid-l",
+      "source": "Opps4Africans",
+      "angle": "Fresh opportunity for you or PORA Academy — check eligibility.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria",
+        "opportunity",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1077d16728bd",
+      "title": "The plan to build virtual data centres in space just got $8 million backing",
+      "url": "https://techcabal.com/2026/10/01/the-plan-to-build-virtual-data-centres-in-space-just-got-8-million-backing/",
+      "summary": "Its longer-term plan is to connect computing resources across different satellites and turn them into what it calls virtual AI data centres.",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "36f3cd02cd3b",
+      "title": "When to Use an LLM Knowledge Graph or a Vector RAG",
+      "url": "https://blog.n8n.io/llm-knowledge-graph/",
+      "summary": "An LLM knowledge graph and vector RAG ground models differently. See when to use each, how to build a knowledge graph from text, and how to run both smoothly.",
+      "source": "n8n Blog",
+      "angle": "Enhance enterprise n8n flows or add to PORA AI Automation curriculum.",
+      "score": 6,
+      "date": "2026-10-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b3a0ff041a9a",
+      "title": "NVIDIA International Graduate Fellowship Program 2027/2028 for PhD students worldwide ($60,000 in research funding)",
+      "url": "https://www.opportunitiesforafricans.com/nvidia-international-graduate-fellowship-program-2027-2028/",
+      "summary": "Application Deadline: October 30, 2026. Applications are now open for the 2027/2028 NVIDIA International Graduate Fellowship Program. The NVIDIA Graduate Fellowship Program provides up to $60,000 per ",
+      "source": "Opps4Africans",
+      "angle": "Fresh opportunity for you or PORA Academy — check eligibility.",
+      "score": 5,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria",
+        "opportunity",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ee0e00171cda",
+      "title": "10 technical talks I’m excited about at GitHub Universe 2026",
+      "url": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
+      "summary": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around.\nThe post 10 technical talks I’m excited about at GitHub Universe 2026 appear",
+      "source": "GitHub Blog",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-10-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "117133c34861",
+      "title": "Google launches Gemini 4 Argon for advanced coding but restricts access over cybersecurity risks",
+      "url": "https://technext24.com/news/google-gemini-4-argon-coding-cybersecurity/",
+      "summary": "Google has launched Gemini 4 Argon, the first model in its Gemini 4 generation, with access initially limited…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 4,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b67fa24eacd5",
+      "title": "Hearing tech startup Legato launches its AI hearing glasses",
+      "url": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+      "summary": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
+      "source": "TechCrunch",
+      "angle": "Directly relevant to your Nigerian tech ecosystem work.",
+      "score": 4,
+      "date": "2026-10-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4d4470c0738a",
+      "title": "Pan-African fintech Kora adds stablecoins to its payment infrastructure",
+      "url": "https://techcabal.com/2026/10/01/kora-sees-stablecoins-as-a-way-around-cross-border-payment-costs/",
+      "summary": "For payment companies, stablecoins offer a potential alternative to move dollar-denominated value between markets.",
+      "source": "TechCabal",
+      "angle": "Nigerian ecosystem pulse — relevant for enterprise consulting and PORA positioning.",
+      "score": 4,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "658686527e90",
+      "title": "You can now top up your n8n Assistant credits",
+      "url": "https://blog.n8n.io/top-up-your-n8n-assistant-credits/",
+      "summary": "On n8n Cloud, you can now buy extra Assistant credits when you run out - manually or with auto top-up. Here's how it works.",
+      "source": "n8n Blog",
+      "angle": "Enhance enterprise n8n flows or add to PORA AI Automation curriculum.",
+      "score": 4,
+      "date": "2026-10-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8d3dc80c281b",
+      "title": "Amazon releases its own Jev clone as decision models flood the web",
+      "url": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+      "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d24c3cffac6e",
+      "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
+      "url": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+      "summary": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "24315f1d080d",
+      "title": "California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people",
+      "url": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/",
+      "summary": "The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "35625c1ed65a",
+      "title": "Dangote Sponsors Abuja Trade Fair, Features Refinery IPO",
+      "url": "https://nairametrics.com/2026/10/01/dangote-sponsors-abuja-trade-fair-features-refinery-ipo/",
+      "summary": "Dangote Industries Limited (DIL), one of the sponsors of the 21st Abuja International Trade Fair, will spotlight the ongoing Initial Public Offering (IPO) of the Dangote Petroleum Refinery and Petroch",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6a9c82397087",
+      "title": "FGN bond allotments rise 106% to N7.15 trillion in nine months",
+      "url": "https://nairametrics.com/2026/10/01/fgn-bond-allotments-rise-106-to-n7-15-trillion-in-nine-months/",
+      "summary": "The Federal Government allotted N7.15 trillion in FGN bonds between January and September 2026, representing a 106% increase from the N3.48 trillion allotted during the same period in 2025.\nThe post F",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ae8eb2b34a0e",
+      "title": "How NNPC avoided a loss in 2025 amid revenue decline",
+      "url": "https://nairametrics.com/2026/10/01/how-nnpc-avoided-a-loss-in-2025-amid-revenue-decline/",
+      "summary": "NNPC, the country’s national oil company, has released its 2025 annual report for the year ended December 2025, reporting an 18.3% increase in pre-tax profit to N11.31 trillion, compared with N9.56 tr",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d718c10768a3",
+      "title": "Luno built a crypto exchange. Now it wants to sell crypto as a service.",
+      "url": "https://techcabal.com/2026/10/01/lunos-plan-for-crypto-as-a-service/",
+      "summary": "Luno's plan brings together an exchange, a stablecoin issuer, and a payments platform to serve institutions across Africa and other markets.",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8dc097e791ac",
+      "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+      "url": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+      "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e936939fc563",
+      "title": "Nigeria’s healthcare system is broken. Who fills the gaps?",
+      "url": "https://techcabal.com/2026/10/01/nigerias-healthcare-system-is-broken-who-fills-the-gaps/",
+      "summary": "Nigeria's primary healthcare centres are chronically underfunded, and fixing that starts with how badly fiscal policy misses the people who need it most.",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d0e2768de150",
+      "title": "Nigeria’s proposed under-16 social media ban: The hidden cost to youth digital literacy",
+      "url": "https://technext24.com/reviews/nigeria-social-media-ban-under-16/",
+      "summary": "It is a random Wednesday afternoon in February 2027. A fourteen-year-old in a bustling secondary school in Surulere,…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1bab9b0d95cb",
+      "title": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
+      "url": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
+      "summary": "The CEO promised to get more specific about his vision. But the details are still absent.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "db3eb3d32963",
+      "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+      "url": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+      "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "11620c6aed6d",
+      "title": "The International Monetary Fund (IMF) 2027 Economist Program for recent PhD graduates (three-year program at the IMF Washington D.C. headquarters).",
+      "url": "https://www.opportunitiesforafricans.com/the-international-monetary-fund-imf-2027-economist-program/",
+      "summary": "Application Deadline: December 5, 2026  Applications are now open for the 2027 International Monetary Fund (IMF) Economist Program. As an Economist Program participant, you will help countries tackle ",
+      "source": "Opps4Africans",
+      "angle": "Fresh opportunity for you or PORA Academy — check eligibility.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria",
+        "opportunity",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b513f9fc2513",
+      "title": "The Yale Maurice R. Greenberg World Fellows Program 2027 for mid-career emerging Global Leaders (Fully Funded to Yale University, USA)",
+      "url": "https://www.opportunitiesforafricans.com/the-yale-maurice-r-greenberg-world-fellows-program-2027/",
+      "summary": "Application Deadline: 2 December at 14:00 PM Eastern Time Applications are now open for the 2027 Yale Maurice R. Greenberg World Fellows Program. Yale’s flagship four-month, full-time residential prog",
+      "source": "Opps4Africans",
+      "angle": "General opportunity — review if relevant to your network.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "760d9e5800da",
+      "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+      "url": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+      "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6a05cb922d3e",
+      "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
+      "url": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
+      "summary": "The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2f5115989ee9",
+      "title": "US to increase immigration fees for asylum, work permits, TPS from October 16",
+      "url": "https://nairametrics.com/2026/10/01/us-to-increase-immigration-fees-for-asylum-work-permits-tps-from-october-16/",
+      "summary": "The United States Citizenship and Immigration Services (USCIS) will increase fees for several immigration applications from October 16, 2026, affecting asylum applicants, employment authorization requ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f50dda18a423",
+      "title": "Washington College of Law Human Rights Essay Award 2027 (full tuition scholarship to the Program of Advanced Studies on Human Rights and Humanitarian Law)",
+      "url": "https://www.opportunitiesforafricans.com/washington-college-of-law-human-rights-essay-award-2027/",
+      "summary": "Application Deadline: February 3rd, 2027 Applications are now open for the 2027 Washington College of Law Human Rights Essay Award. The Human Rights Essay Award is an annual award sponsored…\nThe post ",
+      "source": "Opps4Africans",
+      "angle": "Fresh opportunity for you or PORA Academy — check eligibility.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria",
+        "opportunity",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "fcedb1bba223",
+      "title": "Whispers to the machine: The secrets 1,200 Kenyans only tell their screen",
+      "url": "https://techcabal.com/2026/10/01/secrets-kenyans-only-tell-their-screen/",
+      "summary": "What do 1,200 Kenyans tell a chatbot that they won’t tell another human being? Many people think generative AI was built to draft emails and automate spreadsheets. But nearly half of the Kenyans surve",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-10-02",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b222195fabb2",
+      "title": "This startup wants to turn idle car inventory into rental revenue",
+      "url": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/",
+      "summary": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at",
+      "source": "TechCrunch",
+      "angle": "Directly relevant to your Nigerian tech ecosystem work.",
+      "score": 1,
+      "date": "2026-10-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
     }
   ],
   "deadlines": [
-    {
-      "title": "The University of Toronto Mastercard Foundation Doctor of Public Health Scholarships 2027/2028 for Africa public health leaders (Fully Funded)",
-      "date": "2026-10-01",
-      "first_seen": "2026-09-01",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/the-university-of-toronto-mastercard-foundation-doctor-of-public-health-scholarships-2027-2028/",
-      "article_id": "57e5aef1b2d4"
-    },
-    {
-      "title": "The KAUST Global Fellowship Program 2027 for Early-Career Researchers (Fully Funded)",
-      "date": "2026-10-01",
-      "first_seen": "2026-09-02",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/the-kaust-global-fellowship-program-2027/",
-      "article_id": "13f30c8aee3c"
-    },
     {
       "title": "The World Bank 2026 GovTech AI Bootcamp for Governance and Public Administration (Fully Funded to Seoul, South Korea)",
       "date": "2026-10-02",
@@ -137366,6 +138455,14 @@
       "source": "Opps4Africans",
       "url": "https://www.opportunitiesforafricans.com/the-acep-media-fellowship-on-fiscal-accountability-and-anti-corruption-2026-for-journalists-and-content-producers/",
       "article_id": "eb682663dae8"
+    },
+    {
+      "title": "The Oilserv Ingenious Graduate Trainee Programme (IGTP) 2027 for young Nigerian graduates.",
+      "date": "2026-10-10",
+      "first_seen": "2026-10-02",
+      "source": "Opps4Africans",
+      "url": "https://www.opportunitiesforafricans.com/the-2027-oilserv-ingenious-graduate-trainee-programme/",
+      "article_id": "b2ff0d2af916"
     },
     {
       "title": "MTN Foundation ICT and Business Skills Training  (Phase 8) for young Nigerian Entrepreneurs (N100 million in Equipment Grant)",
@@ -137576,6 +138673,14 @@
       "article_id": "1ffc793b832b"
     },
     {
+      "title": "The UONGOZI Institute Emerging Leaders Programme 2026/2027 for mid-level executives (Scholarships Available",
+      "date": "2026-10-23",
+      "first_seen": "2026-10-02",
+      "source": "Opps4Africans",
+      "url": "https://www.opportunitiesforafricans.com/the-uongozi-institute-emerging-leaders-programme-2026-2027/",
+      "article_id": "0bd3bd0b68c1"
+    },
+    {
       "title": "The Princeton in Africa Fellowships 2027/2028 for young African graduates.",
       "date": "2026-10-26",
       "first_seen": "2026-09-01",
@@ -137622,6 +138727,22 @@
       "source": "Opps4Africans",
       "url": "https://www.opportunitiesforafricans.com/call-for-papers-unesco-ens-psl-advancing-research-on-the-ethics-of-artificial-intelligence-2026/",
       "article_id": "2a672c7eb63d"
+    },
+    {
+      "title": "The Bank of Namibia Undergraduate Bursary 2027 for Namibian/SADC Students.",
+      "date": "2026-10-30",
+      "first_seen": "2026-10-02",
+      "source": "Opps4Africans",
+      "url": "https://www.opportunitiesforafricans.com/the-bank-of-namibia-undergraduate-bursary-2027-for-namibian-sadc-students/",
+      "article_id": "45b96b95bd68"
+    },
+    {
+      "title": "NVIDIA International Graduate Fellowship Program 2027/2028 for PhD students worldwide ($60,000 in research funding)",
+      "date": "2026-10-30",
+      "first_seen": "2026-10-02",
+      "source": "Opps4Africans",
+      "url": "https://www.opportunitiesforafricans.com/nvidia-international-graduate-fellowship-program-2027-2028/",
+      "article_id": "b3a0ff041a9a"
     },
     {
       "title": "The One Young World Leading Scholarship Program 2026 for emerging Young Leaders (Fully Funded to One Young World Summit in CapeTown, South Africa.)",
@@ -137728,6 +138849,14 @@
       "article_id": "e56637b6d896"
     },
     {
+      "title": "Dalai Lama Fellowship Programme 2027 for emerging changemakers (Fully Funded to Contemplative Leadership Assembly)",
+      "date": "2026-11-11",
+      "first_seen": "2026-10-02",
+      "source": "Opps4Africans",
+      "url": "https://www.opportunitiesforafricans.com/dalai-lama-fellowship-programme-2027/",
+      "article_id": "3b937cba75a9"
+    },
+    {
       "title": "The International Finance Corporation’s (IFC) SME Growth Accelerator 2026 for small and medium-sized enterprises (SMEs).",
       "date": "2026-11-15",
       "first_seen": "2026-06-30",
@@ -137768,6 +138897,14 @@
       "article_id": "2bcc26ebfe0d"
     },
     {
+      "title": "Orange Corners Nigeria Incubation Programme Cohort 16 for young Entrepreneurs (30,000 Euros in funding)",
+      "date": "2026-11-30",
+      "first_seen": "2026-10-02",
+      "source": "Opps4Africans",
+      "url": "https://www.opportunitiesforafricans.com/orange-corners-nigeria-incubation-programme-cohort-16-for-young-entrepreneurs-30000-euros-in-funding/",
+      "article_id": "2f04675a4d4f"
+    },
+    {
       "title": "The 2027 Jim Leech Mastercard Foundation Fellowship on Entrepreneurship for young African students & recent graduates.",
       "date": "2026-12-01",
       "first_seen": "2026-09-25",
@@ -137782,6 +138919,22 @@
       "source": "Opps4Africans",
       "url": "https://www.opportunitiesforafricans.com/hong-kong-phd-fellowship-scheme-2027-2028-for-study-in-hong-kong/",
       "article_id": "c9af30033469"
+    },
+    {
+      "title": "The Yale Maurice R. Greenberg World Fellows Program 2027 for mid-career emerging Global Leaders (Fully Funded to Yale University, USA)",
+      "date": "2026-12-02",
+      "first_seen": "2026-10-02",
+      "source": "Opps4Africans",
+      "url": "https://www.opportunitiesforafricans.com/the-yale-maurice-r-greenberg-world-fellows-program-2027/",
+      "article_id": "b513f9fc2513"
+    },
+    {
+      "title": "The International Monetary Fund (IMF) 2027 Economist Program for recent PhD graduates (three-year program at the IMF Washington D.C. headquarters).",
+      "date": "2026-12-05",
+      "first_seen": "2026-10-02",
+      "source": "Opps4Africans",
+      "url": "https://www.opportunitiesforafricans.com/the-international-monetary-fund-imf-2027-economist-program/",
+      "article_id": "11620c6aed6d"
     },
     {
       "title": "D-Prize Challenge 2026/2027 for Social Entrepreneurs to fight Poverty ($USD 20,000)",
@@ -137870,6 +139023,14 @@
       "source": "Opps4Africans",
       "url": "https://www.opportunitiesforafricans.com/mercedes-benz-bevisioneers-fellowship-program-2027/",
       "article_id": "5d4b0e40c2ff"
+    },
+    {
+      "title": "Washington College of Law Human Rights Essay Award 2027 (full tuition scholarship to the Program of Advanced Studies on Human Rights and Humanitarian Law)",
+      "date": "2027-02-03",
+      "first_seen": "2026-10-02",
+      "source": "Opps4Africans",
+      "url": "https://www.opportunitiesforafricans.com/washington-college-of-law-human-rights-essay-award-2027/",
+      "article_id": "f50dda18a423"
     },
     {
       "title": "Khaled bin Sultan Living Oceans Foundation’s Science without Borders® Challenge 2027 International Art Competition",
