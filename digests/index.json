@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-10-04T06:01:01Z",
-    "total_articles": 9778,
-    "total_days": 138
+    "last_updated": "2026-10-05T06:00:50Z",
+    "total_articles": 9821,
+    "total_days": 139
   },
   "articles": [
     {
@@ -140091,25 +140091,620 @@
         "tech"
       ],
       "duplicate_of": null
+    },
+    {
+      "id": "704b9b60bdf8",
+      "title": "Nigeria’s tax burden, insecurity and high rates squeeze firms in September – CBN survey",
+      "url": "https://nairametrics.com/2026/10/04/nigerias-tax-burden-insecurity-and-high-rates-squeeze-firms-in-september-cbn-survey/",
+      "summary": "Nigerian businesses identified high or multiple taxation, insecurity and high interest rates as their biggest constraints in September 2026.\nThe post Nigeria’s tax burden, insecurity and high rates sq",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 13,
+      "date": "2026-10-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4eccc5d93b20",
+      "title": "fix: forward generation timeout to model HTTP requests (#462)",
+      "url": "https://github.com/OpenCoworkAI/open-codesign/commit/f35b854f0bd3d8825f04d5c7f52d97b2d37ff9a6",
+      "summary": "fix: forward generation timeout to model HTTP requests (#462) ## Summary `generationTimeoutSec` (Settings → Advanced → Generation timeout) only arms the run-level `AbortController`. The model HTTP req",
+      "source": "OpenCo Commits",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 12,
+      "date": "2026-10-05",
+      "tags": [
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "97962c90d584",
+      "title": "As AI agents go rogue, cyber insurers are adapting their policies - Emirates 24|7",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUHVNaEhNMms5RzBhSjEtcG8tZGVMd0ljV1lNblJ4bVVMenlvN2pyUF93bkYza3RHZUJhYXVHSVhWRTJUekJwMXhURkhyS0g1OGtaWWhuME5YR3RsdWxEdDVmT2lwR2ctU1BJSjdlaGhwVDVzZEZPQnNCRUJfUmdvMU54azZJNGlzSjRqUUVqYXhmbnhGQ3FqWDJTNUQ5LXdSRm9GMnFPS1FDbWtCUmw3VFVqaGt0WVhxTlVqcHIycXhYVXNGTVVJeV9lZzRUaVg40gHrAUFVX3lxTE56U2YzZFVFb3gxbFBSal8tNnFqbkNtdHpXRnNPc2FlUk5NZlNyZzBmSElrS1B6UFVBR045N3VxRHp4ZzhoeHZ4dzcwV0UwYkVXNGdKdnAyWVVQT2FnQWpqWXFlSnBfdHJ6MnVpbHl5QWN0dHA0M1Y4djk3bTJRN2pOWXA4akgydHpDUzJ6VDhPRy1SdVA4T2RhWFREZFVuS3hWZlBiSlplaDYyNWZpMUhoV3JKVnZPTFFHcV85cjAtcHZnZTU4aEl6eTBIXzktY01SNWZ3VC1CNkZQLWluUmRFMnp1eFh6TGVVUTQ?oc=5",
+      "summary": "As AI agents go rogue, cyber insurers are adapting their policies  Emirates 24|7",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-10-05",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "52240a95bfbb",
+      "title": "CBN: Nigerians suspend investments, house purchases as living costs bite harder",
+      "url": "https://nairametrics.com/2026/10/04/cbn-nigerians-suspend-investments-house-purchases-as-living-costs-bite-harder/",
+      "summary": "Nigerian households became more pessimistic about economic and family financial conditions in September 2026, while their appetite for major..\nThe post CBN: Nigerians suspend investments, house purcha",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-10-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "dc6d4f01dd49",
+      "title": "NDLEA intercepts N5 billion drugs, destroys 20,234kg cannabis in Osun",
+      "url": "https://nairametrics.com/2026/10/04/ndlea-intercepts-n5-billion-drugs-destroys-20234kg-cannabis-in-osun/",
+      "summary": "The National Drug Law Enforcement Agency (NDLEA) has intercepted illicit drug consignments worth more than N5 billion at seaports in Lagos...\nThe post NDLEA intercepts N5 billion drugs, destroys 20,23",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-10-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d70ee72fcb7f",
+      "title": "WAEC appoints Suleiman Kum as new Head of Nigeria National Office",
+      "url": "https://nairametrics.com/2026/10/04/waec-appoints-suleiman-kum-as-new-head-of-nigeria-national-office/",
+      "summary": "The West African Examinations Council (WAEC) has appointed Mr Suleiman Kum as the new Head of its Nigeria National Office (HNO).\nThe post WAEC appoints Suleiman Kum as new Head of Nigeria National Off",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-10-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "08ca6972c8c4",
+      "title": "fix(providers): add opt-in base64 responses for image gateways (#454)",
+      "url": "https://github.com/OpenCoworkAI/open-codesign/commit/0d3d63ef49679bb09884c4af5267f1746b81c75e",
+      "summary": "fix(providers): add opt-in base64 responses for image gateways (#454) ## Summary Add an explicit \"Request base64 response\" option for OpenAI-compatible image gateways that otherwise return unusable UR",
+      "source": "OpenCo Commits",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 9,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "873bdc62502d",
+      "title": "Meet the Chief Risk Officers behind Nigeria’s most capitalized banks in 2026",
+      "url": "https://nairametrics.com/2026/10/04/meet-the-chief-risk-officers-behind-nigerias-most-capitalized-banks-in-2026/",
+      "summary": "Here are the risk executives behind 10 of the most capitalized banking groups on the NGX based on market trade day as of October 2, 2026.\nThe post Meet the Chief Risk Officers behind Nigeria’s most ca",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-10-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "77605043339e",
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "url": "https://github.com/allenv0/SCM",
+      "summary": "Article URL: https://github.com/allenv0/SCM\nComments URL: https://news.ycombinator.com/item?id=49952111\nPoints: 149\n# Comments: 67",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 7,
+      "date": "2026-10-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2949d83f323b",
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "url": "https://github.com/omlahore/RemoveMacAI",
+      "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 483\n# Comments: 302",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 7,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "dcfcaaf9f854",
+      "title": "feat(desktop): show design usage totals by day and week (#460)",
+      "url": "https://github.com/OpenCoworkAI/open-codesign/commit/09f21c397bcdde9c310489b73b7dc29b99db981e",
+      "summary": "feat(desktop): show design usage totals by day and week (#460) ## Summary The sidebar now shows recorded token and USD totals for the current design: the design lifetime, local today, and the Monday-s",
+      "source": "OpenCo Commits",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5dfe36b5b466",
+      "title": "All I wanted was a custom domain email",
+      "url": "https://jacobg.co/emails-at-jacobg-co/",
+      "summary": "Article URL: https://jacobg.co/emails-at-jacobg-co/\nComments URL: https://news.ycombinator.com/item?id=49956092\nPoints: 48\n# Comments: 67",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5a9d3b52d886",
+      "title": "Bank dominance on NGX reflects structural economic problems — Experts",
+      "url": "https://nairametrics.com/2026/10/04/bank-dominance-on-ngx-reflects-structural-economic-problems-experts/",
+      "summary": "The dominance of banks among Nigeria's most valuable and best-performing listed companies is a sign of deeper structural weaknesses in the economy rather than evidence of economic strength.\nThe post B",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e7a5bc798172",
+      "title": "Bimbo Ademoye’s ‘My 30th Wedding’ crosses 10 million views on YouTube in 48hrs",
+      "url": "https://nairametrics.com/2026/10/04/bimbo-ademoyes-my-30th-wedding-crosses-10-million-views-on-youtube-in-48hrs/",
+      "summary": "Nollywood actress and filmmaker Bimbo Ademoye has recorded another digital milestone after her latest romantic movie, My 30th Wedding...\nThe post Bimbo Ademoye’s ‘My 30th Wedding’ crosses 10 million v",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "614bab6cdc48",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3838ea8ef753",
+      "title": "FG vehicle rules could force billions in government car spending to local automakers",
+      "url": "https://nairametrics.com/2026/10/04/fg-vehicle-rules-could-force-billions-in-government-car-spending-to-local-automakers/",
+      "summary": "The Federal Government’s tighter vehicle procurement rules for Ministries, Departments and Agencies (MDAs) could give local automakers a fresh boost by requiring government entities to demonstrate com",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e4120e4da126",
+      "title": "Homa: The end of TCP for AI clusters [video]",
+      "url": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
+      "summary": "Paper: \nhttps://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stanford-pro...\n\nComments URL: https://news.",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-10-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "78a4b126e5d1",
+      "title": "How to scale intent, quality, and artistry with AI [video]",
+      "url": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
+      "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk\nComments URL: https://news.ycombinator.com/item?id=49951891\nPoints: 72\n# Comments: 22",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-10-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7673bf02a2dc",
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+      "summary": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/\nComments URL: https://news.ycombinator.com/item?id=49957068\nPoint",
+      "source": "Hacker News",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e0b84e935534",
+      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 92\n# Comments: 9",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2f3f2fbc5585",
+      "title": "NAFDAC raids Lagos markets, seizes N300 million worth of banned alcoholic drinks",
+      "url": "https://nairametrics.com/2026/10/05/nafdac-raids-lagos-markets-seizes-n300-million-worth-of-banned-alcoholic-drinks/",
+      "summary": "The National Agency for Food and Drug Administration and Control (NAFDAC) has seized alcoholic beverages worth an estimated N300 million during enforcement operations targeting banned sachet alcohol a",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "70d4c05d145a",
+      "title": "NITDA warns organisations, staff against sharing sensitive data with public AI tools",
+      "url": "https://nairametrics.com/2026/10/04/nitda-warns-organisations-staff-against-sharing-sensitive-data-with-public-ai-tools/",
+      "summary": "The National Information Technology Development Agency (NITDA) has warned organisations and their staff against entering personal, classified.\nThe post NITDA warns organisations, staff against sharing",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-05",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a785f1b0d36f",
+      "title": "Nigeria cannot import its way out of high petrol costs",
+      "url": "https://nairametrics.com/2026/10/04/nigeria-cannot-import-its-way-out-of-high-petrol-costs/",
+      "summary": "Nigeria is no longer arguing about whether it can refine petrol. It is arguing about whether it should still import the same product now that a large local refinery exists. On one side are marketers, ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6e5d42792657",
+      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+      "summary": "Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/\nComments URL: https://news.ycombinator.com/item?id",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "acc217188589",
+      "title": "TechCrunch Mobility: Reining in robotaxis",
+      "url": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-10-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a25e82235138",
+      "title": "The readiness gap: Why African families must prepare children before they inherit",
+      "url": "https://nairametrics.com/2026/10/04/the-readiness-gap-why-african-families-must-prepare-children-before-they-inherit/",
+      "summary": "Across Africa, a generation of founders is doing the visible work of legacy planning. Businesses are being formalised. Assets are being structured. Properties are being acquired. Investment portfolios",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3d6685bf2f12",
+      "title": "feat(desktop): add LiteLLM Gateway provider preset (#463)",
+      "url": "https://github.com/OpenCoworkAI/open-codesign/commit/6799d55339d5425ca03a10d4ce20ed7c19e53d0d",
+      "summary": "feat(desktop): add LiteLLM Gateway provider preset (#463) Add a LiteLLM Gateway preset using the existing custom-provider flow, with an OpenAI-compatible endpoint, keyless or master/virtual-key setup,",
+      "source": "OpenCo Commits",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 6,
+      "date": "2026-10-05",
+      "tags": [
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5af4b86fd004",
+      "title": "A browser-native classic Visual Basic VB6 IDE",
+      "url": "https://wieslawsoltes.github.io/VB6/",
+      "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 150\n# Comments: 56",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f7ee7ed50ec9",
+      "title": "Automating my 35mm film scanning pipeline",
+      "url": "https://shannadige.com/blog/darkroom/",
+      "summary": "Article URL: https://shannadige.com/blog/darkroom/\nComments URL: https://news.ycombinator.com/item?id=49946148\nPoints: 63\n# Comments: 44",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "72156905d58d",
+      "title": "FCT Police order arrest, prosecution of motorists with fake plates, no tinted permits",
+      "url": "https://nairametrics.com/2026/10/04/fct-police-order-arrest-prosecution-of-motorists-with-fake-plates-no-tinted-permits/",
+      "summary": "The Commissioner of Police in charge of the Federal Capital Territory (FCT), Ahmed Muhammed Sanusi, has ordered the immediate arrest and prosecution of motorists or vehicle owners without valid licenc",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 4,
+      "date": "2026-10-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e29c910443d7",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "summary": "AI slop seems to be overwhelming bug bounty programs.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-10-05",
+      "tags": [
+        "ai",
+        "tech",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c5d42d202cd6",
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "url": "https://github.com/Niko1221/Strata",
+      "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 693\n# Comments: 320",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4530cd82d354",
+      "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+      "url": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+      "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 108\n# Comments: 30",
+      "source": "Hacker News",
+      "angle": "Optimize self-hosted infra; extend your 70% cloud cost reduction.",
+      "score": 4,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e3270b0d0a8e",
+      "title": "Xray-core concealed a certificate verification bypass vulnerability",
+      "url": "https://github.com/net4people/bbs/issues/672",
+      "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 71\n# Comments: 9",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "21facdf52605",
+      "title": "'Neanderthals Among Us' review",
+      "url": "https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review",
+      "summary": "Article URL: https://www.historytoday.com/archive/review/neanderthals-among-us-peter-sahlins-review\nComments URL: https://news.ycombinator.com/item?id=49947565\nPoints: 64\n# Comments: 53",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "cd7c323836ba",
+      "title": "A 40ms Go garbage collector pause caused by swap",
+      "url": "https://frn.sh/go-gc/",
+      "summary": "Article URL: https://frn.sh/go-gc/\nComments URL: https://news.ycombinator.com/item?id=49959654\nPoints: 40\n# Comments: 11",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e16e8f77bd08",
+      "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+      "url": "https://getartcraft.com/apps",
+      "summary": "Article URL: https://getartcraft.com/apps\nComments URL: https://news.ycombinator.com/item?id=49958850\nPoints: 76\n# Comments: 75",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f3766752b13f",
+      "title": "Bill Draper has died",
+      "url": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+      "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 107\n# Comments: 31",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a9cadfe28e4c",
+      "title": "Blindsight (Watts Novel)",
+      "url": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
+      "summary": "Article URL: https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)\nComments URL: https://news.ycombinator.com/item?id=49955297\nPoints: 72\n# Comments: 71",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "21218770b67f",
+      "title": "Ikoyi land prices hit N6 million per sqm, Oak Holdings CEO questions the economics",
+      "url": "https://nairametrics.com/2026/10/04/ikoyi-land-prices-hit-n6-million-per-sqm-oak-holdings-ceo-questions-the-economics/",
+      "summary": "There is no clear economic or scientific basis driving the sharp rise in real estate prices in Banana Island, according to Olukayode Olusanya.\nThe post Ikoyi land prices hit N6 million per sqm, Oak Ho",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-10-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "75eace235380",
+      "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
+      "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+      "summary": "Article URL: https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857\nComments URL: https://news.ycombinator.com/item?id=49960084\n",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-05",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2d10c8114cfe",
+      "title": "REDMI Note 17 Series: Xiaomi launches smartphone that can last for 3 days in Lagos",
+      "url": "https://technext24.com/reviews/redmi-note-17-series-xiaomi-launches-lagos/",
+      "summary": "Since its early generations, the REDMI Note Series has built its reputation around a simple idea: premium products…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-10-05",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d2dbf0fd4d88",
+      "title": "Trump unveils his new Super Intelligence Force",
+      "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-05",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
     }
   ],
   "deadlines": [
-    {
-      "title": "Call for Session Proposals: African Youth Charter (AYC) @20 Pan African Youth Forum 2026  (Addis Ababa, Ethiopia)",
-      "date": "2026-10-04",
-      "first_seen": "2026-09-24",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/call-for-session-proposals-african-youth-charter-ayc-20-pan-african-youth-forum-2026/",
-      "article_id": "f79554a8bf83"
-    },
-    {
-      "title": "The Internet Governance Forum (IGF) 2026 Youth Mentorship Programme",
-      "date": "2026-10-04",
-      "first_seen": "2026-09-29",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/the-internet-governance-forum-igf-2026-youth-mentorship-programme/",
-      "article_id": "cf601f4111c5"
-    },
     {
       "title": "McKinsey’s Forward Program Fall 2026 for young African Professionals.",
       "date": "2026-10-05",
