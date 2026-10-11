@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-10-10T06:01:16Z",
-    "total_articles": 10208,
-    "total_days": 144
+    "last_updated": "2026-10-11T06:00:42Z",
+    "total_articles": 10233,
+    "total_days": 145
   },
   "articles": [
     {
@@ -146257,41 +146257,364 @@
         "tech"
       ],
       "duplicate_of": null
+    },
+    {
+      "id": "01a2b60a92fb",
+      "title": "Dangote Refinery IPO: How United Capital is taking Nigeria’s Biggest Investment Opportunity Beyond Its Borders",
+      "url": "https://nairametrics.com/2026/10/10/dangote-refinery-ipo-how-united-capital-is-taking-nigerias-biggest-investment-opportunity-beyond-its-borders/",
+      "summary": "For most of the last four decades, Nigeria has lived with an uncomfortable contradiction. As Africa’s largest crude oil producer, it shipped barrels out to the world and bought back the petrol, diesel",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 13,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "80baf8427757",
+      "title": "The Nigerian founders who turned travel frustrations into a fintech",
+      "url": "https://techcabal.com/2026/10/10/timon-founders-and-visa-hurdles/",
+      "summary": "Facing a backlog at the American Embassy in Lagos that threatened to run out of time for their interview window, Ayorinde and his team scrambled for help. Investor Kola Aina of Ventures Platform, whic",
+      "source": "TechCabal",
+      "angle": "Nigerian ecosystem pulse — relevant for enterprise consulting and PORA positioning.",
+      "score": 12,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5e3033d87c7e",
+      "title": "Best performing balanced mutual funds in Nigeria as of September 2026",
+      "url": "https://nairametrics.com/2026/10/10/best-performing-balanced-mutual-funds-in-nigeria-as-of-september-2026/",
+      "summary": "Nigeria's balanced mutual fund segment recorded a strong increase in net asset value (NAV), reaching N191.02 billion as of September 2026, up 23.94% from N154.13 billion at the end of August, as the s",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "40ffbe9fee2c",
+      "title": "Lagos launches up to N200 billion 10-year bond: Key takeaways for investors",
+      "url": "https://nairametrics.com/2026/10/10/lagos-launches-up-to-n200-billion-10-year-bond-key-takeaways-for-investors/",
+      "summary": "The Lagos State Government has opened its Series 5 Fixed Rate Bond offer to raise up to N200 billion under its N1 trillion Debt and Hybrid Instruments Issuance Programme.\nThe post Lagos launches up to",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "429662aa0d33",
+      "title": "SEC DG warns shortage of credible issuers could inflate asset prices",
+      "url": "https://nairametrics.com/2026/10/10/sec-dg-warns-shortage-of-credible-issuers-could-inflate-asset-prices/",
+      "summary": "The Director-General of the Securities and Exchange Commission (SEC), Dr Emomotimi Agama, has warned that a shortage of credible issuers in Nigeria’s capital market could drive up the prices of existi",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3b4a9361f309",
+      "title": "Best performing Nigerian stocks for the week ended October 9, 2026",
+      "url": "https://nairametrics.com/2026/10/10/best-performing-nigerian-stocks-for-the-week-ended-october-9-2026/",
+      "summary": "Nigerian equities closed lower for the second straight week, with the benchmark NGX All-Share Index (ASI) declining 0.97% to close at 248,363.55 points from 250,808.27 points.\nThe post Best performing",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9fe5061e1a75",
+      "title": "Fitch revises Nigeria’s credit outlook to positive, affirms ‘B’ rating",
+      "url": "https://nairametrics.com/2026/10/10/fitch-revises-nigerias-credit-outlook-to-positive-affirms-b-rating/",
+      "summary": "Fitch Ratings has revised Nigeria’s credit outlook to Positive from Stable while affirming its long-term issuer default ratings at ‘B’.\nThe post Fitch revises Nigeria’s credit outlook to positive, aff",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "650d9af5d207",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source": "TechCrunch",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 6,
+      "date": "2026-10-11",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "33f7ad069a32",
+      "title": "Long leases slash entry barrier into Lagos real estate by up to 70% — Sanni Faruq",
+      "url": "https://nairametrics.com/2026/10/10/long-leases-slash-entry-barrier-into-lagos-real-estate-by-up-to-70-sanni-faruq/",
+      "summary": "In an exclusive interview with Nairametrics, Sanni Faruq, Lead Consultant at Senior Homes and Properties, a real estate company specialising in long-lease arrangements, discussed changing buyer prefer",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3498bf396d4e",
+      "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+      "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-10-11",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7b724824e18d",
+      "title": "Naira likely to break below N1,300/$ amid high FX supply",
+      "url": "https://nairametrics.com/2026/10/10/naira-likely-to-break-below-n1300-amid-high-fx-supply/",
+      "summary": "The Nigerian currency is projected to trade stable to bullish, with a 6-month target in the N1,250/$-1350/$ corridor, supported by CBN interventions and market confidence.\nThe post Naira likely to bre",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e0e2f9bc2e66",
+      "title": "Nigeria records world’s highest diesel price increase at 82.7% – Report",
+      "url": "https://nairametrics.com/2026/10/10/nigeria-records-worlds-highest-diesel-price-increase-at-82-7-report/",
+      "summary": "Nigeria recorded the world’s highest diesel price increase, at 82.7%, between February and August 2026, according to the United Nations Conference on Trade and Development (UNCTAD).\nThe post Nigeria r",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "692c0606c507",
+      "title": "SEC DG proposes investment funds to finance university hostels",
+      "url": "https://nairametrics.com/2026/10/10/sec-dg-proposes-investment-funds-to-finance-university-hostels/",
+      "summary": "The Director-General of the Securities and Exchange Commission (SEC), Dr Emomotimi Agama, has proposed the establishment of investment funds to finance student hostel construction in Nigerian universi",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2963cc8107bd",
+      "title": "SEC disowns WayvePay, warns Nigerians against investing through platform",
+      "url": "https://nairametrics.com/2026/10/10/sec-disowns-wayvepay-warns-nigerians-against-investing-through-platform/",
+      "summary": "The Securities and Exchange Commission (SEC) has disowned online investment platform WayvePay, warning Nigerians against investing through the company over concerns about suspected fraudulent activiti",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c0f84c620474",
+      "title": "Spiro plans 200,000-bike production capacity in Nigeria",
+      "url": "https://technext24.com/news/spiro-plans-bigger-electric-bike-production/",
+      "summary": "Spiro is gearing up to significantly boost its motorcycle production capacity in Nigeria, ramping up from 30,000 to…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": "2026-10-10"
+    },
+    {
+      "id": "481221b4c049",
+      "title": "Strong dollar, heavy debt threaten Africa’s currencies, development spending – Dangote Group",
+      "url": "https://nairametrics.com/2026/10/10/strong-dollar-heavy-debt-threaten-africas-currencies-development-spending-dangote-group/",
+      "summary": "A strong US dollar, elevated global interest rates and heavy external debt are putting pressure on African currencies and limiting governments’ capacity to finance development, even as the continent’s",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6a2e25c055d3",
+      "title": "UN names Nigeria among oil exporters set to benefit from higher energy prices",
+      "url": "https://nairametrics.com/2026/10/10/un-names-nigeria-among-oil-exporters-set-to-benefit-from-higher-energy-prices/",
+      "summary": "Nigeria is among the oil and gas exporters positioned to benefit from higher global energy prices, although rising refined fuel costs could offset some of the gains.\nThe post UN names Nigeria among oi",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "36f34456a327",
+      "title": "Why AI success in Africa hinges on power infrastructure — Gary Chomse",
+      "url": "https://nairametrics.com/2026/10/10/why-ai-success-in-africa-hinges-on-power-infrastructure-gary-chomse/",
+      "summary": "In this interview with Nairametrics, Gary Chomse, Regional Director for Central and Southern Africa, explores why power, cooling and compute must now be treated as a connected ecosystem.\nThe post Why ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "45d04c23059f",
+      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
+      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
+      "summary": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ s",
+      "source": "TechCrunch",
+      "angle": "Directly relevant to your Nigerian tech ecosystem work.",
+      "score": 4,
+      "date": "2026-10-11",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "dfa71fd3f3ad",
+      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+      "summary": "Is Apple hoping to get into the AI-generated podcast business?",
+      "source": "TechCrunch",
+      "angle": "Directly relevant to your Nigerian tech ecosystem work.",
+      "score": 4,
+      "date": "2026-10-11",
+      "tags": [
+        "tech",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "52265f5e496c",
+      "title": "Cloudflare acquires Deno to improve its Workers programming model",
+      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "summary": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+      "source": "TechCrunch",
+      "angle": "Optimize self-hosted infra; extend your 70% cloud cost reduction.",
+      "score": 4,
+      "date": "2026-10-11",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "90835e0ec09f",
+      "title": "Meet 10 entrepreneurs building the tech and businesses behind Africa’s digital music economy",
+      "url": "https://technext24.com/social-tech/10-digital-africa-music-entrepreneurs/",
+      "summary": "African music has travelled far beyond the continent, with Afrobeats, Amapiano and other homegrown sounds reaching audiences through…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 4,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1a88fc955aed",
+      "title": "OPay makes $90.9 million profit in six months as it files for a US IPO",
+      "url": "https://technext24.com/news/opay-makes-90-9-million-profit-in-6-months/",
+      "summary": "OPay, one of Nigeria’s leading fintechs, has revealed strong financial performance as it moves closer to potentially listing…",
+      "source": "Technext",
+      "angle": "Nigerian ecosystem pulse — relevant for enterprise consulting and PORA positioning.",
+      "score": 4,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "39464630d43a",
+      "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+      "url": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+      "summary": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+      "source": "TechCrunch",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 4,
+      "date": "2026-10-11",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "382abb10e0a5",
+      "title": "Russia to supply 4.8 million tonnes of diesel to global markets under Trump-Putin deal",
+      "url": "https://nairametrics.com/2026/10/10/russia-to-supply-4-8-million-tonnes-of-diesel-to-global-markets-under-trump-putin-deal/",
+      "summary": "Russia has agreed to supply more than 4.8 million tonnes of diesel to the United States and global markets under an agreement reached between US President Donald Trump and his Russian counterpart, Vla",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-10-11",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
     }
   ],
   "deadlines": [
-    {
-      "title": "Reckitt Nigeria 2026 Management Trainee Program (Trailblazers 5.0) for young Nigerian graduates.",
-      "date": "2026-10-10",
-      "first_seen": "2026-09-21",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/reckitt-nigeria-2026-management-trainee-program-trailblazers-5-0-for-young-nigerian-graduates/",
-      "article_id": "62c1a9af5f0c"
-    },
-    {
-      "title": "The ACEP Youth Champions for Fiscal Accountability (YCFA) Fellowship 2026 for Young Ghanaians",
-      "date": "2026-10-10",
-      "first_seen": "2026-09-29",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/the-acep-youth-champions-for-fiscal-accountability-ycfa-fellowship-2026-for-young-ghanaians/",
-      "article_id": "e86f368233d6"
-    },
-    {
-      "title": "The ACEP Media Fellowship on Fiscal Accountability and Anti-Corruption 2026 for Journalists and Content Producers.",
-      "date": "2026-10-10",
-      "first_seen": "2026-09-29",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/the-acep-media-fellowship-on-fiscal-accountability-and-anti-corruption-2026-for-journalists-and-content-producers/",
-      "article_id": "eb682663dae8"
-    },
-    {
-      "title": "The Oilserv Ingenious Graduate Trainee Programme (IGTP) 2027 for young Nigerian graduates.",
-      "date": "2026-10-10",
-      "first_seen": "2026-10-02",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/the-2027-oilserv-ingenious-graduate-trainee-programme/",
-      "article_id": "b2ff0d2af916"
-    },
     {
       "title": "MTN Foundation ICT and Business Skills Training  (Phase 8) for young Nigerian Entrepreneurs (N100 million in Equipment Grant)",
       "date": "2026-10-11",
