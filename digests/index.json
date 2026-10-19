@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-10-18T06:01:16Z",
-    "total_articles": 10670,
-    "total_days": 152
+    "last_updated": "2026-10-19T06:01:03Z",
+    "total_articles": 10713,
+    "total_days": 153
   },
   "articles": [
     {
@@ -152874,25 +152874,618 @@
         "nigeria"
       ],
       "duplicate_of": null
+    },
+    {
+      "id": "0c45157417c8",
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "summary": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.I wanted to run it for free",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 13,
+      "date": "2026-10-19",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "78770460dc43",
+      "title": "DeepSeek V4.1 Flash 1017 (Max)",
+      "url": "https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017",
+      "summary": "Article URL: https://artificialanalysis.ai/models/deepseek-v4-1-flash-1017\nComments URL: https://news.ycombinator.com/item?id=50148452\nPoints: 71\n# Comments: 19",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 12,
+      "date": "2026-10-19",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "dcaa50832108",
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "summary": "https://x.com/Jiaru_Zou/status/2110400256647340476https://github.com/togethercomputer/HybridAgenthttps://huggingface.co/collections/togethercomputer/hybridag...Evaluations: https://arxiv.org/html/2610",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 10,
+      "date": "2026-10-19",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "11eb161e3ba5",
+      "title": "AXA Mansard retains directors, appoints EY as auditor - Punch Newspapers",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41UXcwcC1Hb1RHOURCWHE1bklJdVBCQUdLdHdmYTNGdTY5ZnV6bFJCay02Tk9DYWhVY2lTNHhySlQyUDJlWVVweUh1azVDajB6QmpTMkE3RlJ5QVBYc2FKb2pqdXZuLWJlZ2RSVjMwTEJiLVQ0NHp1OWU5OFJGZw?oc=5",
+      "summary": "AXA Mansard retains directors, appoints EY as auditor  Punch Newspapers",
+      "source": "AXA Mansard",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-10-19",
+      "tags": [
+        "axa"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b2e415a0758d",
+      "title": "Bank credit to Nigerian manufacturers falls 26.8% to N5.19 trillion, CBN data show",
+      "url": "https://nairametrics.com/2026/10/19/bank-credit-to-nigerian-manufacturers-falls-26-8-to-n5-19-trillion-cbn-data-show/",
+      "summary": "Credit extended by Nigerian banks to the manufacturing sector fell by 26.8% year-on-year to N5.19 trillion in June 2026, according to data from the Central Bank of Nigeria (CBN), highlighting a declin",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-10-19",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e0556a1c3848",
+      "title": "FG rules out return to fuel subsidy, multiple exchange rates",
+      "url": "https://nairametrics.com/2026/10/18/fg-rules-out-return-to-fuel-subsidy-multiple-exchange-rates/",
+      "summary": "The Federal Government has ruled out restoring fuel subsidies and multiple exchange rates, reaffirming its commitment to economic reforms as it seeks to translate stabilisation gains into investment, ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-10-19",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "cccde42e1248",
+      "title": "NDLEA intercepts N7.1 billion drugs in Lagos, arrests 85-year-old woman in Edo",
+      "url": "https://nairametrics.com/2026/10/18/ndlea-intercepts-n7-1-billion-drugs-in-lagos-arrests-85-year-old-woman-in-edo/",
+      "summary": "The National Drug Law Enforcement Agency (NDLEA) has intercepted illicit drugs worth over N7.1 billion at two Lagos ports and arrested an 85-year-old woman in Edo State as part of a nationwide crackdo",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-10-19",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "cf1a5a48c07a",
+      "title": "Nigeria, Benin, Cameroon partner Afreximbank on border modernisation",
+      "url": "https://nairametrics.com/2026/10/18/nigeria-benin-cameroon-partner-afreximbank-on-border-modernisation/",
+      "summary": "The Nigeria Customs Service (NCS) and the customs administrations of the Republic of Benin and Cameroon are working with the African Export-Import Bank (Afreximbank) on a regional border modernisation",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-10-19",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "07fa57df0523",
+      "title": "Nigeria’s imported food Price growth slows to 9.2%, lowest in six months",
+      "url": "https://nairametrics.com/2026/10/18/nigerias-imported-food-price-growth-slows-to-9-2-lowest-in-six-months/",
+      "summary": "Nigeria’s imported food price index recorded an annual growth rate of 9.19% in September 2026, its slowest pace since March, according to calculations based on the latest National Bureau of Statistics",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-10-19",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "db7d04c79ce9",
+      "title": "Presidency dismisses Makinde’s claim of N250 billion NLNG dividends per state",
+      "url": "https://nairametrics.com/2026/10/18/presidency-dismisses-makindes-claim-of-n250-billion-nlng-dividends-per-state/",
+      "summary": "The Presidency has dismissed claims by Oyo State Governor Seyi Makinde that the Federal Government is withholding N250 billion in Nigeria Liquefied Natural Gas (NLNG) dividends meant for each of the 3",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-10-19",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "73ef0b6f675c",
+      "title": "Veritas Kapital Assurance swings to N3.16 billion pre-tax profit in 2025, as profit after tax rises 86%",
+      "url": "https://nairametrics.com/2026/10/18/veritas-kapital-assurance-swings-to-n3-16-billion-pre-tax-profit-in-2025-as-profit-after-tax-rises-86/",
+      "summary": "Veritas Kapital Assurance Plc reported a profit after tax of N3.046 billion for 2025, up from N1.634 billion in 2024, and a pre-tax profit of N3.156 billion against a loss of N1.485 billion a year ear",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-10-19",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f69160c0c874",
+      "title": "fix: tolerate compatible DESIGN.md metadata during verification (#496)",
+      "url": "https://github.com/OpenCoworkAI/open-codesign/commit/a63feb563da94090778fc5bee67e9672fccd26a1",
+      "summary": "fix: tolerate compatible DESIGN.md metadata during verification (#496) Accept zero and leading-dot dimensions, preserve unknown top-level metadata as warnings, and improve typography repair guidance w",
+      "source": "OpenCo Commits",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-10-19",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1009ca864d7c",
+      "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+      "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+      "summary": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-10-19",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9f61c7a04b77",
+      "title": "FG begins construction of 16MW mini-grids, commissions 1MW solar project in Gombe",
+      "url": "https://nairametrics.com/2026/10/18/fg-begins-construction-of-16mw-mini-grids-commissions-1mw-solar-project-in-gombe/",
+      "summary": "The Federal Government has commissioned a 1-megawatt (MW) solar mini-grid with a 2.4-megawatt-hour (MWh) battery energy storage system in Tallasse, Balanga Local Government Area of Gombe State, while ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-19",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "138fd1a4cb7b",
+      "title": "FG pushes back as World Bank says debt interest swallows 124% of revenue",
+      "url": "https://nairametrics.com/2026/10/18/fg-pushes-back-as-world-bank-says-debt-interest-swallows-124-of-revenue/",
+      "summary": "The Federal Government has disputed claims that its interest payments reached 124% of revenue in the first half of 2026, arguing that the figure presents an incomplete picture of its fiscal position b",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-19",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6a930487c4a2",
+      "title": "FG’s guarantees and contingent liabilities hit N7.84 trillion as dollar swap accounts for 35%",
+      "url": "https://nairametrics.com/2026/10/18/fgs-guarantees-and-contingent-liabilities-hit-n7-84-trillion-as-dollar-swap-accounts-for-35/",
+      "summary": "The Federal Government’s outstanding guarantees and contingent liabilities stood at N7.84 trillion as of June 30, 2026, with collateral for a $1.5 billion Total Return Swap accounting for N2.74 trilli",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-19",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0877233968b1",
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "summary": "Article URL: https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/\nComments URL: https://news.ycombinator.com/item?id=50145507\nPoints: 98\n# Comments: 72",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 6,
+      "date": "2026-10-19",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7cb8432e3bad",
+      "title": "Kenya confirms four new Ebola cases, bringing total to seven",
+      "url": "https://nairametrics.com/2026/10/18/kenya-confirms-four-new-ebola-cases-bringing-total-to-seven/",
+      "summary": "Kenya has confirmed four new cases of Ebola virus disease, bringing the total number of infections in the country to seven, including one death, as authorities intensify efforts to contain the outbrea",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-19",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b6cfb8a40797",
+      "title": "Meet 7 owners of largest private hospitals in Lagos",
+      "url": "https://nairametrics.com/2026/10/18/meet-7-owners-of-largest-private-hospitals-in-lagos/",
+      "summary": "Nairametrics examines some of Lagos' largest private hospitals by reported bed capacity, highlighting the individuals and organisations behind their establishment, ownership and expansion.\nThe post Me",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-19",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "07ddf5a1a2aa",
+      "title": "Namecheap just seized and disabled all my domains",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "summary": "Article URL: https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/\nComments URL: https://news.ycombinator.com/item?id=50142866\nPoints: 520\n# Comments: 2",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-10-19",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ff309145d261",
+      "title": "Navy uncovers illegal refinery with 114,500 litres of petroleum products, arrests 10",
+      "url": "https://nairametrics.com/2026/10/18/navy-uncovers-illegal-refinery-with-114500-litres-of-petroleum-products-arrests-10/",
+      "summary": "The Nigerian Navy has uncovered a suspected illegal refining site containing approximately 114,500 litres of petroleum products in Rivers State, while arresting 10 suspected drug offenders in a separa",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-19",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5fde49a0139c",
+      "title": "Nigeria’s inflation mirage: Food prices fall, but core pressures mount",
+      "url": "https://nairametrics.com/2026/10/18/nigerias-inflation-mirage-food-prices-fall-but-core-pressures-mount/",
+      "summary": "Nigeria’s headline inflation fell to 14.63% in September 2026, down from 15.39% in August and 20.98% in September 2025, according to the National Bureau of Statistics (NBS, 15 October 2026).\nThe post ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-19",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "fd89d31685d7",
+      "title": "Superlite: A Faster Alternatie to Superpowers",
+      "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+      "summary": "Article URL: https://contextfirst.blog/superlite-hand-an-agent-a-spec/\nComments URL: https://news.ycombinator.com/item?id=50147492\nPoints: 41\n# Comments: 17",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 6,
+      "date": "2026-10-19",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "703a7d4d7a49",
+      "title": "TechCrunch Mobility: Rivian’s next act",
+      "url": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-10-19",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ae710d0779a0",
+      "title": "Verisign .com Domain Name Registry Consumer Class Action",
+      "url": "https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action",
+      "summary": "Article URL: https://www.hbsslaw.com/cases/verisign-com-domain-name-registry-consumer-class-action\nComments URL: https://news.ycombinator.com/item?id=50148441\nPoints: 23\n# Comments: 2",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-10-19",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4d247e6161b8",
+      "title": "‘Nigeria Rising’: Oyedele says reforms are changing how world sees Nigeria",
+      "url": "https://nairametrics.com/2026/10/18/nigeria-rising-oyedele-says-reforms-are-changing-how-world-sees-nigeria/",
+      "summary": "The Federal Government says Nigeria is beginning to change how it is perceived internationally, pointing to its tax overhaul and broader economic reforms as evidence that the country is moving towards",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-10-19",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "70c9eb9d3985",
+      "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+      "url": "https://github.com/0x23/MicroManipulatorStepper",
+      "summary": "Article URL: https://github.com/0x23/MicroManipulatorStepper\nComments URL: https://news.ycombinator.com/item?id=50140001\nPoints: 183\n# Comments: 14",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-10-19",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d02c72c0f30c",
+      "title": "PalmOS Lemmings",
+      "url": "https://github.com/ardiri/palmos-lemmings",
+      "summary": "Article URL: https://github.com/ardiri/palmos-lemmings\nComments URL: https://news.ycombinator.com/item?id=50143536\nPoints: 110\n# Comments: 24",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-10-19",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ffe38dc595f5",
+      "title": "RepRapMicron",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "summary": "Article URL: https://github.com/VikOlliver/RepRapMicron/wiki\nComments URL: https://news.ycombinator.com/item?id=50141076\nPoints: 360\n# Comments: 56",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-10-19",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4c722bc72819",
+      "title": "A new way to think about borrow checking (in reverse)",
+      "url": "https://verdagon.dev/blog/reverse-borrow-checking",
+      "summary": "Article URL: https://verdagon.dev/blog/reverse-borrow-checking\nComments URL: https://news.ycombinator.com/item?id=50140383\nPoints: 46\n# Comments: 5",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-19",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "37198697f115",
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-19",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9cc66803e4a7",
+      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "summary": "Article URL: https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky\nComments URL: https://news.ycombinator.com/item?id=50136979\nPoints: 181\n# Comments: 109",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-19",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "dc04c2aa7d19",
+      "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
+      "url": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
+      "summary": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-19",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "54c413326500",
+      "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+      "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
+      "summary": "Article URL: https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/\nComments URL: https://news.ycombinator.com/item?id=50147455\nPoints: 72\n# Comments: 24",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-19",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "bb391df1dc52",
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "summary": "Article URL: https://www.getlazarus.org/dynamic/\nComments URL: https://news.ycombinator.com/item?id=50144066\nPoints: 137\n# Comments: 31",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-19",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "09178307c10a",
+      "title": "How Quickly Can the DoD Rebuild and Recast the Munitions Industrial Base?",
+      "url": "https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base",
+      "summary": "Article URL: https://www.csis.org/analysis/how-quickly-can-dod-rebuild-and-recast-munitions-industrial-base\nComments URL: https://news.ycombinator.com/item?id=50146624\nPoints: 46\n# Comments: 42",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-19",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "fb7153d05be2",
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "url": "https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/",
+      "summary": "Article URL: https://neilmadden.blog/2026/04/24/java-sealed-classes-and-exhaustive-pattern-matching/\nComments URL: https://news.ycombinator.com/item?id=50141579\nPoints: 156\n# Comments: 110",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-19",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "58ecc64590e9",
+      "title": "Niger bans petrol, diesel exports to prioritise domestic fuel supply",
+      "url": "https://nairametrics.com/2026/10/18/niger-bans-petrol-diesel-exports-to-prioritise-domestic-fuel-supply/",
+      "summary": "The Republic of Niger has banned the export of premium petrol and diesel as part of measures to prioritise domestic fuel supply amid growing concerns over disruptions to global petroleum markets.\nThe ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-10-19",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c2039db3fe8b",
+      "title": "Podcasts and livestreaming offer Nigerian creators the next growth frontier… with little pay",
+      "url": "https://technext24.com/social-tech/podcasts-streaming-creators-growth-frontier/",
+      "summary": "In July 2025, more than 1,400 people gathered in London to watch two Nigerian women talk. There was…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-10-19",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c88b6a37c2fd",
+      "title": "Sanity's Edge – A voice BBS from 1994",
+      "url": "https://sanitys-edge.shouden.us",
+      "summary": "Article URL: https://sanitys-edge.shouden.us\nComments URL: https://news.ycombinator.com/item?id=50146966\nPoints: 17\n# Comments: 0",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-19",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4aa6568d1736",
+      "title": "Someone behind the software",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "summary": "Article URL: https://karrisaarinen.com/posts/someone-behind-the-software/\nComments URL: https://news.ycombinator.com/item?id=50142573\nPoints: 381\n# Comments: 151",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-19",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3c0fcccf0c24",
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "summary": "Article URL: https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html\nComments URL: https://news.ycombinator.com/item?id=50142449\nPoints: 97\n# Comments: 33",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-19",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e4aaffa2d214",
+      "title": "William Gibson and the trademarking of cyberspace",
+      "url": "https://colo.to/cyberspace.html",
+      "summary": "Article URL: https://colo.to/cyberspace.html\nComments URL: https://news.ycombinator.com/item?id=50146625\nPoints: 125\n# Comments: 33",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-10-19",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
     }
   ],
   "deadlines": [
-    {
-      "title": "First Bank Nigeria Technology Academy Graduate Trainee Program 2026 for young Nigerian graduates.",
-      "date": "2026-10-18",
-      "first_seen": "2026-10-06",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/first-bank-nigeria-technology-academy-graduate-trainee-program-2026/",
-      "article_id": "f28b7bfcec64"
-    },
-    {
-      "title": "Spotlight Initiative SafeTech Africa HackLab 2026 for young African Innovators ($10,000 in seed capital grants)",
-      "date": "2026-10-18",
-      "first_seen": "2026-10-07",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/spotlight-initiative-safetech-africa-hacklab-2026-for-young-african-innovators/",
-      "article_id": "43c473042b11"
-    },
     {
       "title": "University of Edinburgh Mastercard Foundation Scholars Program 2027/2028 for young Africans (Fully Funded)",
       "date": "2026-10-19",
