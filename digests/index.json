@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-11-01T06:01:09Z",
-    "total_articles": 11633,
-    "total_days": 166
+    "last_updated": "2026-11-02T06:01:20Z",
+    "total_articles": 11681,
+    "total_days": 167
   },
   "articles": [
     {
@@ -166670,25 +166670,689 @@
         "tech"
       ],
       "duplicate_of": null
+    },
+    {
+      "id": "1e2859f79712",
+      "title": "Nigerian co-founded AI startup Minicor raises $3.8 million to bridge AI and legacy business software",
+      "url": "https://nairametrics.com/2026/11/01/nigerian-co-founded-ai-startup-minicor-raises-3-8-million-to-bridge-ai-and-legacy-business-software/",
+      "summary": "Minicor, a San Francisco-based artificial intelligence startup co-founded by Nigerian software engineer Saheed Akinbile, has raised $3.8 million in seed funding to help businesses integrate AI-powered",
+      "source": "Nairametrics",
+      "angle": "Nigerian ecosystem pulse — relevant for enterprise consulting and PORA positioning.",
+      "score": 14,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria",
+        "ai",
+        "opportunity"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d9b181252361",
+      "title": "Show HN: HackerBooks – HackerTube, but for books mentioned on HN",
+      "url": "https://hackerbooks.org",
+      "summary": "Saw Karpathy's HackerTube and wanted the same thing for books. So I had Claude build one (Opus 5.5).It's ~16.5k books that at least two different HN commenters brought up, from 2007 till now. Each boo",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 13,
+      "date": "2026-11-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "419e822bc253",
+      "title": "Build for Nigeria’s worst day, says OPay COO Dotun Adekunle",
+      "url": "https://techcabal.com/2026/11/01/build-for-nigerias-worst-day-says-opay-coo-dotun-adekunle/",
+      "summary": "Nigeria’s technology market is usually described by its problems, from unreliable infrastructure to a volatile economy. Dotun Daniel Adekunle, OPay’s chief operating officer and chief technology offic",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 12,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "aaf3422121b7",
+      "title": "Airtel Africa’s mobile money trust balances hit $1.49 billion",
+      "url": "https://nairametrics.com/2026/11/01/airtel-africas-mobile-money-trust-balances-hit-1-49-billion/",
+      "summary": "Airtel Africa Plc’s mobile money trust balances increased to $1.49 billion as of September 30, 2026, representing a 28.9% rise from the $1.16 billion recorded a year earlier, as the telecommunications",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "090b10bb38a5",
+      "title": "CAF appoints Nigerian Samson Adamu as new General Secretary",
+      "url": "https://nairametrics.com/2026/11/01/caf-appoints-nigerian-samson-adamu-as-new-general-secretary/",
+      "summary": "The Confederation of African Football (CAF) has appointed Nigerian football administrator Samson Adamu as its new General Secretary, placing him in charge of the continental football governing body's ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9a280aff6795",
+      "title": "Lagos food prices: Maize, ogbono and garri record sharp increases in October",
+      "url": "https://nairametrics.com/2026/11/01/lagos-food-prices-maize-ogbono-and-garri-record-sharp-increases-in-october/",
+      "summary": "Food prices across major Lagos markets recorded a reversal in October 2026, with more staples posting price increase than declines, despite a month-on-month fall in Nigeria’s national food inflation r",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2380f3dfd230",
+      "title": "MTN Nigeria’s 9-month cash income tax payments jump 1,271% to N295.4 billion",
+      "url": "https://nairametrics.com/2026/11/01/mtn-nigerias-9-month-cash-income-tax-payments-jump-1271-to-n295-4-billion/",
+      "summary": "MTN Nigeria Communications Plc paid N295.4 billion in income tax during the nine months ended September 30, 2026, representing an increase of approximately 1,271% from N21.5 billion in the correspondi",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "fea3e869f9e4",
+      "title": "Meet the CEOs leading Nigeria’s seven listed oil and gas companies",
+      "url": "https://nairametrics.com/2026/11/01/meet-the-ceos-leading-nigerias-seven-listed-oil-and-gas-companies/",
+      "summary": "Behind these companies are executives with different educational backgrounds, professional experiences and leadership journeys...\nThe post Meet the CEOs leading Nigeria’s seven listed oil and gas comp",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2856862eecf0",
+      "title": "Naira Outlook Stable amid Bonny light at $115 a barrel & CBN’s $55 billion",
+      "url": "https://nairametrics.com/2026/11/01/naira-outlook-stable-amid-bonny-light-at-115-a-barrel-cbns-55-billion/",
+      "summary": "The Nigerian naira enters the month supported by rising crude oil prices, higher domestic oil output, and a substantial increase in foreign reserves.\nThe post Naira Outlook Stable amid Bonny light at ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "69dd72f1ec86",
+      "title": "Nigeria must increase federal revenue share or transfer more responsibilities to states, says Zrosk CIO",
+      "url": "https://nairametrics.com/2026/11/01/nigeria-must-increase-federal-revenue-share-or-transfer-more-responsibilities-to-states-says-zrosk-cio/",
+      "summary": "Nigeria must either increase the Federal Government's share of national revenue or transfer some of its responsibilities to state governments to address its persistent fiscal challenges, according to ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "91ab255cc62e",
+      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
+      "url": "https://github.com/ivankovic/omnidiff",
+      "summary": "I have been researching what the ultimate diff tool would look like, based on actual diffs in open source repositories.OmniDiff can diff: code (25 languages), config, images, PDFs, archives, cursors, ",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 8,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5700e017a59e",
+      "title": "The AI cost of JavaScript frameworks",
+      "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+      "summary": "Article URL: https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/\nComments URL: https://news.ycombinator.com/item?id=50323088\nPoints: 336\n# Comments: 258",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 7,
+      "date": "2026-11-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a24558282fef",
+      "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+      "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+      "summary": "Article URL: https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture\nComments URL: https://news.ycombinator.com/item?id=50332086\nPoints: 58\n# Comments: 30",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-11-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f0388678dc80",
+      "title": "AIICO Insurance’s 9M pre-tax profit rises 27.3% to N19.42 billion on investment gains",
+      "url": "https://nairametrics.com/2026/11/01/aiico-insurances-9m-pre-tax-profit-rises-27-3-to-n19-42-billion-on-investment-gains/",
+      "summary": "AIICO Insurance Plc reported a 27.3% increase in consolidated pre-tax profit to N19.42 billion for the nine months ended September 30, 2026, from N15.25 billion in the corresponding period of 2025, su",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "48190ac91f76",
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "url": "https://news.ycombinator.com/item?id=50328896",
+      "summary": "I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at l",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b36e711252cf",
+      "title": "Beta Glass’ 9M pre-tax profit falls 6.4% to N37.64 billion as finance costs surge 45%",
+      "url": "https://nairametrics.com/2026/11/01/beta-glass-9m-pre-tax-profit-falls-6-4-to-n37-64-billion-as-finance-costs-surge-45/",
+      "summary": "Beta Glass Plc recorded a 6.39% decline in pre-tax profit to N37.64 billion for the nine months ended September 30, 2026, compared with N40.32 billion in the corresponding period of 2025, as higher fi",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0edf1868bc4b",
+      "title": "Binance resumes withdrawals following $6.3 billion breach",
+      "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+      "summary": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "1f49a0f98cd6",
+      "title": "Binance resumes withdrawals in phases after $6 billion cyberattack",
+      "url": "https://nairametrics.com/2026/11/01/binance-resumes-withdrawals-in-phases-after-6-billion-cyberattack/",
+      "summary": "Binance, the world's largest cryptocurrency exchange, has begun restoring cryptocurrency withdrawals in phases following a cyberattack that resulted in the theft of approximately $6.3 billion in digit",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ab5b082d89ca",
+      "title": "DMO raises FGN Savings Bond rates to 13.25%, 14.25% for November",
+      "url": "https://nairametrics.com/2026/11/02/dmo-raises-fgn-savings-bond-rates-to-13-25-14-25-for-november/",
+      "summary": "The Debt Management Office (DMO) has opened its November 2026 Federal Government of Nigeria (FGN) Savings Bond offer, with the three-year instrument offering an interest rate of 14.25% per annum.\nThe ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d5e970e939cf",
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "url": "https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/",
+      "summary": "Article URL: https://shkspr.mobi/blog/2018/11/domain-hacks-with-unusual-unicode-characters/\nComments URL: https://news.ycombinator.com/item?id=50324371\nPoints: 68\n# Comments: 49",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "801d2b412ce7",
+      "title": "Industrial Goods leads NGX sectors with 16.85% gain in October as banks fall 10.42%",
+      "url": "https://nairametrics.com/2026/11/01/industrial-goods-leads-ngx-sectors-with-16-85-gain-in-october-as-banks-fall-10-42/",
+      "summary": "The Industrial Goods Index led the Nigerian Exchange (NGX) sectoral performance in October 2026, gaining 16.85% as banking stocks recorded the steepest decline, with the Banking Index falling 10.42% d",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e9fbabab8112",
+      "title": "Lagos Real Estate: Goania Project MD reveals costs developers underestimate",
+      "url": "https://nairametrics.com/2026/11/01/lagos-real-estate-goania-projects-md-reveals-costs-developers-underestimate/",
+      "summary": "In an exclusive interview with Nairametrics, Tpl. Godfrey C. Aniebo, Managing Director and Co-founder of Goania Project Limited, a Lagos-based town planning consultancy, shares his perspective on the ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "112cfa783e00",
+      "title": "No confirmed Ebola case in Adamawa as suspected cases test negative",
+      "url": "https://nairametrics.com/2026/11/01/no-confirmed-ebola-case-in-adamawa-as-suspected-cases-test-negative/",
+      "summary": "The Nigeria Centre for Disease Control and Prevention (NCDC) has confirmed that two suspected Ebola cases reported in Adamawa State tested negative after two rounds of laboratory testing, with no conf",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3eefab459ac7",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "summary": "Data centers are deeply unpopular. But what if we called them something else?",
+      "source": "TechCrunch",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e4a2b3b18162",
+      "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+      "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-11-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "04c53b3262a3",
+      "title": "The Megadonors Who Have Poured $1.2B into the Midterms",
+      "url": "https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html",
+      "summary": "Article URL: https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html\nComments URL: https://news.ycombinator.com/item?id=50331158\nPoints: 49\n# Comments: 32",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b4f443300e03",
+      "title": "👨🏿‍🚀TechCabal Daily – OPay’s IPO hits a wall",
+      "url": "https://techcabal.com/2026/11/02/techcabal-daily-opays-ipo-hits-a-wall/",
+      "summary": "In today's edition: OPay withdraws US IPO || Egypt’s first locally assembled EVs || Airtel Africa acquires more 5G spectrum || South Africa's taxman comes for influencers",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c76fc5f41d7e",
+      "title": "Game Off 2026: The theme is SHIFT",
+      "url": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key.\nThe p",
+      "source": "GitHub Blog",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d816c286b509",
+      "title": "MTN Nigeria’s fintech revenue drops 25.9% despite MoMo’s 102% growth",
+      "url": "https://technext24.com/news/mtn-nigeria-fintech-revenue-drops-despite-momo/",
+      "summary": "MTN Nigeria’s fintech division experienced a 25.9% decline in revenue during the first nine months of 2026, despite…",
+      "source": "Technext",
+      "angle": "Nigerian ecosystem pulse — relevant for enterprise consulting and PORA positioning.",
+      "score": 4,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "39e86f830095",
+      "title": "Trigger.dev customer environment variables exposed",
+      "url": "https://trigger.dev/blog/security-incident-nov-2026",
+      "summary": "Article URL: https://trigger.dev/blog/security-incident-nov-2026\nComments URL: https://news.ycombinator.com/item?id=50331784\nPoints: 47\n# Comments: 16",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7b43cbb0cb60",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+      "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-02",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6506b65ca1e3",
+      "title": "African creators need infrastructure that turns attention into income, Moonshot panel says",
+      "url": "https://techcabal.com/2026/11/01/african-creators-moonshot/",
+      "summary": "Africa’s creators have the talent and the audience. What holds them back is the infrastructure that turns attention into income.",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6aa2012c5928",
+      "title": "Bidirectional charging during grid outages",
+      "url": "https://www.jefftk.com/p/bidirectional-charging-during-grid-outages",
+      "summary": "Article URL: https://www.jefftk.com/p/bidirectional-charging-during-grid-outages\nComments URL: https://news.ycombinator.com/item?id=50319749\nPoints: 94\n# Comments: 144",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f7ce1690b384",
+      "title": "Binance replaces 90% of stolen $6.3bn as withdrawals set to resume today",
+      "url": "https://technext24.com/news/binance-replace-6-3bn-withdrawals-resume-today/",
+      "summary": "Binance has revealed that it has covered 90% of the roughly $6.3 billion stolen in Thursday’s hack, up…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3624a1a30ad3",
+      "title": "Binance resumes withdrawals starting with Bitcoin",
+      "url": "https://technext24.com/news/binance-resumes-withdrawals-with-bitcoin/",
+      "summary": "Binance has begun resuming withdrawals in phases, starting with the Bitcoin network, less than three days after a…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "baa99ec37925",
+      "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "summary": "Article URL: https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/\nComments URL: https://news.ycombinator.com/item?id=50332163\nPoints: 62\n# Comments: 5",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "fa262b7726c2",
+      "title": "FG hands five electric buses to Kano transport firms, targets 40% fare cut",
+      "url": "https://nairametrics.com/2026/11/01/fg-hands-five-electric-buses-to-kano-transport-firms-targets-40-fare-cut/",
+      "summary": "The Federal Government, through the Presidential Initiative on Compressed Natural Gas and Electric Vehicles (Pi-CNG & EV), has handed over five electric buses to transport operators in Kano State, tar",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "035ca10a2aa0",
+      "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
+      "url": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
+      "summary": "Article URL: https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/\nComments URL: https://news.ycombinator.com/item?id=50326099\nPoints: 437\n# Comments: 1",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "925a02e661ee",
+      "title": "MTN Nigeria records ₦4.7 trillion revenue, pays ₦630.5 million tax in the first 9 months of 2026",
+      "url": "https://technext24.com/reviews/mtn-nigeria-records-%e2%82%a64-7-trillion-revenue/",
+      "summary": "MTN Nigeria Communications PLC has recorded ₦4.7 trillion in total revenue during the nine months ended September 2026,…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-11-02",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d4bc950a49af",
+      "title": "Mathematics has changed. Let's act like it",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "summary": "Article URL: https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/\nComments URL: https://news.ycombinator.com/item?id=50328251\nPoints: 259\n# Comments: 285",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "97fb83931176",
+      "title": "Mystery of 60-Second Fluctuations in Power Grids Solved",
+      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+      "summary": "Article URL: https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved\nComments URL: https://news.ycombinator.com/item?id=50315217\nPoints: 66",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0a5305d267b7",
+      "title": "Novellas with Groff",
+      "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+      "summary": "Article URL: https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html\nComments URL: https://news.ycombinator.com/item?id=50325694\nPoints: 118\n# Comments: 51",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0e7b250958a8",
+      "title": "OccupySaaS",
+      "url": "https://occupysaas.com/",
+      "summary": "Article URL: https://occupysaas.com/\nComments URL: https://news.ycombinator.com/item?id=50331402\nPoints: 160\n# Comments: 107",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3dfc866bb620",
+      "title": "One-minute frequency disturbances from synchronization in power systems",
+      "url": "https://www.nature.com/articles/s41560-026-02144-0",
+      "summary": "Article URL: https://www.nature.com/articles/s41560-026-02144-0\nComments URL: https://news.ycombinator.com/item?id=50314617\nPoints: 136\n# Comments: 45",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "16eeef69f852",
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "url": "https://arxiv.org/abs/2610.39302",
+      "summary": "Article URL: https://arxiv.org/abs/2610.39302\nComments URL: https://news.ycombinator.com/item?id=50325454\nPoints: 124\n# Comments: 66",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7589c4c85d0f",
+      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
+      "url": "https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml",
+      "summary": "Article URL: https://www.semiconductor-today.com/news_items/2026/oct/seoul-291026.shtml\nComments URL: https://news.ycombinator.com/item?id=50327058\nPoints: 153\n# Comments: 43",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "58f622f070cd",
+      "title": "The She-Wolves of Jülich",
+      "url": "https://www.historytoday.com/archive/history-matters/she-wolves-julich",
+      "summary": "Article URL: https://www.historytoday.com/archive/history-matters/she-wolves-julich\nComments URL: https://news.ycombinator.com/item?id=50318129\nPoints: 19\n# Comments: 3",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b9c7ee9f347c",
+      "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
+      "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+      "summary": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+      "source": "TechCrunch",
+      "angle": "Directly relevant to your Nigerian tech ecosystem work.",
+      "score": 1,
+      "date": "2026-11-02",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
     }
   ],
   "deadlines": [
-    {
-      "title": "International Union for the Scientific Study of Population (IUSSP) Early Career Awards 2027",
-      "date": "2026-11-01",
-      "first_seen": "2026-09-08",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/international-union-for-the-scientific-study-of-population-iussp-early-career-awards-2027/",
-      "article_id": "32a94e9a52b6"
-    },
-    {
-      "title": "United Nations University Junior Fellows Internship Programme 2027 – Tokyo, Japan (Funded)",
-      "date": "2026-11-01",
-      "first_seen": "2026-10-16",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/united-nations-university-junior-fellows-internship-programme-2027/",
-      "article_id": "d3d5e5a718e9"
-    },
     {
       "title": "2027/2028 Atlantic Fellows for Equity in Brain Health Program at the Global Brain Health Institute.",
       "date": "2026-11-02",
