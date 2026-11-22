@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-11-21T06:01:04Z",
-    "total_articles": 12935,
-    "total_days": 186
+    "last_updated": "2026-11-22T06:01:00Z",
+    "total_articles": 12970,
+    "total_days": 187
   },
   "articles": [
     {
@@ -185350,6 +185350,508 @@
         "tech"
       ],
       "duplicate_of": null
+    },
+    {
+      "id": "b905d85ad7e7",
+      "title": "African startups don’t need to move to Dubai to attract Gulf money",
+      "url": "https://techcabal.com/2026/11/21/gulf-capital-digital-nomads/",
+      "summary": "The Gulf is attracting startups with venture capital, funding programmes, and access to international markets. Nigerian entrepreneur Samuel Ubido believes African founders are overlooking opportunitie",
+      "source": "TechCabal",
+      "angle": "Nigerian ecosystem pulse — relevant for enterprise consulting and PORA positioning.",
+      "score": 15,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria",
+        "ai",
+        "opportunity"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "33c8e3cac16f",
+      "title": "fix(providers): validate saved connection through the runtime contrac…",
+      "url": "https://github.com/OpenCoworkAI/open-codesign/commit/ceb227453e6eb5c4035cad36f5765a4db73d0318",
+      "summary": "fix(providers): validate saved connection through the runtime contract (#561) Saved-provider connection tests can pass even when generation selects another wire, model, URL, credential, or reasoning d",
+      "source": "OpenCo Commits",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 12,
+      "date": "2026-11-22",
+      "tags": [
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8ba532a92863",
+      "title": "10 oldest listed Companies on the NGX and when they joined",
+      "url": "https://nairametrics.com/2026/11/21/10-oldest-listed-companies-on-the-ngx-and-when-they-joined/",
+      "summary": "Nigeria's capital market has undergone significant changes over the decades, with companies entering the Nigerian Exchange (NGX) to raise capital, expand their businesses and provide investors with op",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 10,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "84d4ed80817e",
+      "title": "Flutterwave CEO, Hamzat seek stronger corporate investment in Lagos digital economy",
+      "url": "https://nairametrics.com/2026/11/21/flutterwave-ceo-hamzat-seek-stronger-corporate-investment-in-lagos-digital-economy/",
+      "summary": "Flutterwave Co-founder and Chief Executive Officer, Gbenga Agboola, has called for predictable government policies, improved regulatory coordination and a business-friendly environment to attract inve",
+      "source": "Nairametrics",
+      "angle": "Nigerian ecosystem pulse — relevant for enterprise consulting and PORA positioning.",
+      "score": 10,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "87c38488cf9f",
+      "title": "The Dataphyte Foundation Infra-watch Media Fellowship 2026 for Nigerian journalists.",
+      "url": "https://www.opportunitiesforafricans.com/the-dataphyte-foundation-infra-watch-media-fellowship-2026-for-nigerian-journalists/",
+      "summary": "Application Deadline: 27 November 2026 Applications are now open for the 2026 Dataphyte Foundation Infra-watch Media Fellowship. Dataphyte Foundation, in partnership with the Center for International ",
+      "source": "Opps4Africans",
+      "angle": "Fresh opportunity for you or PORA Academy — check eligibility.",
+      "score": 10,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria",
+        "opportunity",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "703e294c181f",
+      "title": "fix(desktop): incrementally project durable session chat events (#557)",
+      "url": "https://github.com/OpenCoworkAI/open-codesign/commit/12c7eb59afcf9f1c56190448c8d78ce3e5831eb7",
+      "summary": "fix(desktop): incrementally project durable session chat events (#557) Reuse a bounded pi session-manager cache and incremental row/event/tool indexes instead of reopening, reparsing and rewriting the",
+      "source": "OpenCo Commits",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 10,
+      "date": "2026-11-22",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "429a1d3669c4",
+      "title": "fix(providers): preserve recovery guidance across generation failures…",
+      "url": "https://github.com/OpenCoworkAI/open-codesign/commit/900b023aaf9d5e1d38a30460f5c7f32d13d169ef",
+      "summary": "fix(providers): preserve recovery guidance across generation failures (#560) Provider failures now map to stable recovery categories and localized next actions instead of leaving users with only a tra",
+      "source": "OpenCo Commits",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 10,
+      "date": "2026-11-22",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7bcb1d1046c1",
+      "title": "21% money market fund returns, what Nigerian investors are not seeing",
+      "url": "https://nairametrics.com/2026/11/21/21-money-market-fund-returns-what-nigerian-investors-are-not-seeing/",
+      "summary": "On 13 November, Nairametrics published its October ranking of Nigerian money market funds, using Securities and Exchange Commission data as of 30 October. First Ally Money Market Fund led with a year-",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "db315a73ced3",
+      "title": "Axa XL report gives tips on managing AI risk - Insurance News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSXkwV0ZSaWRSSF83eUVINlhiNy1qZ0xVNGc5Nks2MnJxeTFmTUZTSUFuYmhsQTR3T0Nod3Q5VkZBU0hvOEo0b3dZMjB6ckQtcG9hXy02cXJQMU9lTGU2OEZmeFl4NUdIZGQxazdZbFN0OFpsY2tyVlN6UW1lT3VMeDVwYWFpUjR1bHYwcXRMbVg0N0tFTlE?oc=5",
+      "summary": "Axa XL report gives tips on managing AI risk  Insurance News",
+      "source": "AXA XL & Innovation",
+      "angle": "AXA Group AI win — identify parallel adaptation path for AXA Mansard Nigeria.",
+      "score": 9,
+      "date": "2026-11-22",
+      "tags": [
+        "axa",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a409530db194",
+      "title": "CAF reports $31.2 million profit as revenue rises to $284 million",
+      "url": "https://nairametrics.com/2026/11/21/caf-reports-31-2-million-profit-as-revenue-rises-to-284-million/",
+      "summary": "The Confederation of African Football (CAF) has reported a net profit of $31.2 million and revenue of $284 million for the financial year ended June 2026, marking a return to profitability for Africa'",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "eb38b4b365bb",
+      "title": "Deloitte Nigeria’s 2026 Africa Consulting Services (ACS) Academy for young Nigerian graduates.",
+      "url": "https://www.opportunitiesforafricans.com/deloitte-nigerias-2026-africa-consulting-services-acs-academy-for-young-nigerian-graduates/",
+      "summary": "Application Deadline: November 27, 2026 Applications are now open for the 2026 Deloitte Nigeria’s Africa Consulting Services (ACS) Academy. Through this skill development programme, we aim to equip an",
+      "source": "Opps4Africans",
+      "angle": "General opportunity — review if relevant to your network.",
+      "score": 9,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c165cda27ed8",
+      "title": "GSMA says Africa has 64% mobile internet usage gap despite 92% network coverage",
+      "url": "https://nairametrics.com/2026/11/21/gsma-says-africa-has-64-mobile-internet-usage-gap-despite-92-network-coverage/",
+      "summary": "Africa has a 64% mobile internet usage gap despite mobile broadband networks covering 92% of the continent’s population, as high smartphone costs, limited digital skills and inadequate access to relev",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "c605c2eadf2c",
+      "title": "Niger State-backed NCNI opens N70 billion bond offer at 24%",
+      "url": "https://nairametrics.com/2026/11/21/niger-state-backed-ncni-opens-n70-billion-bond-offer-at-24/",
+      "summary": "North Central Nigeria Investment (NCNI) Plc has opened an offer to raise up to N70 billion through a 10-year fixed-rate private bond sponsored by the Niger State Government.\nThe post Niger State-backe",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "927951c267b8",
+      "title": "UBA records N503 billion pre-tax profit in 9M 2026, down 13% YoY",
+      "url": "https://nairametrics.com/2026/11/21/uba-records-n503-billion-pre-tax-profit-in-9m-2026-down-13-yoy/",
+      "summary": "United Bank for Africa (UBA) Plc recorded a pre-tax profit of N502.98 billion for the nine months ended September 30, 2026, representing a 13.1% decline from N578.60 billion reported in the correspond",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 9,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ecfbf47949e7",
+      "title": "Best performing Nigerian stocks for the week ended November 20, 2026",
+      "url": "https://nairametrics.com/2026/11/21/best-performing-nigerian-stocks-for-the-week-ended-november-20-2026/",
+      "summary": "The Nigerian equities market closed lower in four of five sessions last week as selling pressure in major heavy weight stocks including Dangote Cement (-10%), Aradel Holdings (-10%), Zenith Bank (-4.7",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "4978a6cadbbc",
+      "title": "Binance secures $6.5 billion court order to recover assets stolen in October hack",
+      "url": "https://nairametrics.com/2026/11/21/binance-secures-6-5-billion-court-order-to-recover-assets-stolen-in-october-hack/",
+      "summary": "Crypto exchange, Binance, has secured a $6.5 billion worldwide freezing order from the Abu Dhabi Global Market (ADGM) Courts as part of efforts to recover cryptocurrency assets stolen during a securit",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ebc98bbbc1c0",
+      "title": "Trump says reported FBI database hack is ‘not good’",
+      "url": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
+      "summary": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+      "source": "TechCrunch",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-11-22",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "776f117b71af",
+      "title": "Dangote, Otedola, four others lose N2.19 trillion in equity holdings",
+      "url": "https://nairametrics.com/2026/11/21/dangote-otedola-four-others-lose-n2-19-trillion-in-equity-holdings/",
+      "summary": "The market value of listed equities linked to Aliko Dangote, Femi Otedola and four other prominent Nigerian investors declined by an estimated N2.19 trillion between November 16 and November 20, 2026.",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2c63bd18c41d",
+      "title": "FG partners US firm to establish irrigation equipment factory in Nigeria",
+      "url": "https://nairametrics.com/2026/11/22/fg-partners-us-firm-to-establish-irrigation-equipment-factory-in-nigeria/",
+      "summary": "The Federal Government has partnered with US-based Valmont Industries, Inc. to establish an irrigation equipment manufacturing plant in Nigeria as part of efforts to domesticate mechanised irrigation ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "fa6ed8c79101",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "source": "TechCrunch",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 6,
+      "date": "2026-11-22",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8f99fd149ad1",
+      "title": "Lagos delivers 294 homes in Ogombo, Abraham Adesanya, targets 2,000 more",
+      "url": "https://nairametrics.com/2026/11/21/lagos-delivers-294-homes-in-ogombo-abraham-adesanya-targets-2000-more/",
+      "summary": "The Lagos State Government has delivered 294 housing units across two developments in Ogombo and Abraham Adesanya, while targeting more than 2,000 additional homes across the state before the end of G",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "889c5e660513",
+      "title": "NAFDAC destroys N100 billion worth of fake, expired products in Ogun State",
+      "url": "https://nairametrics.com/2026/11/21/nafdac-destroys-n100-billion-worth-of-fake-expired-products-in-ogun-state/",
+      "summary": "The National Agency for Food and Drug Administration and Control (NAFDAC) has destroyed fake, banned, expired, substandard and other violative products worth an estimated N100 billion in Ogun State.\nT",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3747d1d6c94c",
+      "title": "NISO blames line trips for Friday’s power disruption, rules out grid collapse",
+      "url": "https://nairametrics.com/2026/11/21/niso-blames-line-trips-for-fridays-power-disruption-rules-out-grid-collapse/",
+      "summary": "The Nigerian Independent System Operator (NISO) has attributed Friday’s electricity disruption in parts of the country to the tripping of multiple transmission lines, ruling out a national grid collap",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "8232be636740",
+      "title": "Naira falls 2.50%, touches N1,400 despite CBN’s intervention",
+      "url": "https://nairametrics.com/2026/11/21/naira-falls-2-50-touches-n1400-despite-cbns-intervention/",
+      "summary": "The naira depreciated by 2.50% against the United States dollar on Friday, November 20, 2026, touching N1,400/$ despite CBN’s sale of $1.30 billion to meet interbank foreign exchange demand that incre",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0790d5c41823",
+      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-11-22",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0741135ed4c2",
+      "title": "Why Nigerian banks must partner with stablecoin infrastructure providers – Clea CEO",
+      "url": "https://nairametrics.com/2026/11/21/why-nigerian-banks-must-partner-with-stablecoin-infrastructure-providers-clea-ceo/",
+      "summary": "In this interview with Nairametrics, Sheriff Adedokun, Co-Founder and CEO of Clea, discusses the challenges and opportunities in the industry and makes the case for banks to adopt digital asset infras",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "2301e38294c9",
+      "title": "fix(providers): reject Responses streams without terminal completion …",
+      "url": "https://github.com/OpenCoworkAI/open-codesign/commit/246616fe94cbcad6eee8ad9ec9c1e66719bfe0d8",
+      "summary": "fix(providers): reject Responses streams without terminal completion (#565) An OpenAI Responses SSE stream that ends after text deltas but before its terminal event currently returns partial text as a",
+      "source": "OpenCo Commits",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-11-22",
+      "tags": [
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "dc7fff85d37e",
+      "title": "FG begins construction of $70 million privately funded passport manufacturing centre in Abuja",
+      "url": "https://nairametrics.com/2026/11/21/fg-begins-construction-of-70-million-privately-funded-passport-manufacturing-centre-in-abuja/",
+      "summary": "The Federal Government has commenced construction of a $70 million National Passport Manufacturing Centre in Abuja, with the project entirely funded by private capital and no financial commitment from",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 4,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "290a8b67e3c1",
+      "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
+      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
+      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+      "source": "TechCrunch",
+      "angle": "Directly relevant to your Nigerian tech ecosystem work.",
+      "score": 4,
+      "date": "2026-11-22",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e9d1fde20a8b",
+      "title": "The Africa–EU Space Partnership Programme (AESPP) Business Innovation Programme for African-registered EO businesses (€20,000 in milestone-based funding)",
+      "url": "https://www.opportunitiesforafricans.com/the-africaeu-space-partnership-programme-aespp-business-innovation-programme/",
+      "summary": "Application Deadline: 4 January 2027 Applications are now open for the Africa–EU Space Partnership Programme (AESPP) Business Innovation Programme. The Africa–EU Space Partnership Programme (AESPP) is",
+      "source": "Opps4Africans",
+      "angle": "General opportunity — review if relevant to your network.",
+      "score": 4,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria",
+        "opportunity",
+        "deadline"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "5a415ce07b03",
+      "title": "Kenya begins crude oil drilling ahead of December 1 first oil target",
+      "url": "https://nairametrics.com/2026/11/21/kenya-begins-crude-oil-drilling-ahead-of-december-1-first-oil-target/",
+      "summary": "Kenya has commenced crude oil drilling in the South Lokichar Basin, marking a major step towards commercial production, which is targeted to begin on December 1, 2026.\nThe post Kenya begins crude oil ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "acdadd9c8333",
+      "title": "Kenya’s foreign reserves fall $656 million as import cover drops to 5.6 months",
+      "url": "https://nairametrics.com/2026/11/21/kenyas-foreign-reserves-fall-656-million-as-import-cover-drops-to-5-6-months/",
+      "summary": "Kenya’s foreign-exchange reserves fell by $656 million in the week to November 19, 2026, reducing the country’s import cover from 5.9 months to 5.6 months (about five months and 18 days), according to",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "abd5da5ecae1",
+      "title": "YouTube is changing the business of Nollywood, and what it costs filmmakers to produce movies",
+      "url": "https://technext24.com/social-tech/youtube-changing-business-of-nollywood/",
+      "summary": "Open YouTube on a Friday evening, and there is a good chance that a Nigerian filmmaker has released…",
+      "source": "Technext",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a588a0c7dd0d",
+      "title": "fix(keychain): persist Linux secure password-store selection (#553)",
+      "url": "https://github.com/OpenCoworkAI/open-codesign/commit/3f2c5d364c6557c32afb6c585b1bf3cdfb012a1d",
+      "summary": "",
+      "source": "OpenCo Commits",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-22",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "439f0c65ab07",
+      "title": "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​The ITU Secretary-General’s Youth Advisory Board​​​ cohort 2 for young leaders worldwide.",
+      "url": "https://www.opportunitiesforafricans.com/the-itu-secretary-generals-youth-advisory-board-cohort-2/",
+      "summary": "Application Deadline:  15 January 2027.  Applications are now open for the next cohort of the ITU Secretary-General’s Youth Advisory Board!   The ITU Secretary-General’s Youth Advisory Board (YAB) bri",
+      "source": "Opps4Africans",
+      "angle": "General opportunity — review if relevant to your network.",
+      "score": 3,
+      "date": "2026-11-22",
+      "tags": [
+        "nigeria",
+        "deadline"
+      ],
+      "duplicate_of": null
     }
   ],
   "deadlines": [
@@ -185464,6 +185966,22 @@
       "source": "Opps4Africans",
       "url": "https://www.opportunitiesforafricans.com/businessday-young-economists-writing-challenge-2027/",
       "article_id": "6e73303b90d1"
+    },
+    {
+      "title": "The Dataphyte Foundation Infra-watch Media Fellowship 2026 for Nigerian journalists.",
+      "date": "2026-11-27",
+      "first_seen": "2026-11-22",
+      "source": "Opps4Africans",
+      "url": "https://www.opportunitiesforafricans.com/the-dataphyte-foundation-infra-watch-media-fellowship-2026-for-nigerian-journalists/",
+      "article_id": "87c38488cf9f"
+    },
+    {
+      "title": "Deloitte Nigeria’s 2026 Africa Consulting Services (ACS) Academy for young Nigerian graduates.",
+      "date": "2026-11-27",
+      "first_seen": "2026-11-22",
+      "source": "Opps4Africans",
+      "url": "https://www.opportunitiesforafricans.com/deloitte-nigerias-2026-africa-consulting-services-acs-academy-for-young-nigerian-graduates/",
+      "article_id": "eb38b4b365bb"
     },
     {
       "title": "The JournalismAI Strategy Lab 2026 for African journalists and media professionals",
@@ -185946,6 +186464,14 @@
       "article_id": "2ff286c71d86"
     },
     {
+      "title": "The Africa–EU Space Partnership Programme (AESPP) Business Innovation Programme for African-registered EO businesses (€20,000 in milestone-based funding)",
+      "date": "2027-01-04",
+      "first_seen": "2026-11-22",
+      "source": "Opps4Africans",
+      "url": "https://www.opportunitiesforafricans.com/the-africaeu-space-partnership-programme-aespp-business-innovation-programme/",
+      "article_id": "e9d1fde20a8b"
+    },
+    {
       "title": "NED Reagan-Fascell Democracy Fellows Program 2027/2028 for democracy activists, journalists, civil society leaders & scholars Worldwide (Fully Funded to Washington DC, USA).",
       "date": "2027-01-05",
       "first_seen": "2026-11-07",
@@ -186064,6 +186590,14 @@
       "source": "Opps4Africans",
       "url": "https://www.opportunitiesforafricans.com/the-cambridge-africa-climate-collaborative-research-fund-2026-2027-for-african-researchers/",
       "article_id": "e0a61a8014c7"
+    },
+    {
+      "title": "​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​The ITU Secretary-General’s Youth Advisory Board​​​ cohort 2 for young leaders worldwide.",
+      "date": "2027-01-15",
+      "first_seen": "2026-11-22",
+      "source": "Opps4Africans",
+      "url": "https://www.opportunitiesforafricans.com/the-itu-secretary-generals-youth-advisory-board-cohort-2/",
+      "article_id": "439f0c65ab07"
     },
     {
       "title": "The Center for Effective Global Action (CEGA) 2027/2028 Visiting Fellowship for African researchers.",
