@@ -1,9 +1,9 @@
 {
   "meta": {
     "version": 1,
-    "last_updated": "2026-11-22T06:01:00Z",
-    "total_articles": 12970,
-    "total_days": 187
+    "last_updated": "2026-11-23T06:01:33Z",
+    "total_articles": 13009,
+    "total_days": 188
   },
   "articles": [
     {
@@ -185852,33 +185852,563 @@
         "deadline"
       ],
       "duplicate_of": null
+    },
+    {
+      "id": "a9ebbbc18b15",
+      "title": "NDLEA arrests South African golfer, Kenyan chef over 50.4kg cannabis shipment in Lagos",
+      "url": "https://nairametrics.com/2026/11/22/ndlea-arrests-south-african-golfer-kenyan-chef-over-50-4kg-cannabis-shipment-in-lagos/",
+      "summary": "The African football governing body has moved from a debt position exceeding $100 million five years ago to positive reserves of $14.4 million, while increasing funding for clubs, national association",
+      "source": "Nairametrics",
+      "angle": "Nigerian ecosystem pulse — relevant for enterprise consulting and PORA positioning.",
+      "score": 13,
+      "date": "2026-11-23",
+      "tags": [
+        "nigeria",
+        "opportunity"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ad7abd27a5e0",
+      "title": "Hamzat, Gbenga Agboola seek stronger corporate investment in Lagos digital economy",
+      "url": "https://nairametrics.com/2026/11/21/hamzat-gbenga-agboola-seek-stronger-corporate-investment-in-lagos-digital-economy/",
+      "summary": "Flutterwave Co-founder and Chief Executive Officer, Gbenga Agboola, has called for predictable government policies, improved regulatory coordination and a business-friendly environment to attract inve",
+      "source": "Nairametrics",
+      "angle": "Nigerian ecosystem pulse — relevant for enterprise consulting and PORA positioning.",
+      "score": 10,
+      "date": "2026-11-23",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "726684e7701d",
+      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+      "url": "https://0rwx.com/",
+      "summary": "Article URL: https://0rwx.com/\nComments URL: https://news.ycombinator.com/item?id=50605445\nPoints: 34\n# Comments: 6",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 9,
+      "date": "2026-11-23",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b8570e070aad",
+      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+      "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3\nComments URL: https://news.ycombinator.com/item?id=50605045\nPoints: 199\n# Comments: 154",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 9,
+      "date": "2026-11-23",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "abcb8935469f",
+      "title": "Localcode, open source agentic coding on your Mac with one command",
+      "url": "https://github.com/mjwsolo/localcode",
+      "summary": "Article URL: https://github.com/mjwsolo/localcode\nComments URL: https://news.ycombinator.com/item?id=50604540\nPoints: 46\n# Comments: 13",
+      "source": "Hacker News",
+      "angle": "Feed into your PhD research or integrate into self-hosted AI infra.",
+      "score": 8,
+      "date": "2026-11-23",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d16b84870a0d",
+      "title": "Tinubu commits N450 billion to agriculture, approves N1.5 trillion bank recapitalisation",
+      "url": "https://nairametrics.com/2026/11/22/tinubu-commits-n450-billion-to-agriculture-approves-n1-5-trillion-bank-recapitalisation/",
+      "summary": "The President Bola Tinubu administration has committed N450 billion to agricultural financing programmes aimed at boosting food security, increasing local production and supporting smallholder farmers",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 8,
+      "date": "2026-11-23",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "e4a303df62dd",
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 7,
+      "date": "2026-11-23",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "02b5302ef156",
+      "title": "Seyi Ebenezer: Meet the banker building a global payments business from Nigeria",
+      "url": "https://nairametrics.com/2026/11/22/seyi-ebenezer-meet-the-banker-building-a-global-payments-business-from-nigeria/",
+      "summary": "For 15 years, Seyi Ebenezer built a career spanning accounting and banking, helping businesses raise capital, structure debt and finance expansion.\nThe post Seyi Ebenezer: Meet the banker building a g",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 7,
+      "date": "2026-11-23",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "6a838195cf75",
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "summary": "Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth\nComments URL: https://news.ycombinator.com/item?id=50603845\nPoints: 372\n# Comments: 154",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-11-23",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "7c02f284273f",
+      "title": "Dangote, Afreximbank partner Gento on proposed Sierra Leone seaport",
+      "url": "https://nairametrics.com/2026/11/22/dangote-afreximbank-partner-gento-on-proposed-sierra-leone-seaport/",
+      "summary": "Dangote Group and the African Export-Import Bank (Afreximbank) have signed a Memorandum of Understanding (MoU) with Sierra Leone's Gento Group to advance plans for a proposed deep-sea port at Banana I",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-23",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "f2d9cd605b7c",
+      "title": "FCMB’s non-banking subsidiaries post N27.2 billion profit in 9M 2026, led by Credit Direct",
+      "url": "https://nairametrics.com/2026/11/22/fcmbs-non-banking-subsidiaries-post-n27-2-billion-profit-in-9m-2026-led-by-credit-direct/",
+      "summary": "FCMB Group Plc's five separately reported non-banking subsidiaries generated a combined profit after tax of N27.23 billion in the nine months ended September 30, 2026, with consumer finance subsidiary",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-23",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "14bcbad25aa9",
+      "title": "Food prices across five Lagos markets in November 2026: Where staples are cheaper and where shoppers pay more",
+      "url": "https://nairametrics.com/2026/11/22/food-prices-across-five-lagos-markets-in-november-2026-where-staples-are-cheaper-and-where-shoppers-pay-more/",
+      "summary": "Food prices across five major Lagos markets showed considerable variations in November 2026, with the cost of several everyday staples differing significantly depending on where consumers shop.\nThe po",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-23",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "aa0d05800afb",
+      "title": "Graduate unemployment driven by poor job creation, not just skills deficiencies – CPPE",
+      "url": "https://nairametrics.com/2026/11/22/graduate-unemployment-driven-by-poor-job-creation-not-just-skills-deficiencies-cppe/",
+      "summary": "The Centre for the Promotion of Private Enterprise (CPPE) has said Nigeria’s graduate employment crisis is driven not only by skills deficiencies but also by inadequate job creation, weak labour-marke",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-23",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3362148e2f35",
+      "title": "Multi-Trex pre-tax loss rises 79% to N1.03 billion in FY2026 despite revenue surge",
+      "url": "https://nairametrics.com/2026/11/22/multi-trex-pre-tax-loss-rises-79-to-n1-03-billion-in-fy2026-despite-revenue-surge/",
+      "summary": "Multi-Trex Integrated Foods Plc reported a pre-tax loss of N1.03 billion for the financial year ended April 30, 2026, compared with N577.97 million in the previous year, as cost of sales surged to N3.",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-23",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "a1501f4b4e63",
+      "title": "NAFDAC denies banning Camosunate antimalarial drug in Nigeria",
+      "url": "https://nairametrics.com/2026/11/22/nafdac-denies-banning-camosunate-antimalarial-drug-in-nigeria/",
+      "summary": "The National Agency for Food and Drug Administration and Control (NAFDAC) has dismissed claims circulating on social media that Camosunate, an antimalarial drug, has been banned in Nigeria.\nThe post N",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-23",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b51484587313",
+      "title": "NAFDAC destroys N22.73 billion worth of unwholesome products in eight months",
+      "url": "https://nairametrics.com/2026/11/22/nafdac-destroys-n22-73-billion-worth-of-unwholesome-products-in-eight-months/",
+      "summary": "The National Agency for Food and Drug Administration and Control (NAFDAC) says it destroyed unwholesome products valued at approximately N22.73 billion in 22 destruction exercises between January and ",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-23",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "401e590073ea",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "summary": "Article URL: https://openai.com/index/perplexity-and-intelligence/\nComments URL: https://news.ycombinator.com/item?id=50601525\nPoints: 542\n# Comments: 366",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-11-23",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "225f05374c27",
+      "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+      "url": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+      "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 6,
+      "date": "2026-11-23",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "391c58bf167c",
+      "title": "Three Nigeria Customs officers secure WCO appointments, accreditation",
+      "url": "https://nairametrics.com/2026/11/22/three-nigeria-customs-officers-secure-wco-appointments-accreditation/",
+      "summary": "Three officers of the Nigeria Customs Service (NCS) have secured appointments and professional accreditation with the World Customs Organization (WCO).\nThe post Three Nigeria Customs officers secure W",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-23",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "3fa1e253fcc1",
+      "title": "Why data centers are at the center of the Big Tech backlash",
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "source": "TechCrunch",
+      "angle": "Apply to Node.js analytics platforms or data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-23",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "30f9e0d683f7",
+      "title": "👨🏿‍🚀TechCabal Daily – Dangote’s encore",
+      "url": "https://techcabal.com/2026/11/23/techcabal-daily-dangotes-encore/",
+      "summary": "In today's edition: Dangote weighs refinery share sale || Baobab raises $50m || Kenyan banks seek more time || South Africa plans $5.7m AI fund",
+      "source": "TechCabal",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 6,
+      "date": "2026-11-23",
+      "tags": [
+        "nigeria",
+        "ai"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "069192dff5bd",
+      "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
+      "url": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/",
+      "summary": "Article URL: https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/\nComments URL: https://news.ycombinator.com/",
+      "source": "Hacker News",
+      "angle": "Directly relevant to your Nigerian tech ecosystem work.",
+      "score": 4,
+      "date": "2026-11-23",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "44f52221e764",
+      "title": "GL.iNet Security Notice 2026-11-20",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "summary": "Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20\nComments URL: https://news.ycombinator.com/item?id=50604988\nPoints: 143\n# Comments: 69",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-11-23",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "32ee55f1dfe9",
+      "title": "The Next Wave: What Africa’s instant payment systems keep getting wrong on the way to maturity",
+      "url": "https://techcabal.com/2026/11/22/africa-instant-payment-systems-maturity/",
+      "summary": "Only one of Africa’s 39 instant payment systems earned AfricaNenda’s highest rating. Kenya’s PesaLink shows why the next step is so hard. The banks that own the network can decide what they charge for",
+      "source": "TechCabal",
+      "angle": "Nigerian ecosystem pulse — relevant for enterprise consulting and PORA positioning.",
+      "score": 4,
+      "date": "2026-11-23",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ff28fd5f7bc9",
+      "title": "Treemap of the Riemann Hypothesis Lean Proof",
+      "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+      "summary": "Article URL: https://pengowray.github.io/riemann-zeta-proof-visualizer/\nComments URL: https://news.ycombinator.com/item?id=50606499\nPoints: 25\n# Comments: 4",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-11-23",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "9fc3e2abf549",
+      "title": "What we learned operating auth for 1k APIs",
+      "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+      "summary": "Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/\nComments URL: https://news.ycombinator.com/item?id=50606072\nPoints: 28\n# Comments: 4",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-11-23",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "996c796c2840",
+      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "summary": "Article URL: https://github.com/AFK-surf/xnulinux\nComments URL: https://news.ycombinator.com/item?id=50607261\nPoints: 97\n# Comments: 33",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 4,
+      "date": "2026-11-23",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "ceae7b20e4e5",
+      "title": "A Partial Evaluator for C",
+      "url": "https://phoenix.labri.fr/software/tempo/",
+      "summary": "Article URL: https://phoenix.labri.fr/software/tempo/\nComments URL: https://news.ycombinator.com/item?id=50607627\nPoints: 7\n# Comments: 0",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-23",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "294bfd4aed43",
+      "title": "A miniature San Francisco with live buses, planes and boats",
+      "url": "https://smallsf.com/",
+      "summary": "Article URL: https://smallsf.com/\nComments URL: https://news.ycombinator.com/item?id=50603589\nPoints: 211\n# Comments: 82",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-23",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "99294d5c8eaa",
+      "title": "Assume People Are Not Interested in Your Blog Post",
+      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+      "summary": "Article URL: https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/\nComments URL: https://news.ycombinator.com/item?id=50603143\nPoints: 131\n# Comments: 63",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-23",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b053ea3d280f",
+      "title": "FG breaches full-year domestic borrowing target by September as net borrowing hits N20.39 trillion",
+      "url": "https://nairametrics.com/2026/11/22/fg-breaches-full-year-domestic-borrowing-target-by-september-as-net-borrowing-hits-n20-39-trillion/",
+      "summary": "The Federal Government exceeded its full-year domestic borrowing target by September 2026, with net borrowing reaching N20.39 trillion against a budgeted N18.4 trillion.\nThe post FG breaches full-year",
+      "source": "Nairametrics",
+      "angle": "Track Nigerian tech landscape — informs your data transformation across 7 subsidiaries.",
+      "score": 3,
+      "date": "2026-11-23",
+      "tags": [
+        "nigeria"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d8aeb447b2f0",
+      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
+      "url": "https://spelunkr.tv",
+      "summary": "Article URL: https://spelunkr.tv\nComments URL: https://news.ycombinator.com/item?id=50606192\nPoints: 322\n# Comments: 51",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-23",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "0d9a6ea14b5b",
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
+      "summary": "Article URL: https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/\nComments URL: https://news.ycombinator.com/item?id=50600622\nPoints: 143\n# Comments: 48",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-23",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "cde932482e84",
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "url": "https://nyx.net/",
+      "summary": "Article URL: https://nyx.net/\nComments URL: https://news.ycombinator.com/item?id=50603465\nPoints: 119\n# Comments: 17",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-23",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "bc32fa456522",
+      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "source": "TechCrunch",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-23",
+      "tags": [
+        "ai",
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "d7f37db8d5a9",
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "summary": "Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife\nComments URL: https://news.ycombinator.com/item?id=50602843\nPoints: 431\n# Comments: 215",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-23",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "b25da60b6057",
+      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
+      "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+      "summary": "Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf\nComments URL: https://news.ycombinator.com/item?id=50604472\nPoints: 98\n# Comments: 17",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-23",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "788f59fb156b",
+      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
+      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+      "summary": "Article URL: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/\nComments URL: https://news.ycombinator.com/item?id=50604123\nPoints: 88\n# Comments: 29",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-23",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
+    },
+    {
+      "id": "254754cdb885",
+      "title": "What Happened to Silicon Valley?",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "summary": "Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/\nComments URL: https://news.ycombinator.com/item?id=50602947\nPoints: 554\n# Comments: 297",
+      "source": "Hacker News",
+      "angle": "Keep an eye on this for your automation or teaching stack.",
+      "score": 3,
+      "date": "2026-11-23",
+      "tags": [
+        "tech"
+      ],
+      "duplicate_of": null
     }
   ],
   "deadlines": [
-    {
-      "title": "The Internet Society Fellowship Program 2026/2027 for experienced Internet changemakers and emerging leaders.",
-      "date": "2026-11-22",
-      "first_seen": "2026-09-25",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/the-internet-society-fellowship-program-2026-2027/",
-      "article_id": "622dba6c6b3a"
-    },
-    {
-      "title": "The Ye! Youth Ecopreneurs Programme (YECO) 2026/2027 for young Green Entrepreneurs ($100,000 prize & All-Expenses-Paid Trip to International Conference)",
-      "date": "2026-11-22",
-      "first_seen": "2026-10-21",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/the-ye-youth-ecopreneurs-programme-yeco-2026-2027/",
-      "article_id": "8a90e2ea9d90"
-    },
-    {
-      "title": "Samsung Software Development Programme 2027 for young South African graduates.",
-      "date": "2026-11-22",
-      "first_seen": "2026-10-31",
-      "source": "Opps4Africans",
-      "url": "https://www.opportunitiesforafricans.com/samsung-software-development-programme-2027/",
-      "article_id": "21734762652a"
-    },
     {
       "title": "TWAS Visiting Expert Programme 2026 for scientists in developing countries.",
       "date": "2026-11-23",
